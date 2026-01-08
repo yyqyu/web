@@ -1,10 +1,10 @@
-测速日志 2026-01-08 14:15:28
+测速日志 2026-01-08 14:47:35
 速度阈值: 50KB/s
-[2026-01-08 14:16:03] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601082200144ed3d73886fa4ea395bf4138e21bf571&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260108220014&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260108220014&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=71f0ebf5624968538b81aebc8b164208&ddCalcu=8701e2f04086e01bbf85c6b2e4a91688b583
-[2026-01-08 14:16:03] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601082200144ed3d73886fa4ea395bf4138e21bf571&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260108220014&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260108220014&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=71f0ebf5624968538b81aebc8b164208&ddCalcu=8701e2f04086e01bbf85c6b2e4a91688b583
-   速度: 638.67KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 2.79s
-[2026-01-08 14:16:03] ❌ 测速失败: http://xxxxx.m3u8
+[2026-01-08 14:48:17] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601082200144ed3d73886fa4ea395bf4138e21bf571&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260108220014&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260108220014&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=71f0ebf5624968538b81aebc8b164208&ddCalcu=8701e2f04086e01bbf85c6b2e4a91688b583
+[2026-01-08 14:48:17] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601082200144ed3d73886fa4ea395bf4138e21bf571&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260108220014&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260108220014&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=71f0ebf5624968538b81aebc8b164208&ddCalcu=8701e2f04086e01bbf85c6b2e4a91688b583
+   速度: 638.67KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 7.05s
+[2026-01-08 14:48:17] ❌ 测速失败: http://xxxxx.m3u8
    错误: HTTPConnectionPool(host='xxxxx.m3u8', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='xxxxx.m3u8', port=80): Failed to resolve 'xxxxx.m3u8' ([Errno -2] Name or service not known)")) | 域名: xxxxx.m3u8:80
-[2026-01-08 14:16:04] ⚠️ 仅读取 6.9KB 数据: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-[2026-01-08 14:16:04] ✅ 测速成功: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-   速度: 6927.73KB/s > 50KB/s | 数据量: 6.9KB | 总耗时: 0.55s
+[2026-01-08 14:48:18] ⚠️ 仅读取 6.9KB 数据: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+[2026-01-08 14:48:18] ✅ 测速成功: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+   速度: 6927.73KB/s > 50KB/s | 数据量: 6.9KB | 总耗时: 0.84s
