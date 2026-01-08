@@ -1,48 +1,10 @@
-测速日志 2026-01-08 15:05:58
+测速日志 2026-01-08 16:21:28
 速度阈值: 50KB/s
-[2026-01-08 15:06:32] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601082200144ed3d73886fa4ea395bf4138e21bf571&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260108220014&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260108220014&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=71f0ebf5624968538b81aebc8b164208&ddCalcu=8701e2f04086e01bbf85c6b2e4a91688b583
-[2026-01-08 15:06:32] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601082200144ed3d73886fa4ea395bf4138e21bf571&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260108220014&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260108220014&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=71f0ebf5624968538b81aebc8b164208&ddCalcu=8701e2f04086e01bbf85c6b2e4a91688b583
-   速度: 638.67KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 2.33s
-[2026-01-08 15:06:32] ❌ 测速失败: http://xxxxx.m3u8
-   错误: HTTPConnectionPool(host='xxxxx.m3u8', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='xxxxx.m3u8', port=80): Failed to resolve 'xxxxx.m3u8' ([Errno -2] Name or service not known)")) | 域名: xxxxx.m3u8:80
-[2026-01-08 15:06:33] ⚠️ 仅读取 6.9KB 数据: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-[2026-01-08 15:06:33] ✅ 测速成功: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-   速度: 6927.73KB/s > 50KB/s | 数据量: 6.9KB | 总耗时: 0.60s
-[2026-01-08 15:06:36] ❌ 测速失败: http://143.14.105.196:20003/live/fct4k/stream.m3u8
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20003): Max retries exceeded with url: /live/fct4k/stream.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20003) at 0x7fd9b4bd4400>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20003
-[2026-01-08 15:06:39] ❌ 测速失败: http://143.14.105.196:20001/live/cctv13/stream.m3u8
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20001): Max retries exceeded with url: /live/cctv13/stream.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20001) at 0x7fd9b4bd4610>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20001
-[2026-01-08 15:06:42] ❌ 测速失败: http://143.14.105.196:20000/live/hoy/stream.m3u8
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20000): Max retries exceeded with url: /live/hoy/stream.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20000) at 0x7fd9b4bd4760>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20000
-[2026-01-08 15:06:45] ❌ 测速失败: http://143.14.105.196:20007/live/gdzj/stream.m3u8
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20007): Max retries exceeded with url: /live/gdzj/stream.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20007) at 0x7fd9b4c03e80>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20007
-[2026-01-08 15:06:48] ❌ 测速失败: http://143.14.105.196:20009/163189/lhdy?163189
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20009): Max retries exceeded with url: /163189/lhdy?163189 (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20009) at 0x7fd9b4c5a940>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20009
-[2026-01-08 15:06:51] ❌ 测速失败: http://143.14.105.196:20006/stream/live/jgbdx/?163189
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20006): Max retries exceeded with url: /stream/live/jgbdx/?163189 (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20006) at 0x7fd9b4bec730>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20006
-[2026-01-08 15:06:54] ❌ 测速失败: http://143.14.105.196:20002/smt3.2.1.php?id=jade_twn
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20002): Max retries exceeded with url: /smt3.2.1.php?id=jade_twn (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20002) at 0x7fd9b4b8e100>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20002
-[2026-01-08 15:06:57] ❌ 测速失败: http://143.14.105.196:20004/live/hlfct/stream.m3u8
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20004): Max retries exceeded with url: /live/hlfct/stream.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20004) at 0x7fd9b4b8ea90>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20004
-[2026-01-08 15:07:00] ❌ 测速失败: http://143.14.105.196:20010/o12/hls/fct/playlist.m3u8
-   错误: HTTPConnectionPool(host='143.14.105.196', port=20010): Max retries exceeded with url: /o12/hls/fct/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='143.14.105.196', port=20010) at 0x7fd9b4c03d60>, 'Connection to 143.14.105.196 timed out. (connect timeout=3.05)')) | 域名: 143.14.105.196:20010
-[2026-01-08 15:07:02] ✅ 测速成功: http://pull.cly.alivecdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
-   速度: 402.81KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.71s
-[2026-01-08 15:07:04] ⚠️ 仅读取 0.3KB 数据: http://hls-pull-lumawnew.speedws.com/live/365d15bad7d95fba0ca015fccc1bb588.m3u8
-[2026-01-08 15:07:04] ✅ 测速成功: http://hls-pull-lumawnew.speedws.com/live/365d15bad7d95fba0ca015fccc1bb588.m3u8
-   速度: 268.55KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.11s
-[2026-01-08 15:07:08] ⚠️ 仅读取 0.0KB 数据: https://3.edge.101.qzz.io/o12.php?id=fct
-[2026-01-08 15:07:08] ⚠️ 速度不足: https://3.edge.101.qzz.io/o12.php?id=fct
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 3.87s
-[2026-01-08 15:07:09] ⚠️ 仅读取 0.0KB 数据: https://6.edge.101.qzz.io/163189/fct
-[2026-01-08 15:07:09] ⚠️ 速度不足: https://6.edge.101.qzz.io/163189/fct
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.60s
-[2026-01-08 15:07:14] ⚠️ 仅读取 0.0KB 数据: https://2.edge.101.qzz.io/163189/gdzj
-[2026-01-08 15:07:14] ⚠️ 速度不足: https://2.edge.101.qzz.io/163189/gdzj
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 5.08s
-[2026-01-08 15:07:14] ⚠️ 仅读取 0.0KB 数据: https://5.edge.101.qzz.io/smt3.2.1.php?id=jade_twn
-[2026-01-08 15:07:14] ⚠️ 速度不足: https://5.edge.101.qzz.io/smt3.2.1.php?id=jade_twn
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.15s
-[2026-01-08 15:07:15] ⚠️ 仅读取 0.3KB 数据: http://fast.163189.xyz/163189/fct
-[2026-01-08 15:07:15] ✅ 测速成功: http://fast.163189.xyz/163189/fct
-   速度: 268.55KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.42s
+[2026-01-08 16:21:57] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601090000133a0e423148574223bb30aabc0d4d27cb&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260109000013&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260109000013&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=72e0371191ba89238a208aecc8b02099&ddCalcu=9792e0e0208030b781c1c9e1ab8a0829a283
+[2026-01-08 16:21:57] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601090000133a0e423148574223bb30aabc0d4d27cb&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260109000013&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260109000013&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=72e0371191ba89238a208aecc8b02099&ddCalcu=9792e0e0208030b781c1c9e1ab8a0829a283
+   速度: 638.67KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 1.75s
+[2026-01-08 16:21:57] ❌ 测速失败: http://xxxxx.m3u8更新时间,
+   错误: Failed to parse: http://xxxxx.m3u8更新时间, | 域名: xxxxx.m3u8更新时间,:80
+[2026-01-08 16:21:58] ⚠️ 仅读取 6.9KB 数据: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+[2026-01-08 16:21:58] ✅ 测速成功: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+   速度: 6927.73KB/s > 50KB/s | 数据量: 6.9KB | 总耗时: 0.42s
