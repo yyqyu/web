@@ -42,8 +42,8 @@ jobs:
         # CN
         cd htpc/iptv/
         rm -f ./tmp/cn.m3u && wget https://airinf.pages.dev/static/iptv/0451cm.m3u -O ./tmp/cn.m3u
-        rm -f ./tmp/021.m3u && wget https://airinf.pages.dev/static/iptv/021cm.m3u -O ./tmp/021.m3u
-        cat ./tmp/021.m3u >> ./tmp/cn.m3u
+        #rm -f ./tmp/021.m3u && wget https://airinf.pages.dev/static/iptv/021cm.m3u -O ./tmp/021.m3u
+        #cat ./tmp/021.m3u >> ./tmp/cn.m3u
         #rm -f ./tmp/fofa.txt && wget https://met.pages.dev/htpc/iptv/fofa/IPTV.txt -O ./tmp/fofa.txt
         cat ./tmp/fofa/fofa.txt >> ./tmp/cn.m3u
         #rm -f ./tmp/migu.m3u && wget https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt -O ./tmp/migu.m3u
