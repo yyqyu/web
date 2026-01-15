@@ -1,13 +1,13 @@
-测速日志 2026-01-15 06:55:23
+测速日志 2026-01-15 07:03:25
 速度阈值: 50KB/s
-[2026-01-15 06:55:47] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601151400190811164792c0421fb26f62fb0e1b9ddf&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260115140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260115140019&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f3b06f23333500fe040be70d79a13cee&ddCalcu=efe3ecb1308160af9273d30373e5b0004f0e
-[2026-01-15 06:55:47] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601151400190811164792c0421fb26f62fb0e1b9ddf&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260115140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260115140019&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f3b06f23333500fe040be70d79a13cee&ddCalcu=efe3ecb1308160af9273d30373e5b0004f0e
-   速度: 638.67KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 1.86s
-[2026-01-15 06:55:47] ❌ 测速失败: http://xxxxx.m3u8
+[2026-01-15 07:03:49] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601151400190811164792c0421fb26f62fb0e1b9ddf&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260115140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260115140019&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f3b06f23333500fe040be70d79a13cee&ddCalcu=efe3ecb1308160af9273d30373e5b0004f0e
+[2026-01-15 07:03:49] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601151400190811164792c0421fb26f62fb0e1b9ddf&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260115140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260115140019&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f3b06f23333500fe040be70d79a13cee&ddCalcu=efe3ecb1308160af9273d30373e5b0004f0e
+   速度: 638.67KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 1.74s
+[2026-01-15 07:03:49] ❌ 测速失败: http://xxxxx.m3u8
    错误: HTTPConnectionPool(host='xxxxx.m3u8', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='xxxxx.m3u8', port=80): Failed to resolve 'xxxxx.m3u8' ([Errno -2] Name or service not known)")) | 域名: xxxxx.m3u8:80
-[2026-01-15 06:55:48] ⚠️ 仅读取 6.9KB 数据: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-[2026-01-15 06:55:48] ✅ 测速成功: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-   速度: 6907.23KB/s > 50KB/s | 数据量: 6.9KB | 总耗时: 0.41s
-[2026-01-15 06:55:48] ⚠️ 仅读取 0.6KB 数据: http://152.70.94.223:5080/litv.php?token=1314&id=4gtv-4gtv001
-[2026-01-15 06:55:48] ✅ 测速成功: http://152.70.94.223:5080/litv.php?token=1314&id=4gtv-4gtv001
-   速度: 576.17KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 0.28s
+[2026-01-15 07:03:49] ⚠️ 仅读取 6.9KB 数据: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+[2026-01-15 07:03:49] ✅ 测速成功: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+   速度: 6927.73KB/s > 50KB/s | 数据量: 6.9KB | 总耗时: 0.36s
+[2026-01-15 07:03:49] ⚠️ 仅读取 0.6KB 数据: http://152.70.94.223:5080/litv.php?token=1314&id=4gtv-4gtv001
+[2026-01-15 07:03:49] ✅ 测速成功: http://152.70.94.223:5080/litv.php?token=1314&id=4gtv-4gtv001
+   速度: 576.17KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 0.27s
