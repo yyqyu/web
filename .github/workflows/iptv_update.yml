@@ -77,7 +77,7 @@ jobs:
         cat ./tmp/as.m3u >> iptv.m3u
         cat ./live/ipv4/result.m3u >> iptv.m3u
         cat ./tmp/as.m3u >> iptv.m3u
-        sed -i '/更新时间/d' iptv.m3u
+        sed -i '/,2026-/d' iptv.m3u
         sed -i '/#EXTM3U/d' iptv.m3u
         sed -i '1i #EXTM3U' iptv.m3u
         sed -i '/^\s*$/d' iptv.m3u
