@@ -1,35 +1,35 @@
-测速日志 2026-01-16 12:55:45
+测速日志 2026-01-16 13:41:26
 速度阈值: 50KB/s
-[2026-01-16 12:55:54] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601162000186d7df2ffb54846018179f640533212f6&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260116200018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260116200018&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4c16932fd3e99dd2e72ce52f00b07a6d&ddCalcu=d46cea11768090b3020ffd235ee9c92d7de2
-[2026-01-16 12:55:54] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601162000186d7df2ffb54846018179f640533212f6&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260116200018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260116200018&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4c16932fd3e99dd2e72ce52f00b07a6d&ddCalcu=d46cea11768090b3020ffd235ee9c92d7de2
-   速度: 638.67KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 1.59s
-[2026-01-16 12:55:54] ❌ 测速失败: http://xxxxx.m3u8
+[2026-01-16 13:41:40] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601162000186d7df2ffb54846018179f640533212f6&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260116200018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260116200018&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4c16932fd3e99dd2e72ce52f00b07a6d&ddCalcu=d46cea11768090b3020ffd235ee9c92d7de2
+[2026-01-16 13:41:40] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202601162000186d7df2ffb54846018179f640533212f6&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260116200018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260116200018&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4c16932fd3e99dd2e72ce52f00b07a6d&ddCalcu=d46cea11768090b3020ffd235ee9c92d7de2
+   速度: 638.67KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 6.23s
+[2026-01-16 13:41:40] ❌ 测速失败: http://xxxxx.m3u8
    错误: HTTPConnectionPool(host='xxxxx.m3u8', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='xxxxx.m3u8', port=80): Failed to resolve 'xxxxx.m3u8' ([Errno -2] Name or service not known)")) | 域名: xxxxx.m3u8:80
-[2026-01-16 12:55:55] ⚠️ 仅读取 6.9KB 数据: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-[2026-01-16 12:55:55] ✅ 测速成功: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-   速度: 6927.73KB/s > 50KB/s | 数据量: 6.9KB | 总耗时: 0.52s
-[2026-01-16 12:55:56] ✅ 测速成功: http://pull.cly.alivecdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
-   速度: 497.37KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.09s
-[2026-01-16 12:56:01] ❌ 测速失败: http://hls-pull-lumawnew.speedws.com/live/365d15bad7d95fba0ca015fccc1bb588.m3u8
+[2026-01-16 13:41:40] ⚠️ 仅读取 6.9KB 数据: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+[2026-01-16 13:41:40] ✅ 测速成功: https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+   速度: 6927.73KB/s > 50KB/s | 数据量: 6.9KB | 总耗时: 0.42s
+[2026-01-16 13:41:42] ✅ 测速成功: http://pull.cly.alivecdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
+   速度: 368.65KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.37s
+[2026-01-16 13:41:47] ❌ 测速失败: http://hls-pull-lumawnew.speedws.com/live/365d15bad7d95fba0ca015fccc1bb588.m3u8
    错误: HTTPConnectionPool(host='hls-pull-lumawnew.speedws.com', port=80): Read timed out. (read timeout=5) | 域名: hls-pull-lumawnew.speedws.com:80
-[2026-01-16 12:56:01] ⚠️ 仅读取 0.0KB 数据: https://3.edge.101.qzz.io/o12.php?id=fct
-[2026-01-16 12:56:01] ⚠️ 速度不足: https://3.edge.101.qzz.io/o12.php?id=fct
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.25s
-[2026-01-16 12:56:02] ⚠️ 仅读取 0.0KB 数据: https://6.edge.101.qzz.io/163189/fct
-[2026-01-16 12:56:02] ⚠️ 速度不足: https://6.edge.101.qzz.io/163189/fct
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.26s
-[2026-01-16 12:56:02] ⚠️ 仅读取 0.0KB 数据: https://2.edge.101.qzz.io/163189/gdzj
-[2026-01-16 12:56:02] ⚠️ 速度不足: https://2.edge.101.qzz.io/163189/gdzj
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.20s
-[2026-01-16 12:56:06] ⚠️ 仅读取 0.0KB 数据: https://5.edge.101.qzz.io/smt3.2.1.php?id=jade_twn
-[2026-01-16 12:56:06] ⚠️ 速度不足: https://5.edge.101.qzz.io/smt3.2.1.php?id=jade_twn
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 4.00s
-[2026-01-16 12:56:06] ⚠️ 仅读取 0.3KB 数据: http://fast.163189.xyz/163189/fct
-[2026-01-16 12:56:06] ✅ 测速成功: http://fast.163189.xyz/163189/fct
-   速度: 275.39KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.56s
-[2026-01-16 12:56:07] ⚠️ 仅读取 0.6KB 数据: http://152.70.94.223:5080/litv.php?token=1314&id=4gtv-4gtv001
-[2026-01-16 12:56:07] ✅ 测速成功: http://152.70.94.223:5080/litv.php?token=1314&id=4gtv-4gtv001
-   速度: 576.17KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 0.27s
-[2026-01-16 12:56:09] ⚠️ 仅读取 0.4KB 数据: http://120.198.101.106:9901/tsfile/live/1026_1.m3u8
-[2026-01-16 12:56:09] ✅ 测速成功: http://120.198.101.106:9901/tsfile/live/1026_1.m3u8
-   速度: 433.59KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.36s
+[2026-01-16 13:41:52] ⚠️ 仅读取 0.0KB 数据: https://3.edge.101.qzz.io/o12.php?id=fct
+[2026-01-16 13:41:52] ⚠️ 速度不足: https://3.edge.101.qzz.io/o12.php?id=fct
+   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 5.20s
+[2026-01-16 13:41:53] ⚠️ 仅读取 0.0KB 数据: https://6.edge.101.qzz.io/163189/fct
+[2026-01-16 13:41:53] ⚠️ 速度不足: https://6.edge.101.qzz.io/163189/fct
+   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.68s
+[2026-01-16 13:41:58] ⚠️ 仅读取 0.0KB 数据: https://2.edge.101.qzz.io/163189/gdzj
+[2026-01-16 13:41:58] ⚠️ 速度不足: https://2.edge.101.qzz.io/163189/gdzj
+   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 5.18s
+[2026-01-16 13:41:58] ⚠️ 仅读取 0.0KB 数据: https://5.edge.101.qzz.io/smt3.2.1.php?id=jade_twn
+[2026-01-16 13:41:58] ⚠️ 速度不足: https://5.edge.101.qzz.io/smt3.2.1.php?id=jade_twn
+   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.19s
+[2026-01-16 13:41:59] ⚠️ 仅读取 0.3KB 数据: http://fast.163189.xyz/163189/fct
+[2026-01-16 13:41:59] ✅ 测速成功: http://fast.163189.xyz/163189/fct
+   速度: 275.39KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.27s
+[2026-01-16 13:42:00] ⚠️ 仅读取 0.6KB 数据: http://152.70.94.223:5080/litv.php?token=1314&id=4gtv-4gtv001
+[2026-01-16 13:42:00] ✅ 测速成功: http://152.70.94.223:5080/litv.php?token=1314&id=4gtv-4gtv001
+   速度: 576.17KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 0.38s
+[2026-01-16 13:42:02] ⚠️ 仅读取 0.4KB 数据: http://120.198.101.106:9901/tsfile/live/1026_1.m3u8
+[2026-01-16 13:42:02] ✅ 测速成功: http://120.198.101.106:9901/tsfile/live/1026_1.m3u8
+   速度: 433.59KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.88s
