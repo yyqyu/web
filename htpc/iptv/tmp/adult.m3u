@@ -51,6 +51,21 @@ http://125.227.210.55:8205/VideoInput/play.ts
 http://125.227.210.55:8203/VideoInput/play.ts
 #EXTINF:-1,tvg-id="奧視3台(125)" tvg-name="奧視3台(125)" tvg-logo="https://epg.112114.xyz/logo/奧視3台().png" group-title="ot",奧視3台
 http://125.227.210.55:8201/VideoInput/play.ts
+#EXTM3U
+#EXTINF:-1,tvg-id="阳光海滩电视" tvg-name="阳光海滩电视" tvg-logo="https://epg.112114.xyz/logo/阳光海滩电视.png" group-title="ot",阳光海滩电视
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1,tvg-id="松視33" tvg-name="松視33" tvg-logo="https://epg.112114.xyz/logo/松視33.png" group-title="ot",松視33
+http://18.svi-studio.com:80/live/176619383282/537544338952/20205.m3u8
+#EXTINF:-1,tvg-id="惊艳台1" tvg-name="惊艳台1" tvg-logo="https://epg.112114.xyz/logo/惊艳台1.png" group-title="ot",惊艳台1
+http://18.svi-studio.com:80/live/176619383282/537544338952/1.m3u8
+#EXTINF:-1,tvg-id="完美台" tvg-name="完美台" tvg-logo="https://epg.112114.xyz/logo/完美台.png" group-title="ot",完美台
+http://18.svi-studio.com:80/live/176619383282/537544338952/3.m3u8
+#EXTINF:-1,tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://epg.112114.xyz/logo/香蕉台.png" group-title="ot",香蕉台
+http://18.svi-studio.com:80/live/176619383282/537544338952/4.m3u8
+#EXTINF:-1,tvg-id="松視11" tvg-name="松視11" tvg-logo="https://epg.112114.xyz/logo/松視11.png" group-title="ot",松視11
+http://18.svi-studio.com:80/live/176619383282/537544338952/5.m3u8
+#EXTINF:-1,tvg-id="松視22" tvg-name="松視22" tvg-logo="https://epg.112114.xyz/logo/松視22.png" group-title="ot",松視22
+http://18.svi-studio.com:80/live/176619383282/537544338952/6.m3u8
 #EXTINF:-1,tvg-id="花花公子" tvg-name="花花公子" tvg-logo="https://epg.112114.xyz/logo/花花公子.png" group-title="ot",花花公子
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1,tvg-id="法國時尚" tvg-name="法國時尚" tvg-logo="https://epg.112114.xyz/logo/法國時尚.png" group-title="ot",法國時尚
