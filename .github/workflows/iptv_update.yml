@@ -77,7 +77,7 @@ jobs:
         rm -f ./tmp/md.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/麻豆.txt -O ./tmp/md.txt
         sed -i '/^\s*$/d' ./tmp/md.txt
         cat ./tmp/md.txt >> ./tools/adult.txt
-        python htpc/iptv/tools/txt_m3u.py
+        python tools/txt_m3u.py
 
         # 体育
         rm -f ./tmp/sport.m3u && wget https://airinf.pages.dev/static/iptv/sport.m3u -O ./tmp/sport.m3u
