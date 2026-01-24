@@ -64,18 +64,19 @@ jobs:
         rm -f ./tmp/adult.m3u && wget https://airinf.pages.dev/static/iptv/av.m3u -O ./tmp/adult.m3u
         sed -i '/^\s*$/d' ./tmp/adult.m3u
         rm -f ./tmp/gd.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/果冻传媒.txt -O ./tmp/gd.txt
+        rm -f ./tools/adult.txt
         sed -i '/^\s*$/d' ./tmp/gd.txt
-        cat ./tmp/gd.txt >> ./tmp/adult.txt
+        cat ./tmp/gd.txt >> ./tools/adult.txt
         rm -f ./tmp/tm.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/天美传媒.txt -O ./tmp/tm.txt
         sed -i '/^\s*$/d' ./tmp/tm.txt
-        cat ./tmp/tm.txt >> ./tmp/adult.txt
+        cat ./tmp/tm.txt >> ./tools/adult.txt
         #https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/不知明tv.txt
         rm -f ./tmp/jd.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/京东伟业.txt -O ./tmp/jd.txt
         sed -i '/^\s*$/d' ./tmp/jd.txt
-        cat ./tmp/jd.txt >> ./tmp/adult.txt
+        cat ./tmp/jd.txt >> ./tools/adult.txt
         rm -f ./tmp/md.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/麻豆.txt -O ./tmp/md.txt
         sed -i '/^\s*$/d' ./tmp/md.txt
-        cat ./tmp/md.txt >> ./tmp/adult.txt
+        cat ./tmp/md.txt >> ./tools/adult.txt
         python htpc/iptv/tools/txt_m3u.py
 
         # 体育
