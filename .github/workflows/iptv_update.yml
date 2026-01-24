@@ -77,6 +77,11 @@ jobs:
         rm -f ./tmp/md.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/麻豆.txt -O ./tmp/md.txt
         sed -i '/^\s*$/d' ./tmp/md.txt
         cat ./tmp/md.txt >> ./tools/adult.txt
+        sed 's/groupName=🦈果冻传媒/ot,#genre#/' ./tools/adult.txt
+        sed 's/groupName=😃天美传媒/ot,#genre#/' ./tools/adult.txt
+        sed 's/groupName=👀精东影业/ot,#genre#/' ./tools/adult.txt
+        sed 's/麻豆传媒,#genre#/ot,#genre#/' ./tools/adult.txt
+        sed 's/日本专区,#genre#/ot,#genre#/' ./tools/adult.txt
         python tools/txt_m3u.py
 
         # 体育
