@@ -66,16 +66,21 @@ jobs:
         rm -f ./tmp/gd.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/果冻传媒.txt -O ./tmp/gd.txt
         rm -f ./tools/adult.txt
         sed -i '/^\s*$/d' ./tmp/gd.txt
+        sed 's/groupName=😃果冻传媒/ot,#genre#/' ./tmp/gd.txt
         cat ./tmp/gd.txt >> ./tools/adult.txt
         rm -f ./tmp/tm.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/天美传媒.txt -O ./tmp/tm.txt
         sed -i '/^\s*$/d' ./tmp/tm.txt
+        sed 's/groupName=👀天美影业/ot,#genre#/' ./tmp/tm.txt
         cat ./tmp/tm.txt >> ./tools/adult.txt
         #https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/不知明tv.txt
         rm -f ./tmp/jd.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/京东伟业.txt -O ./tmp/jd.txt
         sed -i '/^\s*$/d' ./tmp/jd.txt
+        sed 's/groupName=👀精东影业/ot,#genre#/' ./tmp/jd.txt
         cat ./tmp/jd.txt >> ./tools/adult.txt
         rm -f ./tmp/md.txt && wget https://raw.githubusercontent.com/KAN314go/yu/f6219143945712a069469e5894b09bd0e8fcbcfa/tvbox/纯福利/tv/麻豆.txt -O ./tmp/md.txt
         sed -i '/^\s*$/d' ./tmp/md.txt
+        sed 's/麻豆传媒,#genre#/ot,#genre#/' ./tmp/md.txt
+        sed 's/日本专区,#genre#/ot,#genre#/' ./tmp/md.txt
         cat ./tmp/md.txt >> ./tools/adult.txt
         python tools/txt_m3u.py
         sed 's/group-title="未分类"/group-title="ot"/' ./tools/adult.m3u
