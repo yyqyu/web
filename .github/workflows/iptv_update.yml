@@ -82,8 +82,8 @@ jobs:
         sed 's/麻豆传媒,#genre#/ot,#genre#/' ./tmp/md.txt
         sed 's/日本专区,#genre#/ot,#genre#/' ./tmp/md.txt
         cat ./tmp/md.txt >> ./tools/adult.txt
-        python tools/txt_m3u.py
-        sed 's/group-title="未分类"/group-title="ot"/' ./tools/adult.m3u
+        #python tools/txt_m3u.py
+        cat ./tools/ot.m3u >> ./tmp/adult.m3u
 
         # 体育
         rm -f ./tmp/sport.m3u && wget https://airinf.pages.dev/static/iptv/sport.m3u -O ./tmp/sport.m3u
