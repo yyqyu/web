@@ -112,8 +112,10 @@ CHC家庭影院,http://223.109.141.203:3000/644368373
 浙江卫视,https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
 东方卫视,http://223.109.141.203:3000/651632648
 东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=20260124160017eef97ab45e7c43e1833bed716527ae67&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260124160017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=43.139.160.244&SecurityKey=20260124160017&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0659f4a394d40feac66438abd2d8ed52&ddCalcu=2056ed52e918f0d42ad3b9a48d34406f6eca
+东方卫视,http://106.53.99.30/tv/api.php?id=dfws4k
 北京卫视,http://223.109.141.203:3000/630287636
 北京卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=20260124160018d68193bb21394dccb1a5b255f800ff57&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260124160018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=43.139.160.244&SecurityKey=20260124160018&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2060000b5f860e1b092f8664df37cd1a&ddCalcu=a210ed62c0070030f0db456f6886f02e910b
+北京卫视,http://106.53.99.30/tv/bj.php?id=bjws4k
 江苏卫视,http://223.109.141.203:3000/623899368
 江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=20260124160017d45a3c7fc4754000af354eb5aeed4a5d&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260124160017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=43.139.160.244&SecurityKey=20260124160017&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1015edcefef3bdb0c53cff28ab288300&ddCalcu=0100e3128538e02dbcae8f2efff3cb3d5bc0
 重庆卫视,http://223.109.141.203:3000/738910914
@@ -240,13 +242,16 @@ asia,#genre#
 凤凰中文,http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 凤凰中文,http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8?token=tmxk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 凤凰资讯,http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8?token=tmxk
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 凤凰香港,http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8?token=tmxk
 RTHK 31,http://140.238.14.55:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 RTHK 31,http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
 RTHK 32,http://140.238.14.55:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
@@ -302,16 +307,20 @@ TVB娱乐新闻,http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.file
 TVB娱乐新闻,http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐新闻,http://140.238.14.55:5050/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 TVB娱乐新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+TVB娱乐新闻,https://live.tvfix.org/live/enews/index.m3u8?token=tmxk
 TVB无线新闻,http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 TVB无线新闻,http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
 TVB无线新闻,http://140.238.14.55:5050/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 TVB无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+TVB无线新闻,https://live.tvfix.org/live/inews/index.m3u8?token=tmxk
 TVBS,http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv073
+TVBS,https://live.tvfix.org/live/tvbs/index.m3u8?token=tmxk
 TVBS,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv073
 TVBS,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 TVBS欢乐台,http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv068
 TVBS欢乐台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv068
 TVBS新闻台,http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv072
+TVBS新闻台,https://live.tvfix.org/live/tvbsnews/index.m3u8?token=tmxk
 TVBS新闻台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv072
 TVBS精采台,http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv067
 TVBS精采台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv067
@@ -344,6 +353,7 @@ TELE CINE Action,http://148.113.160.49:14159/
 第1商业,http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv104
 第1商业,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv104
 东森财经新闻,http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv153
+东森财经新闻,https://live.tvfix.org/live/newsasia/index.m3u8?token=tmxk
 东森财经新闻,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv153
 东森新闻,http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv152
 东森新闻,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv152
@@ -495,9 +505,10 @@ TELE CINE Action,http://148.113.160.49:14159/
 八度空间,http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
 华纳,http://148.113.160.49:14130/
 ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+AMC电影台,http://148.113.160.49:14207/
 AMC电影台,http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv017
 AMC电影台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv017
-AMC电影台,http://148.113.160.49:14207/
+Animax,https://live.tvfix.org/live/animax/index.m3u8?token=tmxk
 Astro AOD,http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
 Astro AOD,http://140.238.14.55:5050/mytv.php?url=http://o11.163189.xyz/stream/live/aod/
 Astro AOD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
@@ -530,7 +541,6 @@ MCE,http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv10
 megapix,http://148.113.160.49:14172/
 Modo Viagem,http://148.113.160.49:14214/
 NOW新闻,http://140.238.14.55:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-NOW新闻,http://cdn.163189.xyz/163189/now
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW直播,http://hls.168.us.kg/u/331/master.m3u8
 NOW直播,http://hls.168.us.kg/u/331/master.m3u8
@@ -744,7 +754,7 @@ Zuffa拳击 沃尔什十回合鏖战击败奥坎波 副赛 陈瑞阳 07:00,http:
 广西县级足球超级联赛 北海市海城区队vs河池市金城江区队 25/26赛季广西县级足球超级联赛第二轮: 北海市海城区队vs河池市金城江区队 14:30,http://223.109.141.203:3000/962553063
 广西县级足球超级联赛 南宁市宾阳县vs南宁市江南区 25/26赛季广西县级足球超级联赛第二轮: 南宁市宾阳县vs南宁市江南区 14:30,http://223.109.141.203:3000/962553037
 广西县级足球超级联赛 桂林市七星区队vs柳州市融水苗族自治县队 25/26赛季广西县级足球超级联赛第二轮: 桂林市七星区队vs柳州市融水苗族自治县队 14:30,http://223.109.141.203:3000/962553075
-广西县级足球超级联赛 玉林市玉州区队vs柳州市柳南区队 25/26赛季广西县级足球超级联赛第二轮: 玉林市玉州区队vs柳州市柳南区队 14:30,http://223.109.141.203:3000/962553053
+广西县级足球超级联赛 玉林市玉州区队0-2柳州市柳南区队 25/26赛季广西县级足球超级联赛第二轮: 玉林市玉州区队vs柳州市柳南区队 14:30,http://223.109.141.203:3000/962553053
 广西县级足球超级联赛 百色市平果市队vs河池市宜州区队 25/26赛季广西县级足球超级联赛第二轮: 百色市平果市队vs河池市宜州区队 14:30,http://223.109.141.203:3000/962553043
 德甲 勒沃库森VS云达不莱梅 沈云怡 马延峰 22:15,http://223.109.141.203:3000/962601630
 德甲 勒沃库森VS云达不莱梅 赛场原声 22:15,http://223.109.141.203:3000/962601704
@@ -797,18 +807,21 @@ Zuffa拳击 沃尔什十回合鏖战击败奥坎波 副赛 陈瑞阳 07:00,http:
 浙江省城市篮球联赛 富阳VS杭州 25/26赛季浙江省城市篮球联赛: 富阳VS杭州 19:30,http://223.109.141.203:3000/962504779
 浙江省城市篮球联赛 杭州80-76富阳 25/26赛季浙江省城市篮球联赛: 杭州VS富阳 19:30,http://223.109.141.203:3000/962504762
 浙江省城市篮球联赛 温州VS丽水 25/26赛季浙江省城市篮球联赛: 温州VS丽水 19:30,http://223.109.141.203:3000/962504772
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962434915
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962434948
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962434993
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435035
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435076
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435160
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435222
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435276
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435346
-澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435371
-澳网 澳大利亚网球公开赛Day8 清流 08:30,http://223.109.141.203:3000/962434827
-澳网 澳大利亚网球公开赛Day8 清流 08:30,http://223.109.141.203:3000/962434879
+澳网 澳大利亚网球公开赛Day8 11号球场 08:00,http://223.109.141.203:3000/962435346
+澳网 澳大利亚网球公开赛Day8 12号球场 08:00,http://223.109.141.203:3000/962435371
+澳网 澳大利亚网球公开赛Day8 13号球场 08:00,http://223.109.141.203:3000/962435453
+澳网 澳大利亚网球公开赛Day8 1573球场 08:00,http://223.109.141.203:3000/962434993
+澳网 澳大利亚网球公开赛Day8 5号球场 08:00,http://223.109.141.203:3000/962435076
+澳网 澳大利亚网球公开赛Day8 6号球场 08:00,http://223.109.141.203:3000/962435160
+澳网 澳大利亚网球公开赛Day8 7号球场 08:00,http://223.109.141.203:3000/962435222
+澳网 澳大利亚网球公开赛Day8 8号球场 08:00,http://223.109.141.203:3000/962435276
+澳网 澳大利亚网球公开赛Day8 ANZ球场 08:00,http://223.109.141.203:3000/962435035
+澳网 澳大利亚网球公开赛Day8 KIA球场 08:00,http://223.109.141.203:3000/962434948
+澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435498
+澳网 澳大利亚网球公开赛Day8 清流 08:00,http://223.109.141.203:3000/962435549
+澳网 澳大利亚网球公开赛Day8 玛格丽特考特球场 08:30,http://223.109.141.203:3000/962434879
+澳网 澳大利亚网球公开赛Day8 约翰凯因球场 08:00,http://223.109.141.203:3000/962434915
+澳网 澳大利亚网球公开赛Day8 罗德拉沃尔球场 08:30,http://223.109.141.203:3000/962434827
 澳网 瓦林卡VS弗里茨 瓦林卡 vs 弗里茨（单文强） 14:00,http://223.109.141.203:3000/962616326
 澳网 瓦林卡VS弗里茨 瓦林卡vs弗里茨（清流） 14:00,http://223.109.141.203:3000/962616392
 澳网 瓦林卡大战弗里茨 德约、斯瓦泰克登场 11号球场 07:00,http://223.109.141.203:3000/962434619
