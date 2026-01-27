@@ -81,7 +81,7 @@ jobs:
         #sed 's/麻豆传媒,#genre#/ot,#genre#/' ./tmp/md.txt
         #sed 's/日本专区,#genre#/ot,#genre#/' ./tmp/md.txt
         #cat ./tmp/md.txt >> ./tools/adult.txt
-        python tools/txt_m3u.py
+        #python tools/txt_m3u.py
         cat ./tools/ot.m3u >> ./tmp/adult.m3u
 
         # 体育
