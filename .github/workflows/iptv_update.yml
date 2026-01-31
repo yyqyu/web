@@ -94,9 +94,7 @@ jobs:
         rm -f iptv.m3u && touch iptv.m3u
         cat ./tmp/cn.m3u >> iptv.m3u
         cat ./tmp/sport.m3u >> iptv.m3u
-        #cat ./tmp/as.m3u >> iptv.m3u
         cat ./live/ipv4/result.m3u >> iptv.m3u
-        #cat ./tmp/as.m3u >> iptv.m3u
         sed -i '/,2026-/d' iptv.m3u
         sed -i '/#EXTM3U/d' iptv.m3u
         sed -i '1i #EXTM3U' iptv.m3u
