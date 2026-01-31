@@ -820,10 +820,18 @@ http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msis
 http://gslbmgsplive.miguvideo.com/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=202602010200220cb7326208d94fda9d762f2d8ed7b0b3&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20260201020022&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=43.139.160.244&SecurityKey=20260201020022&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4b955452df88f25bd50154ba4e4cf7f6&ddCalcu=64fbe790f59c5044e542adbf48581f0255db
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视",第一剧场
 http://www.dwphic.com:9999/rtp/239.69.1.74:10084
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视",第一剧场
+http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视",怀旧剧场
 http://www.dwphic.com:9999/udp/239.69.1.89:10174
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视",怀旧剧场
+http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视",风云剧场
+http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视",风云音乐
 http://www.dwphic.com:9999/udp/239.69.1.90:10180
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视",风云音乐
+http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视",兵器科技
 http://www.dwphic.com:9999/rtp/239.69.1.79:10114
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视",老故事
@@ -831,17 +839,31 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视",风云足球
 http://www.dwphic.com:9999/rtp/239.69.1.81:10126
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视",风云足球
+http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视",风云足球
 https://stream1.freetv.fun/f2138a8afdae84246099c1f3bb72aa3714e369f6cec03df0f951f5883f2ca5f8.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="央视",高尔夫网球
 http://www.dwphic.com:9999/rtp/239.69.1.83:10138
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="央视",高尔夫网球
+http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视",央视台球
 http://www.dwphic.com:9999/rtp/239.69.1.98:10224
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视",央视台球
+http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视",女性时尚
 http://www.dwphic.com:9999/udp/239.69.1.86:10156
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视",女性时尚
+http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电视指南.png" group-title="央视",电视指南
 http://www.dwphic.com:9999/udp/239.69.1.87:10162
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电视指南.png" group-title="央视",电视指南
+http://www.qfly9236.cn:8888/rtp/239.253.92.17:6078
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视文化精品.png" group-title="央视",央视文化精品
+http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="央视",世界地理
 http://www.dwphic.com:9999/rtp/239.69.1.91:10186
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="央视",世界地理
+http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="央视",发现之旅
 http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=202602010200237b2c46b51eca48789c99f5818cb858c3&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260201020023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=43.139.160.244&SecurityKey=20260201020023&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d727c5607226f9cd39df64f4dfe477e6&ddCalcu=6de7e7207744c0e5f6d047f24266ffd99c3d
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球旅游.png" group-title="央视",环球旅游
@@ -1028,6 +1050,8 @@ http://140.238.14.55:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/h
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="asia",美亚电影
 http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="asia",美亚电影
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
@@ -1056,6 +1080,8 @@ http://140.238.14.55:5050/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/t
 http://140.238.14.55:5050/mytv.php?url=http://cdn9.veryfast.filegear-sg.me/live/xinghe/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="asia",TVB星河
 http://140.238.14.55:5050/mytv.php?url=http://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="asia",TVB星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠.png" group-title="asia",TVB明珠
 http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠.png" group-title="asia",TVB明珠
@@ -1101,9 +1127,9 @@ https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐台.png" group-title="asia",TVBS欢乐台
 http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv068
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐台.png" group-title="asia",TVBS欢乐台
-http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv068
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐台.png" group-title="asia",TVBS欢乐台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐台.png" group-title="asia",TVBS欢乐台
+http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv068
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻台.png" group-title="asia",TVBS新闻台
 http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻台.png" group-title="asia",TVBS新闻台
@@ -1134,6 +1160,22 @@ http://140.238.14.55:5055/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false&tok
 http://140.238.14.55:5050/litv.php?token=1314&id=litv-longturn20
 #EXTINF:-1 tvg-name="爱尔达生活英语" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达生活英语.png" group-title="asia",爱尔达生活英语
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang20
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="asia",HBO
+http://148.113.160.49:14187/
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Family.png" group-title="asia",HBO Family
+http://148.113.160.49:14190/
+#EXTINF:-1 tvg-name="HBO +" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO +.png" group-title="asia",HBO +
+http://148.113.160.49:14193/
+#EXTINF:-1 tvg-name="HBO MUNDL" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO MUNDL.png" group-title="asia",HBO MUNDL
+http://148.113.160.49:14183/
+#EXTINF:-1 tvg-name="HBO POP" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO POP.png" group-title="asia",HBO POP
+http://148.113.160.49:14180/
+#EXTINF:-1 tvg-name="SPACE" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/SPACE.png" group-title="asia",SPACE
+http://148.113.160.49:14170/
+#EXTINF:-1 tvg-name="TELE CINE Action" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TELE CINE Action.png" group-title="asia",TELE CINE Action
+http://148.113.160.49:14159/
+#EXTINF:-1 tvg-name="TELE CINE FUN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TELE CINE FUN.png" group-title="asia",TELE CINE FUN
+http://148.113.160.49:14155/
 #EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大精彩台.png" group-title="asia",八大精彩台
 http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv034
 #EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大精彩台.png" group-title="asia",八大精彩台
@@ -1168,6 +1210,8 @@ http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv153
 http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv152
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="asia",东森新闻
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="asia",东森新闻
+http://211.72.174.95:8138/0.ts
 #EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森美洲.png" group-title="asia",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="东森购物1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森购物1.png" group-title="asia",东森购物1
@@ -1431,9 +1475,9 @@ http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv001
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
 http://140.238.14.55:5050/litv.php?token=1314&id=litv-ftv13
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
-http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv13
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
+http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv13
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
 http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视影剧.png" group-title="asia",民视影剧
@@ -1496,6 +1540,10 @@ http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2
 http://140.238.14.55:5050/mytv.php?url=http://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-name="泰国剧集" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/泰国剧集.png" group-title="asia",泰国剧集
 https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
+#EXTINF:-1 tvg-name="环球国际频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球国际频道.png" group-title="asia",环球国际频道
+http://148.113.160.49:14135/
+#EXTINF:-1 tvg-name="环球影视频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球影视频道.png" group-title="asia",环球影视频道
+http://148.113.160.49:14162/
 #EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲旅游.png" group-title="asia",亚洲旅游
 http://140.238.14.55:5055/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false&token=1314
 #EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲旅游.png" group-title="asia",亚洲旅游
@@ -1568,8 +1616,12 @@ https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
 http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间.png" group-title="asia",八度空间
 http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 tvg-name="华纳" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/华纳.png" group-title="asia",华纳
+http://148.113.160.49:14130/
 #EXTINF:-1 tvg-name="ABC News Australia" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC News Australia.png" group-title="asia",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC电影台.png" group-title="asia",AMC电影台
+http://148.113.160.49:14207/
 #EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC电影台.png" group-title="asia",AMC电影台
 http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv017
 #EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC电影台.png" group-title="asia",AMC电影台
@@ -1604,6 +1656,8 @@ http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 #EXTINF:-1 tvg-name="Channel U" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Channel U.png" group-title="asia",Channel U
 http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CINEMAX.png" group-title="asia",CINEMAX
+http://148.113.160.49:14200/
 #EXTINF:-1 tvg-name="CLASSICA古典乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CLASSICA古典乐.png" group-title="asia",CLASSICA古典乐
 http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv059
 #EXTINF:-1 tvg-name="CLASSICA古典乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CLASSICA古典乐.png" group-title="asia",CLASSICA古典乐
@@ -1642,8 +1696,12 @@ http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv083
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv083
 #EXTINF:-1 tvg-name="MCE" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/MCE.png" group-title="asia",MCE
 http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv10
+#EXTINF:-1 tvg-name="megapix" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/megapix.png" group-title="asia",megapix
+http://148.113.160.49:14172/
 #EXTINF:-1 tvg-name="MY TIME" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/MY TIME.png" group-title="asia",MY TIME
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Modo Viagem.png" group-title="asia",Modo Viagem
+http://148.113.160.49:14214/
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW新闻.png" group-title="asia",NOW新闻
 http://140.238.14.55:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW新闻.png" group-title="asia",NOW新闻
@@ -1664,6 +1722,10 @@ http://140.238.14.55:5055/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&tok
 http://140.238.14.55:5050/litv.php?token=1314&id=litv-longturn19
 #EXTINF:-1 tvg-name="Smart知识台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Smart知识台.png" group-title="asia",Smart知识台
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang19
+#EXTINF:-1 tvg-name="TNT 剧集频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TNT 剧集频道.png" group-title="asia",TNT 剧集频道
+http://148.113.160.49:14138/
+#EXTINF:-1 tvg-name="TNT 电视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TNT 电视.png" group-title="asia",TNT 电视
+http://148.113.160.49:14141/
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TBS.png" group-title="asia",TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Urban.png" group-title="asia",TRACE Urban
@@ -1734,10 +1796,16 @@ http://46.151.196.223:14438/
 http://46.151.196.223:14444/
 #EXTINF:-1 tvg-name="ESPN-4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ESPN-4.png" group-title="体育",ESPN-4
 http://46.151.196.223:14450/
+#EXTINF:-1 tvg-name="FILM arts" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/FILM arts.png" group-title="体育",FILM arts
+http://148.113.160.49:14210/
 #EXTINF:-1 tvg-name="Now SPORTS PRIME" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Now SPORTS PRIME.png" group-title="体育",Now SPORTS PRIME
 http://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Sport Stars.png" group-title="体育",TRACE Sport Stars
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv077
+#EXTINF:-1 tvg-name="HBO XTREME" group-title="其他",HBO XTREME
+http://148.113.160.49:14175/
+#EXTINF:-1 tvg-name="USA电视" group-title="其他",USA电视
+http://148.113.160.49:14133/
 #EXTINF:-1 tvg-name="恐怖电影院" group-title="其他",恐怖电影院
 https://yylunbo.ottiptv.cc/yy/24066336
 #EXTINF:-1 tvg-name="精彩电影台" group-title="其他",精彩电影台
