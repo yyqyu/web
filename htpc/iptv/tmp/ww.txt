@@ -78,6 +78,9 @@ RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
+无线千禧台,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 
 ASTRO AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 ASTRO AOD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
@@ -124,13 +127,14 @@ Modo Viagem,http://148.113.160.49:14214/
 华纳 - WBTV,http://148.113.160.49:14130/
 环球国际频道,http://148.113.160.49:14135/
 环球影视频道,http://148.113.160.49:14162/
-TNT 剧集频道,http://148.113.160.49:14138/
-TNT 电视,http://148.113.160.49:14141/
+TNT剧集,http://148.113.160.49:14138/
+TNT电视,http://148.113.160.49:14141/
 FILM arts,http://148.113.160.49:14210/
 CINEMAX,http://148.113.160.49:14200/
 AMC 米高梅电影,http://148.113.160.49:14207/
 TELE CINE FUN,http://148.113.160.49:14155/
 TELE CINE Action,http://148.113.160.49:14159/
+索尼，http://148.113.160.49:14206/
 
 EBS1,https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS1,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -167,6 +171,17 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 USA电视,http://148.113.160.49:14133/
 SPACE,http://148.113.160.49:14170/
 韩国GCN电视,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+爱地球,https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
+邵氏电影台,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
+邵氏动作,https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
+邵氏喜剧,https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
+邵氏武侠,https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
+邵氏电影,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
+经典电影二台,https://stream1.freetv.fun/13a9e71e43596740eb155ea1b840ca0848884aa34be169b42a3c3e268dce5781.m3u8
+4 music,https://stream1.freetv.fun/4music-2.m3u8
+CMC 音乐台,https://stream1.freetv.fun/california-music-channel-1.m3u8
+SAGA 音乐台,https://stream1.freetv.fun/saga-music-1.m3u8
+
 
 CCTV电视指南,http://www.dwphic.com:9999/udp/239.69.1.87:10162
 CCTV世界地理,http://www.dwphic.com:9999/rtp/239.69.1.91:10186
@@ -191,6 +206,19 @@ CCTV央视文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 CCTV高尔夫网球,http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
 CCTV央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 CCTV女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
+CCTV电视指南,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.17:6078
+CCTV世界地理,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.113:8066
+CCTV怀旧剧场,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.98:6120
+CCTV风云剧场,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.22:6073
+CCTV风云足球,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.110:8061
+CCTV第一剧场,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.18:6079
+CCTV央视文化精品,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.25:6104
+CCTV高尔夫网球,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.117:8062
+CCTV央视台球,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.93.231:6409
+CCTV女性时尚,http://vapi.91kds.cc/live1/udp.m3u8?ip=hebei-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.253.92.249:6103
+CCTV电视指南,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.87:10162
+CCTV世界地理,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.91:10186
+CCTV怀旧剧场,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.89:10174
 
 
 中視,http://140.238.14.55:5055/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false&token=1314
