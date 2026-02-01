@@ -6,7 +6,7 @@ http://140.238.14.55:5050/mytv.m3u
 http://140.238.14.55:5050/litv.php?token=1314
 http://140.238.14.55:5055/Sub.txt?token=1314&proxy=false
 https://airinf.pages.dev/static/iptv/0753.txt
-http://210.245.166.84:1299/live/live1.txt
+#http://210.245.166.84:1299/live/live1.txt
 #https://raw.githubusercontent.com/cyh92/iptv-api-cctv/refs/heads/master/output/cctv.txt
 https://raw.githubusercontent.com/judy-gotv/iptv/main/StarHub.m3u
 https://live.catvod.com/tv.m3u
@@ -16,3 +16,4 @@ https://tmxk.pp.ua/iptv-cn.m3u
 #https://tmxk.pp.ua/litv-cn.m3u
 #https://github.com/tareq236/JapanIPTV/blob/main/jp_tv_channels.json
 #http://www.xn--sss604efuw.com/tv
+
