@@ -42,23 +42,16 @@ jobs:
         # CN
         cd htpc/iptv/
         rm -f ./tmp/cn.m3u && wget https://airinf.pages.dev/static/iptv/0451cm.m3u -O ./tmp/cn.m3u
-        cat ./tmp/fofa/fofa.txt >> ./tmp/cn.m3u
+        #cat ./tmp/fofa/fofa.txt >> ./tmp/cn.m3u
         #rm -f ./tmp/migu.m3u && wget https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt -O ./tmp/migu.m3u
-        #sed -i 's/熊猫/地方/g' ./tmp/migu.m3u
-        #sed -i 's/综艺/央视/g' ./tmp/migu.m3u
-        #sed -i 's/教育/央视/g' ./tmp/migu.m3u
-        #sed -i 's/影视/央视/g' ./tmp/migu.m3u
-        #sed -i 's/纪实/央视/g' ./tmp/migu.m3u
-        #sed -i 's/少儿/地方/g' ./tmp/migu.m3u
-        #sed -i 's/新闻/央视/g' ./tmp/migu.m3u
         #cat ./tmp/migu.m3u >> ./tmp/cn.m3u
         rm -f ./tmp/region.m3u && wget https://airinf.pages.dev/static/iptv/region.m3u -O ./tmp/region.m3u
         cat ./tmp/region.m3u >> ./tmp/cn.m3u
         sed -i '/^\s*$/d' ./tmp/cn.m3u
         
         # asia
-        #rm -f ./tmp/as.m3u && wget https://airinf.pages.dev/static/iptv/asia.m3u -O ./tmp/as.m3u
-        #sed -i '/^\s*$/d' ./tmp/as.m3u
+        rm -f ./tmp/as.m3u && wget https://airinf.pages.dev/static/iptv/asia.m3u -O ./tmp/as.m3u
+        sed -i '/^\s*$/d' ./tmp/as.m3u
         
         # 成人
         rm -f ./tmp/adult.m3u && wget https://airinf.pages.dev/static/iptv/av.m3u -O ./tmp/adult.m3u
