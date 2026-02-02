@@ -1,18 +1,18 @@
-测速日志 2026-02-02 06:27:33
+测速日志 2026-02-02 07:33:37
 速度阈值: 50KB/s
-[2026-02-02 06:27:45] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2026020214002103813221d3eb4bfa891563ce9fd21d1a&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260202140021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260202140021&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=87080bdea9d65c73f0efb5ca3db35d35&ddCalcu=5837ed00588300bbdd3eaac95db6f5ec07f3
-[2026-02-02 06:27:45] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2026020214002103813221d3eb4bfa891563ce9fd21d1a&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260202140021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260202140021&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=87080bdea9d65c73f0efb5ca3db35d35&ddCalcu=5837ed00588300bbdd3eaac95db6f5ec07f3
-   速度: 639.65KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 5.18s
-[2026-02-02 06:27:45] ❌ 测速失败: http://xxxxx.m3u8
+[2026-02-02 07:33:49] ⚠️ 仅读取 0.6KB 数据: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2026020214002103813221d3eb4bfa891563ce9fd21d1a&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260202140021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260202140021&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=87080bdea9d65c73f0efb5ca3db35d35&ddCalcu=5837ed00588300bbdd3eaac95db6f5ec07f3
+[2026-02-02 07:33:49] ✅ 测速成功: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2026020214002103813221d3eb4bfa891563ce9fd21d1a&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260202140021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260202140021&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=87080bdea9d65c73f0efb5ca3db35d35&ddCalcu=5837ed00588300bbdd3eaac95db6f5ec07f3
+   速度: 639.65KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 6.54s
+[2026-02-02 07:33:49] ❌ 测速失败: http://xxxxx.m3u8
    错误: HTTPConnectionPool(host='xxxxx.m3u8', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='xxxxx.m3u8', port=80): Failed to resolve 'xxxxx.m3u8' ([Errno -2] Name or service not known)")) | 域名: xxxxx.m3u8:80
-[2026-02-02 06:27:47] ⚠️ 仅读取 0.7KB 数据: http://140.238.14.55:5050/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-[2026-02-02 06:27:47] ✅ 测速成功: http://140.238.14.55:5050/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-   速度: 727.54KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 1.37s
-[2026-02-02 06:27:47] ⚠️ 仅读取 0.0KB 数据: http://140.238.14.55:5055/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false&token=1314
-[2026-02-02 06:27:47] ⚠️ 速度不足: http://140.238.14.55:5055/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false&token=1314
-   速度: 36.13KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.53s
-[2026-02-02 06:27:48] ⚠️ 仅读取 1.7KB 数据: http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv002
-[2026-02-02 06:27:48] ✅ 测速成功: http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv002
-   速度: 275.40KB/s > 50KB/s | 数据量: 1.7KB | 总耗时: 0.34s
-[2026-02-02 06:27:53] ❌ 测速失败: https://012v4.goiptv.us.ci/stream/starhub/fightsportshd/
+[2026-02-02 07:33:51] ⚠️ 仅读取 0.7KB 数据: http://140.238.14.55:5050/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+[2026-02-02 07:33:51] ✅ 测速成功: http://140.238.14.55:5050/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+   速度: 727.54KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 1.15s
+[2026-02-02 07:33:51] ⚠️ 仅读取 0.0KB 数据: http://140.238.14.55:5055/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false&token=1314
+[2026-02-02 07:33:51] ⚠️ 速度不足: http://140.238.14.55:5055/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false&token=1314
+   速度: 36.13KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.52s
+[2026-02-02 07:33:52] ⚠️ 仅读取 1.7KB 数据: http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv002
+[2026-02-02 07:33:52] ✅ 测速成功: http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv002
+   速度: 244.95KB/s > 50KB/s | 数据量: 1.7KB | 总耗时: 0.55s
+[2026-02-02 07:33:57] ❌ 测速失败: https://012v4.goiptv.us.ci/stream/starhub/fightsportshd/
    错误: HTTPSConnectionPool(host='012v4.goiptv.us.ci', port=443): Read timed out. (read timeout=5) | 域名: 012v4.goiptv.us.ci:443
