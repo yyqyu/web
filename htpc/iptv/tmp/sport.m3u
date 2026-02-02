@@ -149,3 +149,19 @@ http://39.134.65.106/PLTV/88888888/224/3221226143/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226046/1.m3u8
 #EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://39.134.65.106/PLTV/88888888/224/3221226053/1.m3u8
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育3台.png" group-title="体育",爱尔达体育3台
+http://43.251.226.89:5050/smart.php?id=eltasport3_twn&token=8522
+#EXTINF:-1 tvg-name="ESPN-1" tvg-logo="https://live.fanmingming.com/tv/ESPN-1.png" group-title="体育",ESPN-1
+http://46.151.196.223:14432/
+#EXTINF:-1 tvg-name="ESPN-2" tvg-logo="https://live.fanmingming.com/tv/ESPN-2.png" group-title="体育",ESPN-2
+http://46.151.196.223:14438/
+#EXTINF:-1 tvg-name="ESPN-3" tvg-logo="https://live.fanmingming.com/tv/ESPN-3.png" group-title="体育",ESPN-3
+http://46.151.196.223:14444/
+#EXTINF:-1 tvg-name="ESPN-4" tvg-logo="https://live.fanmingming.com/tv/ESPN-4.png" group-title="体育",ESPN-4
+http://46.151.196.223:14450/
+#EXTINF:-1 tvg-name="NOW SPORTS PRIME" tvg-logo="https://live.fanmingming.com/tv/NOW SPORTS PRIME.png" group-title="体育",NOW SPORTS PRIME
+http://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:-1 tvg-name="VIUTV全运-1" tvg-logo="https://live.fanmingming.com/tv/VIUTV全运-1.png" group-title="体育",VIUTV全运-1
+http://hls.168.us.kg/u/961/master.m3u8
+#EXTINF:-1 tvg-name="VIUTV全运-2" tvg-logo="https://live.fanmingming.com/tv/VIUTV全运-2.png" group-title="体育",VIUTV全运-2
+http://hls.168.us.kg/u/962/master.m3u8
