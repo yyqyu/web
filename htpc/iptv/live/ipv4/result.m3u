@@ -287,8 +287,6 @@ http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2
 http://140.238.14.55:5050/mytv.php?url=http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠.png" group-title="asia",TVB明珠
 http://140.238.14.55:5050/mytv.php?url=http://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠.png" group-title="asia",TVB明珠
-http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 #EXTINF:-1 tvg-name="TVB剧集" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB剧集.png" group-title="asia",TVB剧集
 http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
 #EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB J1.png" group-title="asia",TVB J1
@@ -307,8 +305,6 @@ http://140.238.14.55:5050/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/y
 http://140.238.14.55:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/千禧經典台.png" group-title="asia",千禧經典台
 http://140.238.14.55:5050/mytv.php?url=http://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/千禧經典台.png" group-title="asia",千禧經典台
-http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
 http://140.238.14.55:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
@@ -578,9 +574,9 @@ http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv001
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
 http://140.238.14.55:5050/litv.php?token=1314&id=litv-ftv13
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
-http://211.72.174.95:8117/0.ts
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="asia",民视新闻
+http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视影剧.png" group-title="asia",民视影剧
 http://140.238.14.55:5050/litv.php?token=1314&id=litv-ftv09
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视综艺.png" group-title="asia",民视综艺
@@ -643,8 +639,6 @@ http://140.238.14.55:5055/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false&token=
 http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="影迷數位电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/影迷數位电影.png" group-title="asia",影迷數位电影
 http://140.238.14.55:5050/litv.php?token=1314&id=4gtv-4gtv011
-#EXTINF:-1 tvg-name="韩国GCN电视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国GCN电视.png" group-title="asia",韩国GCN电视
-http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="asia",中视
 http://140.238.14.55:5055/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false&token=1314
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="asia",中视
