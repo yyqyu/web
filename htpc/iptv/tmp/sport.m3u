@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0 group-title="体育" tvg-id="4675" tvg-logo="http://epg.it999.ru/img/4675.png" tvg-rec="7",MUTV
 https://bee.tzh911.qzz.io/bee.php?id=MUTV
+#EXTINF:-1,tvg-id="RMTV" tvg-name="RMTV" tvg-logo="https://epg.112114.xyz/logo/RMTV.png" group-title="体育",RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1,tvg-id="KPL直播" tvg-name="KPL直播" tvg-logo="https://game.gtimg.cn/images/yxzj/web201706/images/comm/logo.png" group-title="体育",KPL直播
 https://isus.cc/php/huya.php?id=660002
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="体育",皇马RMTV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1,tvg-id="迪拜体育" tvg-name="迪拜体育" tvg-logo="https://epg.112114.xyz/logo/迪拜体育.png" group-title="体育",迪拜体育
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:0 group-title="体育" tvg-id="4675" tvg-logo="http://epg.it999.ru/img/4675.png" tvg-rec="7",MUTV
@@ -157,15 +157,15 @@ http://39.134.65.106/PLTV/88888888/224/3221226046/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221226053/1.m3u8
 #EXTINF:-1,tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界4K.png" group-title="体育",咪视界4K
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
-#EXTINF:-1,tvg-id="至臻视界4K" tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/至臻视界4K.png" group-title="体育",至臻视界4K
+#EXTINF:-1,tvg-id="至臻视界" tvg-name="至臻视界" tvg-logo="https://epg.112114.xyz/logo/至臻视界.png" group-title="体育",至臻视界
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
-#EXTINF:-1,tvg-id="晴彩青少" tvg-name="晴彩青少" tvg-logo="https://epg.112114.xyz/logo/晴彩青少.png" group-title="体育",晴彩青少
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525
-#EXTINF:-1,tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="https://epg.112114.xyz/logo/晴彩竞技.png" group-title="体育",晴彩竞技
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528
-#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="体育",晴彩篮球
+#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="体育",睛彩篮球
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529
-#EXTINF:-1,tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://epg.112114.xyz/logo/晴彩广场舞.png" group-title="体育",晴彩广场舞
+#EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://epg.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
 #EXTINF:-1,tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="体育",咪视界
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522
@@ -259,9 +259,9 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691
 #EXTINF:-1,tvg-id="咪视通45" tvg-name="咪视通45" tvg-logo="https://epg.112114.xyz/logo/咪视通45.png" group-title="体育",咪视通45
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
-#EXTINF:-1,tvg-id="至臻视界4K" tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/至臻视界4K.png" group-title="体育",至臻视界4K
+#EXTINF:-1,tvg-id="至臻视界4K" tvg-name="至臻视界" tvg-logo="https://epg.112114.xyz/logo/至臻视界.png" group-title="体育",至臻视界
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1,tvg-id="至臻视界4K" tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/至臻视界4K.png" group-title="体育",至臻视界4K
+#EXTINF:-1,tvg-id="至臻视界4K" tvg-name="至臻视界" tvg-logo="https://epg.112114.xyz/logo/至臻视界.png" group-title="体育",至臻视界
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&$24M-FifastbLive
 #EXTINF:-1,tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界4K.png" group-title="体育",咪视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$
