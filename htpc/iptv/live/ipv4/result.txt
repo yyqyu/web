@@ -111,8 +111,8 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 华数动作影院,http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 爱奇艺,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 爱奇艺,http://45.207.159.226:5050/mytv.php?url=http://o11.163189.xyz/stream/live/iqiyi/
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 卫视,#genre#
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
@@ -225,7 +225,6 @@ asia,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰资讯,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 凤凰资讯,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰香港,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 凤凰香港,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
@@ -234,6 +233,7 @@ RTHK31,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.m
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK32,http://45.207.159.226:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 RTHK32,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+RTHK32,http://cdn.163189.xyz/163189/rthk32
 RTHK33,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
 澳门卫视,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
 澳门卫视,https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
@@ -288,8 +288,8 @@ TVB明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 TVB剧集,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-TVB剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
 TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
+TVB剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
 TVB J1,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
 TVB J1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB J2,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
@@ -303,9 +303,9 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB亚洲武侠,http://45.207.159.226:5050/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 千禧经典台,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
 千禧经典台,http://45.207.159.226:5050/mytv.php?url=http://o11.163189.xyz/stream/live/tvbc/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB娱乐新闻,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 TVB娱乐新闻,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐新闻,http://45.207.159.226:5050/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
@@ -326,8 +326,6 @@ TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
 ViuTV,http://45.207.159.226:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 ViuTV,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
 ViuTV,https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
-ViuTV,https://cdn.163189.xyz/163189/viu
-ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV6,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
 ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
@@ -360,11 +358,11 @@ TELE CINE FUN,http://148.113.160.49:14155/
 东森购物2,http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true&token=1314
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+公视,http://74.91.26.218:82/live/pts.m3u8
+公视,http://74.91.26.218:82/live/ptsty.m3u8
+公视,http://74.91.26.218:82/live/pts.m3u8
+公视,http://74.91.26.218:82/live/ptsty.m3u8
 公视,http://211.72.174.95:8116/0.ts
-公视,http://74.91.26.218:82/live/pts.m3u8
-公视,http://74.91.26.218:82/live/ptsty.m3u8
-公视,http://74.91.26.218:82/live/pts.m3u8
-公视,http://74.91.26.218:82/live/ptsty.m3u8
 国会频道1,http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=true&token=1314
 国会频道1,http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=true&token=1314
 国会频道2,http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=true&token=1314
@@ -426,8 +424,8 @@ TELE CINE FUN,http://148.113.160.49:14155/
 倪珍越语,http://45.207.159.226:5055/index.m3u8?pid=nnews-vn&sd=1080&proxy=true&token=1314
 倪珍越语,http://45.207.159.226:5055/index.m3u8?pid=nnews-vn&sd=1080&proxy=true&token=1314
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-民视,http://211.72.174.95:8115/0.ts
 民视,http://74.91.26.218:82/live/ftv.m3u8
+民视,http://211.72.174.95:8115/0.ts
 民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
 民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
 民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
@@ -459,7 +457,6 @@ TELE CINE FUN,http://148.113.160.49:14155/
 天映经典,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
 天映经典,http://45.207.159.226:5050/mytv.php?url=http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u8
 天映经典,http://45.207.159.226:5050/mytv.php?url=http://o11.163189.xyz/stream/live/ccm/
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
@@ -546,6 +543,9 @@ megapix,http://148.113.160.49:14172/
 MY TIME,https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 Modo Viagem,http://148.113.160.49:14214/
 NOW新闻,http://45.207.159.226:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+NOW新闻,http://cdn.163189.xyz/163189/now
+NOW新闻,http://cdn.163189.xyz/163189/now
+NOW新闻,http://cdn.163189.xyz/163189/now
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW直播,http://hls.168.us.kg/u/331/master.m3u8
 NOW直播,https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
