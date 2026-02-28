@@ -152,6 +152,7 @@ RTHK31,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.m
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK32,http://45.207.159.226:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 RTHK32,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+RTHK32,http://cdn.163189.xyz/163189/rthk32
 RTHK33,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
 澳门卫视,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
 澳视澳门,http://45.207.159.226:5050/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
@@ -248,8 +249,8 @@ ViuTV6,http://45.207.159.226:5050/mytv.php?url=http://smt.veryfast.filegear-sg.m
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://feilong123.vip/409990236/tv.php?id=ssxj
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-邵氏武侠,http://iptv.4666888.xyz/iptv2A.php?id=40
 邵氏武侠,http://feilong123.vip/409990236/tv.php?id=sswx
+邵氏武侠,http://iptv.4666888.xyz/iptv2A.php?id=40
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏电影,http://feilong123.vip/409990236/tv.php?id=ssdy
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
@@ -278,7 +279,6 @@ Nick Jr,https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
 东森购物2,http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true&token=1314
 东森购物2,http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true&token=1314
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视,http://74.91.26.218:82/live/ptsty.m3u8
 公视,http://74.91.26.218:82/live/pts.m3u8
@@ -341,26 +341,21 @@ Nick Jr,https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
 龙华电影,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true&token=1314
 龙华电影,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true&token=1314
 龙华电影,http://45.207.159.226:5050/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhdy
-龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华经典,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true&token=1314
 龙华经典,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true&token=1314
 龙华经典,http://45.207.159.226:5050/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhjd
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华卡通,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn01&sd=1080&proxy=true&token=1314
 龙华卡通,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn01&sd=1080&proxy=true&token=1314
 龙华卡通,http://45.207.159.226:5050/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhkt
 龙华偶像,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true&token=1314
 龙华偶像,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true&token=1314
 龙华偶像,http://45.207.159.226:5050/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhox
-龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华日韩,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true&token=1314
 龙华日韩,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true&token=1314
 龙华日韩,http://45.207.159.226:5050/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhrh
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true&token=1314
 龙华戏剧,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true&token=1314
 龙华戏剧,http://45.207.159.226:5050/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhxj
-龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 龙华洋片,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn02&sd=1080&proxy=true&token=1314
 龙华洋片,http://45.207.159.226:5055/index.m3u8?pid=litv-longturn02&sd=1080&proxy=true&token=1314
 龙华洋片,http://45.207.159.226:5050/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhyp
@@ -517,6 +512,9 @@ MEZZO,https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
 MY TIME,https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 Modo Viagem,http://148.113.160.49:14214/
 NOW新闻,http://45.207.159.226:5050/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+NOW新闻,http://cdn.163189.xyz/163189/now
+NOW新闻,http://cdn.163189.xyz/163189/now
+NOW新闻,http://cdn.163189.xyz/163189/now
 NOW直播,https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
 NOW爆谷,http://74.91.26.218:82/live/nowbg.m3u8
 NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
