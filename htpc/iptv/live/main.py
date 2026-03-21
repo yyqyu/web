@@ -36,7 +36,6 @@ EPG_SOURCE_URL = 'https://gh-proxy.com/https://raw.githubusercontent.com/adminou
 
 # GitHub代理列表
 GITHUB_PROXIES = [
-    'https://ghproxy.cc/',
     'https://gh.ddlc.top/',
     'https://gh-proxy.com/'
 ]
