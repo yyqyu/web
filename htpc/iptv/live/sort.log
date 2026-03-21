@@ -1,13 +1,13 @@
-测速日志 2026-03-21 08:05:58
+测速日志 2026-03-21 13:00:15
 速度阈值: 50KB/s
 去重功能: 已启用
 EPG源: https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/EPG/epg.xml
-[2026-03-21 08:06:18] ⚠️ 仅读取 0.0KB 数据: http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true&token=1314
-[2026-03-21 08:06:18] ⚠️ 速度不足: http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true&token=1314
-   速度: 36.13KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.34s
-[2026-03-21 08:06:18] ⚠️ 仅读取 0.7KB 数据: http://45.207.159.226:5050/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-[2026-03-21 08:06:18] ✅ 测速成功: http://45.207.159.226:5050/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-   速度: 720.70KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.48s
-[2026-03-21 08:06:18] ⚠️ 仅读取 0.2KB 数据: http://74.91.26.218:82/live/cctv1hd.m3u8
-[2026-03-21 08:06:18] ✅ 测速成功: http://74.91.26.218:82/live/cctv1hd.m3u8
-   速度: 205.08KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.15s
+[2026-03-21 13:00:36] ⚠️ 仅读取 0.0KB 数据: http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true&token=1314
+[2026-03-21 13:00:36] ⚠️ 速度不足: http://45.207.159.226:5055/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true&token=1314
+   速度: 36.13KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.57s
+[2026-03-21 13:00:37] ⚠️ 仅读取 0.7KB 数据: http://45.207.159.226:5050/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+[2026-03-21 13:00:37] ✅ 测速成功: http://45.207.159.226:5050/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+   速度: 720.70KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.72s
+[2026-03-21 13:00:37] ⚠️ 仅读取 0.2KB 数据: http://74.91.26.218:82/live/cctv1hd.m3u8
+[2026-03-21 13:00:37] ✅ 测速成功: http://74.91.26.218:82/live/cctv1hd.m3u8
+   速度: 205.08KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.10s
