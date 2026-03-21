@@ -100,7 +100,7 @@ jobs:
         sed -i '/^\s*$/d' all.m3u
         
         # 节目源
-        rm -f e.xml && wget http://epg.51zmt.top:8000/e.xml -O e.xml
+        #rm -f e.xml && wget http://epg.51zmt.top:8000/e.xml -O e.xml
         # readme.md
         echo "Auto Update IPTV in ${{ steps.date.outputs.date }} " > README.md
 
