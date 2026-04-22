@@ -47,8 +47,8 @@ jobs:
         #sed -i '/^\s*$/d' ./tmp/cn.m3u
         
         # asia
-        rm -f ./tmp/as.m3u && wget https://airinf.pages.dev/static/iptv/asia.m3u -O ./tmp/as.m3u
-        sed -i '/^\s*$/d' ./tmp/as.m3u
+        #rm -f ./tmp/as.m3u && wget https://airinf.pages.dev/static/iptv/asia.m3u -O ./tmp/as.m3u
+        #sed -i '/^\s*$/d' ./tmp/as.m3u
         
         # 成人
         rm -f ./tmp/adult.m3u && wget https://airinf.pages.dev/static/iptv/av.m3u -O ./tmp/adult.m3u
@@ -83,7 +83,7 @@ jobs:
         # 整合源（无成人）
         rm -f iptv.m3u && touch iptv.m3u
         #cat ./tmp/cn.m3u >> iptv.m3u
-        cat ./tmp/as.m3u >> iptv.m3u
+        #cat ./tmp/as.m3u >> iptv.m3u
         cat ./tmp/sport.m3u >> iptv.m3u
         cat ./live/ipv4/result.m3u >> iptv.m3u
         sed -i '/,2026-/d' iptv.m3u
