@@ -536,13 +536,13 @@ http://113.232.2.9:1234/673168256
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="CCTV17.png" group-title="央视",CCTV17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
-http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
-http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
+http://107.150.60.122/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
+http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视",CETV1
 http://123.168.211.159:1234/923287154
 #EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视",CETV1
@@ -1784,9 +1784,9 @@ http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="澳门综艺.png" group-title="asia",澳门综艺
 https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="澳门资讯.png" group-title="asia",澳门资讯
-https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="澳门资讯.png" group-title="asia",澳门资讯
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="澳门资讯.png" group-title="asia",澳门资讯
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="澳门体育.png" group-title="asia",澳门体育
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="澳门体育.png" group-title="asia",澳门体育
@@ -2157,10 +2157,20 @@ http://45.207.159.226:5052/play/4gtv-4gtv075/index.m3u8?token=eIbUvRQxh8RkNPhHZF
 http://45.207.159.226:5052/play/4gtv-4gtv043/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="客家好劇" tvg-logo="客家好劇.png" group-title="asia",客家好劇
 http://45.207.159.226:5052/play/fast-live007/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
+#EXTINF:-1 tvg-id="1762" tvg-name="龙华电影" tvg-logo="龙华电影.png" group-title="asia",龙华电影
+https://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="1764" tvg-name="龙华经典" tvg-logo="龙华经典.png" group-title="asia",龙华经典
 http://tvs.airinf.eu.org:5051/trams/2079/playlist.m3u8?token=1314
+#EXTINF:-1 tvg-id="1764" tvg-name="龙华经典" tvg-logo="龙华经典.png" group-title="asia",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 tvg-id="1760" tvg-name="龙华偶像" tvg-logo="龙华偶像.png" group-title="asia",龙华偶像
 http://tvs.airinf.eu.org:5051/trams/812/playlist.m3u8?token=1314
+#EXTINF:-1 tvg-id="1760" tvg-name="龙华偶像" tvg-logo="龙华偶像.png" group-title="asia",龙华偶像
+https://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 tvg-id="" tvg-name="龙华日韩" tvg-logo="龙华日韩.png" group-title="asia",龙华日韩
+https://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 tvg-id="1761" tvg-name="龙华戏剧" tvg-logo="龙华戏剧.png" group-title="asia",龙华戏剧
+https://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1 tvg-id="" tvg-name="日韓電影大賞" tvg-logo="日韓電影大賞.png" group-title="asia",日韓電影大賞
 http://45.207.159.226:5052/play/fast-live022/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="免費精選動畫" tvg-logo="免費精選動畫.png" group-title="asia",免費精選動畫
@@ -2732,9 +2742,9 @@ http://tvs.airinf.eu.org:5051/trams/2272/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="Warner TV.png" group-title="asia",Warner TV
 http://tvs.airinf.eu.org:5051/trams/2293/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="WION.png" group-title="asia",WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="WION.png" group-title="asia",WION
 http://tvs.airinf.eu.org:5051/trams/2837/playlist.m3u8?token=1314
+#EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="WION.png" group-title="asia",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Workpoint" tvg-logo="Workpoint.png" group-title="asia",Workpoint
 http://tvs.airinf.eu.org:5051/trams/2245/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="WTO姐妹會" tvg-logo="WTO姐妹會.png" group-title="asia",WTO姐妹會
