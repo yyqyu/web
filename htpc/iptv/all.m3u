@@ -1349,14 +1349,22 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK35" tvg-logo="RTHK35.png" group-title="asia",RTHK35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="澳门卫视.png" group-title="asia",澳门卫视
+https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="澳视澳门.png" group-title="asia",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="澳门综艺.png" group-title="asia",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="澳门综艺.png" group-title="asia",澳门综艺
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="澳门资讯.png" group-title="asia",澳门资讯
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="澳门资讯.png" group-title="asia",澳门资讯
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="澳门体育.png" group-title="asia",澳门体育
 http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="澳门体育.png" group-title="asia",澳门体育
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚洲卫视" tvg-logo="亚洲卫视.png" group-title="asia",亚洲卫视
 https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="asia",星空卫视
