@@ -63,7 +63,6 @@ CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
-CCTV4K,http://home.amucn.net:8800/udp/239.49.0.82:8000
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -225,7 +224,6 @@ asia,#genre#
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 RTHK31,http://rihou.cc:555/tv/[Cx]RTHK-31
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://cdn.163189.xyz/163189/rthk32
 RTHK32,http://rihou.cc:555/tv/[Cx]RTHK-32
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -403,6 +401,11 @@ Nick Jr,http://45.207.159.226:5052/play/4gtv-live105/index.m3u8?token=eIbUvRQxh8
 镜新闻,http://45.207.159.226:5052/play/4gtv-4gtv075/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 客家电视台,http://45.207.159.226:5052/play/4gtv-4gtv043/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 客家好劇,http://45.207.159.226:5052/play/fast-live007/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
+龙华电影,https://cdn8.163189.xyz/163189/lhdy
+龙华经典,https://cdn8.163189.xyz/163189/lhjd
+龙华偶像,https://cdn8.163189.xyz/163189/lhox
+龙华日韩,https://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 日韓電影大賞,http://45.207.159.226:5052/play/fast-live022/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 免費精選動畫,http://45.207.159.226:5052/play/fast-live407/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 民视,http://45.207.159.226:5052/play/4gtv-4gtv002/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
@@ -503,7 +506,6 @@ Mono,http://45.207.159.226:5052/play/fast-live415/index.m3u8?token=eIbUvRQxh8RkN
 MCE,http://45.207.159.226:5052/play/litv-ftv10/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 MY TIME,https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 NHK World,http://45.207.159.226:5052/play/4gtv-live168/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-NOW新闻,http://cdn.163189.xyz/163189/now
 NOW直播,https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
 Pet Club TV,http://45.207.159.226:5052/play/4gtv-4gtv110/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 PopC,http://tl.061833.xyz/tl/popc
@@ -536,6 +538,7 @@ BLOOMBERGTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPh
 FASHIONONE,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 GagaOOLala 精選LGBTQ+好劇,http://45.207.159.226:5052/play/fast-live139/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 MagellanTV頻道 (麥哲倫頻道) ,http://45.207.159.226:5052/play/4gtv-live123/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 NewsMax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NOW体育,http://rihou.cc:555/tv/[Mt]Now体育
