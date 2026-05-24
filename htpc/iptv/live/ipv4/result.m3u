@@ -61,20 +61,6 @@ https://0472.org/hls/cgtne.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="风云足球.png" group-title="央视",风云足球
 https://stream1.freetv.fun/f2138a8afdae84246099c1f3bb72aa3714e369f6cec03df0f951f5883f2ca5f8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="传奇剧场" tvg-logo="传奇剧场.png" group-title="央视",传奇剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-#EXTINF:-1 tvg-id="" tvg-name="大家剧场" tvg-logo="大家剧场.png" group-title="央视",大家剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-id="" tvg-name="搞笑剧场" tvg-logo="搞笑剧场.png" group-title="央视",搞笑剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-id="" tvg-name="爱情剧场" tvg-logo="爱情剧场.png" group-title="央视",爱情剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-id="" tvg-name="古装剧场" tvg-logo="古装剧场.png" group-title="央视",古装剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-id="" tvg-name="军旅剧场" tvg-logo="军旅剧场.png" group-title="央视",军旅剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-id="" tvg-name="家庭剧场" tvg-logo="家庭剧场.png" group-title="央视",家庭剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-id="" tvg-name="重温经典" tvg-logo="重温经典.png" group-title="央视",重温经典
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-id="" tvg-name="重温经典" tvg-logo="重温经典.png" group-title="央视",重温经典
@@ -332,6 +318,8 @@ http://45.207.159.226:5052/play/fast-live222/index.m3u8?token=eIbUvRQxh8RkNPhHZF
 #EXTINF:-1 tvg-id="" tvg-name="TVBS台劇台" tvg-logo="TVBS台劇台.png" group-title="asia",TVBS台劇台
 http://45.207.159.226:5052/play/fast-live200/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
 http://rihou.cc:555/tv/[Cx]VIUTV粤
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
 http://rihou.cc:555/tv/[Cx]VIUTV英
@@ -450,9 +438,9 @@ http://45.207.159.226:5052/play/fast-live406/index.m3u8?token=eIbUvRQxh8RkNPhHZF
 #EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
 http://45.207.159.226:5052/play/4gtv-4gtv041/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
-http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
 http://211.72.174.95:8114/0.ts
+#EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
+http://74.91.26.218:82/live/cts.m3u8
 #EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
 http://45.207.159.226:5052/play/4gtv-4gtv052/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
@@ -550,9 +538,9 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
 http://211.72.174.95:8117/0.ts
+#EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
+http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="民视影剧.png" group-title="asia",民视影剧
 http://45.207.159.226:5052/play/litv-ftv09/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="民视综艺.png" group-title="asia",民视综艺
@@ -584,8 +572,6 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 tvg-id="" tvg-name="泰国剧集" tvg-logo="泰国剧集.png" group-title="asia",泰国剧集
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-id="" tvg-name="泰国剧集" tvg-logo="泰国剧集.png" group-title="asia",泰国剧集
 https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新唐人亞太台" tvg-logo="新唐人亞太台.png" group-title="asia",新唐人亞太台
 http://45.207.159.226:5052/play/4gtv-live050/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
@@ -604,9 +590,9 @@ http://45.207.159.226:5052/play/fast-live045/index.m3u8?token=eIbUvRQxh8RkNPhHZF
 #EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
 http://45.207.159.226:5052/play/4gtv-4gtv040/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
 http://211.72.174.95:8113/0.ts
+#EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
+http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-id="1797" tvg-name="中视经典" tvg-logo="中视经典.png" group-title="asia",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-id="1451" tvg-name="中视菁采" tvg-logo="中视菁采.png" group-title="asia",中视菁采
@@ -719,8 +705,6 @@ http://45.207.159.226:5052/play/4gtv-live168/index.m3u8?token=eIbUvRQxh8RkNPhHZF
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="" tvg-name="NOW直播" tvg-logo="NOW直播.png" group-title="asia",NOW直播
 https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="Pet Club TV.png" group-title="asia",Pet Club TV
-http://45.207.159.226:5052/play/4gtv-4gtv110/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="PopC" tvg-logo="PopC.png" group-title="asia",PopC
 http://tl.061833.xyz/tl/popc
 #EXTINF:-1 tvg-id="" tvg-name="ROCK Action" tvg-logo="ROCK Action.png" group-title="asia",ROCK Action
@@ -899,8 +883,6 @@ http://45.207.159.226:5052/play/fast-live042/index.m3u8?token=eIbUvRQxh8RkNPhHZF
 http://45.207.159.226:5052/play/fast-live217/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="爸媽囧很大" group-title="其他",爸媽囧很大
 http://45.207.159.226:5052/play/fast-live233/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="环球电视" group-title="其他",环球电视
-http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="環遊世界800天" group-title="其他",環遊世界800天
 http://45.207.159.226:5052/play/fast-live228/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="終極一班" group-title="其他",終極一班
