@@ -329,6 +329,8 @@ http://119.185.70.185:1234/673168256
 http://182.61.15.163:9080/673168256
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
 http://107.150.60.122/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
+http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
 http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="中国天气.png" group-title="央视",中国天气
@@ -1533,20 +1535,22 @@ http://166.0.198.156:5054/play/fast-live035/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/fast-live206/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="2025雙北世壯運" group-title="其他",2025雙北世壯運
 http://166.0.198.156:5054/play/fast-live238/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！石宇奇带队冲击冠军 1号场地 10:00" group-title="其他",BWF 全主力出击！石宇奇带队冲击冠军 1号场地 10:00
+#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！陈雨菲、李诗沣轮番登场 1号场地 10:00" group-title="其他",BWF 全主力出击！陈雨菲、李诗沣轮番登场 1号场地 10:00
 http://119.185.70.185:1234/965105779
-#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！石宇奇带队冲击冠军 1号场地英文解说视角 10:00" group-title="其他",BWF 全主力出击！石宇奇带队冲击冠军 1号场地英文解说视角 10:00
+#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！陈雨菲、李诗沣轮番登场 1号场地英文解说视角 10:00" group-title="其他",BWF 全主力出击！陈雨菲、李诗沣轮番登场 1号场地英文解说视角 10:00
 http://119.185.70.185:1234/965112288
-#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！石宇奇带队冲击冠军 2号场地 10:00" group-title="其他",BWF 全主力出击！石宇奇带队冲击冠军 2号场地 10:00
+#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！陈雨菲、李诗沣轮番登场 2号场地 10:00" group-title="其他",BWF 全主力出击！陈雨菲、李诗沣轮番登场 2号场地 10:00
 http://119.185.70.185:1234/965105840
-#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！石宇奇带队冲击冠军 冯彦哲/黄东萍VS黄显维/钟舒韵 10:00" group-title="其他",BWF 全主力出击！石宇奇带队冲击冠军 冯彦哲/黄东萍VS黄显维/钟舒韵 10:00
-http://119.185.70.185:1234/965112313
-#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！石宇奇带队冲击冠军 石宇奇VS戚又仁 10:00" group-title="其他",BWF 全主力出击！石宇奇带队冲击冠军 石宇奇VS戚又仁 10:00
-http://119.185.70.185:1234/965112384
+#EXTINF:-1 tvg-id="" tvg-name="BWF 全主力出击！陈雨菲、李诗沣轮番登场 3号场地 10:10" group-title="其他",BWF 全主力出击！陈雨菲、李诗沣轮番登场 3号场地 10:10
+http://119.185.70.185:1234/965105860
 #EXTINF:-1 tvg-id="" tvg-name="BWF 印尼羽毛球公开赛第二日 1号场地 10:00" group-title="其他",BWF 印尼羽毛球公开赛第二日 1号场地 10:00
 http://119.185.70.185:1234/965105874
+#EXTINF:-1 tvg-id="" tvg-name="BWF 印尼羽毛球公开赛第二日 1号场地英文解说视角 10:00" group-title="其他",BWF 印尼羽毛球公开赛第二日 1号场地英文解说视角 10:00
+http://119.185.70.185:1234/965114823
 #EXTINF:-1 tvg-id="" tvg-name="BWF 印尼羽毛球公开赛第二日 2号场地 10:00" group-title="其他",BWF 印尼羽毛球公开赛第二日 2号场地 10:00
 http://119.185.70.185:1234/965105922
+#EXTINF:-1 tvg-id="" tvg-name="BWF 印尼羽毛球公开赛第二日 2号场地英文解说视角 10:00" group-title="其他",BWF 印尼羽毛球公开赛第二日 2号场地英文解说视角 10:00
+http://119.185.70.185:1234/965114832
 #EXTINF:-1 tvg-id="" tvg-name="BWF 印尼羽毛球公开赛第二日 3号场地 10:10" group-title="其他",BWF 印尼羽毛球公开赛第二日 3号场地 10:10
 http://119.185.70.185:1234/965105981
 #EXTINF:-1 tvg-id="" tvg-name="BWF 陈雨菲、李诗沣、胡哲安晋级四强 1号场地 15:00" group-title="其他",BWF 陈雨菲、李诗沣、胡哲安晋级四强 1号场地 15:00
@@ -1573,8 +1577,12 @@ http://119.185.70.185:1234/964984763
 http://182.61.15.163:9080/964925051
 #EXTINF:-1 tvg-id="" tvg-name="CBA 篮球公园——CBA半决赛激战正酣 篮球公园 18:35" group-title="其他",CBA 篮球公园——CBA半决赛激战正酣 篮球公园 18:35
 http://182.61.15.163:9080/964928322
+#EXTINF:-1 tvg-id="" tvg-name="JCK JCK战觉城王者系列014：赛前新闻发布会 清流播出 16:00" group-title="其他",JCK JCK战觉城王者系列014：赛前新闻发布会 清流播出 16:00
+http://119.185.70.185:1234/965115113
 #EXTINF:-1 tvg-id="" tvg-name="MagellanTV頻道 (麥哲倫頻道) " group-title="其他",MagellanTV頻道 (麥哲倫頻道) 
 http://166.0.198.156:5054/play/4gtv-live123/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
+#EXTINF:-1 tvg-id="" tvg-name="NBA 《NBA周刊》2026总决赛G1特辑 拜月宁 管维佳 曾令旭 09:55" group-title="其他",NBA 《NBA周刊》2026总决赛G1特辑 拜月宁 管维佳 曾令旭 09:55
+http://119.185.70.185:1234/965118631
 #EXTINF:-1 tvg-id="" tvg-name="NBA 尼克斯VS骑士 吴博文 07:55" group-title="其他",NBA 尼克斯VS骑士 吴博文 07:55
 http://182.61.15.163:9080/964862793
 #EXTINF:-1 tvg-id="" tvg-name="NBA 尼克斯VS骑士 庄宁宇 陈正昊 徐咏 07:30" group-title="其他",NBA 尼克斯VS骑士 庄宁宇 陈正昊 徐咏 07:30
@@ -1605,6 +1613,8 @@ http://182.61.15.163:9080/964946199
 http://182.61.15.163:9080/964889126
 #EXTINF:-1 tvg-id="" tvg-name="NBA经典赛事 NBA季后赛精彩重播：骑士vs尼克斯 G2 庄宁宇 陈正昊 徐咏 18:00" group-title="其他",NBA经典赛事 NBA季后赛精彩重播：骑士vs尼克斯 G2 庄宁宇 陈正昊 徐咏 18:00
 http://182.61.15.163:9080/964868810
+#EXTINF:-1 tvg-id="" tvg-name="NBA经典赛事 NBA精彩重播：1994总决赛 尼克斯vs火箭 G5 徐秦威 18:00" group-title="其他",NBA经典赛事 NBA精彩重播：1994总决赛 尼克斯vs火箭 G5 徐秦威 18:00
+http://119.185.70.185:1234/965106048
 #EXTINF:-1 tvg-id="" tvg-name="NBA经典赛事 NBA精彩重播：2007总决赛 骑士vs马刺 G1 06/07赛季NBA总决赛精彩重播全场回放：骑士vs马刺 G1（王晓晨） 18:00" group-title="其他",NBA经典赛事 NBA精彩重播：2007总决赛 骑士vs马刺 G1 06/07赛季NBA总决赛精彩重播全场回放：骑士vs马刺 G1（王晓晨） 18:00
 http://119.185.70.185:1234/965110595
 #EXTINF:-1 tvg-id="" tvg-name="PFL PFL布鲁塞尔站：哈比罗拉VS亨德森 王琰博 00:30" group-title="其他",PFL PFL布鲁塞尔站：哈比罗拉VS亨德森 王琰博 00:30
@@ -1641,8 +1651,8 @@ http://182.61.15.163:9080/964754488
 http://182.61.15.163:9080/964754473
 #EXTINF:-1 tvg-id="" tvg-name="WTA 精彩回顾：姆博科 vs 纳瓦罗 赛场原声 14:00" group-title="其他",WTA 精彩回顾：姆博科 vs 纳瓦罗 赛场原声 14:00
 http://119.185.70.185:1234/965017312
-#EXTINF:-1 tvg-id="" tvg-name="WTA 精彩回顾：布克沙 vs 郑钦文 赛场原声 12:00" group-title="其他",WTA 精彩回顾：布克沙 vs 郑钦文 赛场原声 12:00
-http://119.185.70.185:1234/965017269
+#EXTINF:-1 tvg-id="" tvg-name="WTA 精彩回顾：布克沙 vs 郑钦文 全场回放（单文强） 12:00" group-title="其他",WTA 精彩回顾：布克沙 vs 郑钦文 全场回放（单文强） 12:00
+http://119.185.70.185:1234/964640348
 #EXTINF:-1 tvg-id="" tvg-name="WTA 精彩回顾：张帅 vs 利斯 赛场原声 14:00" group-title="其他",WTA 精彩回顾：张帅 vs 利斯 赛场原声 14:00
 http://119.185.70.185:1234/965017277
 #EXTINF:-1 tvg-id="" tvg-name="WTA 精彩回顾：莱巴金娜 vs 穆霍娃 赛场原声 12:00" group-title="其他",WTA 精彩回顾：莱巴金娜 vs 穆霍娃 赛场原声 12:00
@@ -1657,6 +1667,8 @@ http://182.61.15.163:9080/964753863
 http://182.61.15.163:9080/964753841
 #EXTINF:-1 tvg-id="" tvg-name="WTT 倪夏莲迎开门红 陈思羽3-1对手 全场回放（一号桌） 17:00" group-title="其他",WTT 倪夏莲迎开门红 陈思羽3-1对手 全场回放（一号桌） 17:00
 http://119.185.70.185:1234/965112642
+#EXTINF:-1 tvg-id="" tvg-name="WTT 倪夏莲迎开门红 陈思羽3-1对手 全场回放（三号桌） 17:00" group-title="其他",WTT 倪夏莲迎开门红 陈思羽3-1对手 全场回放（三号桌） 17:00
+http://119.185.70.185:1234/965116404
 #EXTINF:-1 tvg-id="" tvg-name="WTT 倪夏莲迎开门红 陈思羽3-1对手 全场回放（二号桌） 17:00" group-title="其他",WTT 倪夏莲迎开门红 陈思羽3-1对手 全场回放（二号桌） 17:00
 http://119.185.70.185:1234/965111772
 #EXTINF:-1 tvg-id="" tvg-name="WTT 倪夏莲迎开门红 陈思羽3-1对手 全场回放（四号桌） 17:00" group-title="其他",WTT 倪夏莲迎开门红 陈思羽3-1对手 全场回放（四号桌） 17:00
@@ -1677,27 +1689,25 @@ http://119.185.70.185:1234/965105749
 http://119.185.70.185:1234/965105762
 #EXTINF:-1 tvg-id="" tvg-name="WTT 单打资格赛最终轮 4号桌 22:00" group-title="其他",WTT 单打资格赛最终轮 4号桌 22:00
 http://119.185.70.185:1234/965105770
-#EXTINF:-1 tvg-id="" tvg-name="WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 2026WTT斯科普里常规挑战赛Day1夜间场四号桌全场回放（赛场原声） 23:00" group-title="其他",WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 2026WTT斯科普里常规挑战赛Day1夜间场四号桌全场回放（赛场原声） 23:00
-http://119.185.70.185:1234/965113223
-#EXTINF:-1 tvg-id="" tvg-name="WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 2026WTT斯科普里常规挑战赛女单资格赛第2轮回放：彭郁涵3-0安德莉娅·帕夫洛维奇（赛场原声） 23:00" group-title="其他",WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 2026WTT斯科普里常规挑战赛女单资格赛第2轮回放：彭郁涵3-0安德莉娅·帕夫洛维奇（赛场原声） 23:00
-http://119.185.70.185:1234/965113690
-#EXTINF:-1 tvg-id="" tvg-name="WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 2026WTT斯科普里常规挑战赛男单资格赛第2轮回放：尤利安·奇里塔3-0哈里亚·斯特凡·乌尔苏特（赛场原声） 23:00" group-title="其他",WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 2026WTT斯科普里常规挑战赛男单资格赛第2轮回放：尤利安·奇里塔3-0哈里亚·斯特凡·乌尔苏特（赛场原声） 23:00
-http://119.185.70.185:1234/965113684
+#EXTINF:-1 tvg-id="" tvg-name="WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 全场回放（一号桌） 23:00" group-title="其他",WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 全场回放（一号桌） 23:00
+http://119.185.70.185:1234/965115022
 #EXTINF:-1 tvg-id="" tvg-name="WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 全场回放（三号桌） 23:00" group-title="其他",WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 全场回放（三号桌） 23:00
 http://119.185.70.185:1234/965113215
 #EXTINF:-1 tvg-id="" tvg-name="WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 全场回放（二号桌） 23:00" group-title="其他",WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 全场回放（二号桌） 23:00
 http://119.185.70.185:1234/965113198
+#EXTINF:-1 tvg-id="" tvg-name="WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 全场回放（四号桌） 23:00" group-title="其他",WTT 吴咏琳让二追三 彭郁涵3-0帕夫洛维奇 全场回放（四号桌） 23:00
+http://119.185.70.185:1234/965113223
 #EXTINF:-1 tvg-id="" tvg-name="WTT 塔卡/玛纳什·沙晋级四强！朱芊曦3-1取胜 2号桌 17:00" group-title="其他",WTT 塔卡/玛纳什·沙晋级四强！朱芊曦3-1取胜 2号桌 17:00
 http://182.61.15.163:9080/964854382
 #EXTINF:-1 tvg-id="" tvg-name="WTT 塔卡/玛纳什·沙晋级四强！朱芊曦3-1取胜 凌维康 17:00" group-title="其他",WTT 塔卡/玛纳什·沙晋级四强！朱芊曦3-1取胜 凌维康 17:00
 http://182.61.15.163:9080/964854467
-#EXTINF:-1 tvg-id="" tvg-name="WTT 彭郁涵激战林依诺 倪夏莲迎战日乒小将 1号桌 23:00" group-title="其他",WTT 彭郁涵激战林依诺 倪夏莲迎战日乒小将 1号桌 23:00
+#EXTINF:-1 tvg-id="" tvg-name="WTT 彭郁涵PK林依诺 倪夏莲战日乒小将 1号桌 23:00" group-title="其他",WTT 彭郁涵PK林依诺 倪夏莲战日乒小将 1号桌 23:00
 http://119.185.70.185:1234/965047818
-#EXTINF:-1 tvg-id="" tvg-name="WTT 彭郁涵激战林依诺 倪夏莲迎战日乒小将 2号桌 23:00" group-title="其他",WTT 彭郁涵激战林依诺 倪夏莲迎战日乒小将 2号桌 23:00
+#EXTINF:-1 tvg-id="" tvg-name="WTT 彭郁涵PK林依诺 倪夏莲战日乒小将 2号桌 23:00" group-title="其他",WTT 彭郁涵PK林依诺 倪夏莲战日乒小将 2号桌 23:00
 http://119.185.70.185:1234/965047829
-#EXTINF:-1 tvg-id="" tvg-name="WTT 彭郁涵激战林依诺 倪夏莲迎战日乒小将 3号桌 23:00" group-title="其他",WTT 彭郁涵激战林依诺 倪夏莲迎战日乒小将 3号桌 23:00
+#EXTINF:-1 tvg-id="" tvg-name="WTT 彭郁涵PK林依诺 倪夏莲战日乒小将 3号桌 23:00" group-title="其他",WTT 彭郁涵PK林依诺 倪夏莲战日乒小将 3号桌 23:00
 http://119.185.70.185:1234/965047840
-#EXTINF:-1 tvg-id="" tvg-name="WTT 彭郁涵激战林依诺 倪夏莲迎战日乒小将 4号桌 23:00" group-title="其他",WTT 彭郁涵激战林依诺 倪夏莲迎战日乒小将 4号桌 23:00
+#EXTINF:-1 tvg-id="" tvg-name="WTT 彭郁涵PK林依诺 倪夏莲战日乒小将 4号桌 23:00" group-title="其他",WTT 彭郁涵PK林依诺 倪夏莲战日乒小将 4号桌 23:00
 http://119.185.70.185:1234/965047855
 #EXTINF:-1 tvg-id="" tvg-name="WTT 林仲勋拿下关键分横扫 桥本挺进8强 1号桌 23:00" group-title="其他",WTT 林仲勋拿下关键分横扫 桥本挺进8强 1号桌 23:00
 http://182.61.15.163:9080/964854481
@@ -1975,20 +1985,22 @@ http://119.185.70.185:1234/965030506
 http://119.185.70.185:1234/965068668
 #EXTINF:-1 tvg-id="" tvg-name="土伦杯 中国U19VS刚果（金）U23 赛场原声 20:45" group-title="其他",土伦杯 中国U19VS刚果（金）U23 赛场原声 20:45
 http://119.185.70.185:1234/965068672
+#EXTINF:-1 tvg-id="" tvg-name="土伦杯 刚果（金）U23VS突尼斯U23 全场回放（乔迁） 00:15" group-title="其他",土伦杯 刚果（金）U23VS突尼斯U23 全场回放（乔迁） 00:15
+http://119.185.70.185:1234/965114791
 #EXTINF:-1 tvg-id="" tvg-name="土伦杯 委内瑞拉U20VS加拿大U20 全场回放（鹿中原） 00:15" group-title="其他",土伦杯 委内瑞拉U20VS加拿大U20 全场回放（鹿中原） 00:15
 http://119.185.70.185:1234/965113147
-#EXTINF:-1 tvg-id="" tvg-name="土伦杯 日本U19VS科特迪瓦U23 全场回放 20:45" group-title="其他",土伦杯 日本U19VS科特迪瓦U23 全场回放 20:45
-http://119.185.70.185:1234/965113149
 #EXTINF:-1 tvg-id="" tvg-name="土伦杯 日本U19VS科特迪瓦U23 全场回放（孙雨轩） 20:45" group-title="其他",土伦杯 日本U19VS科特迪瓦U23 全场回放（孙雨轩） 20:45
 http://119.185.70.185:1234/965112248
 #EXTINF:-1 tvg-id="" tvg-name="土伦杯 日本U19VS葡萄牙U20 孙雨轩 20:45" group-title="其他",土伦杯 日本U19VS葡萄牙U20 孙雨轩 20:45
 http://119.185.70.185:1234/965068830
 #EXTINF:-1 tvg-id="" tvg-name="土伦杯 日本U19VS葡萄牙U20 赛场原声 20:45" group-title="其他",土伦杯 日本U19VS葡萄牙U20 赛场原声 20:45
 http://119.185.70.185:1234/965068729
-#EXTINF:-1 tvg-id="" tvg-name="土伦杯 沙特阿拉伯U21VS哥伦比亚U19 乔迁 00:15" group-title="其他",土伦杯 沙特阿拉伯U21VS哥伦比亚U19 乔迁 00:15
-http://119.185.70.185:1234/965068824
+#EXTINF:-1 tvg-id="" tvg-name="土伦杯 日本U19VS葡萄牙U20 赛场原声 20:45" group-title="其他",土伦杯 日本U19VS葡萄牙U20 赛场原声 20:45
+http://119.185.70.185:1234/965119506
 #EXTINF:-1 tvg-id="" tvg-name="土伦杯 沙特阿拉伯U21VS哥伦比亚U19 赛场原声 00:15" group-title="其他",土伦杯 沙特阿拉伯U21VS哥伦比亚U19 赛场原声 00:15
 http://119.185.70.185:1234/965068707
+#EXTINF:-1 tvg-id="" tvg-name="土伦杯 沙特阿拉伯U21VS哥伦比亚U19 鹿中原 00:15" group-title="其他",土伦杯 沙特阿拉伯U21VS哥伦比亚U19 鹿中原 00:15
+http://119.185.70.185:1234/965068824
 #EXTINF:-1 tvg-id="" tvg-name="大兵日記" group-title="其他",大兵日記
 http://166.0.198.156:5054/play/fast-live039/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="天才衝衝衝" group-title="其他",天才衝衝衝
