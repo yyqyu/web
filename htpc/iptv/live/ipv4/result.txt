@@ -68,8 +68,8 @@ CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
 CCTV4K,http://home.amucn.net:8800/udp/239.49.0.82:8000
+CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -135,8 +135,8 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 湖南卫视,http://111.61.236.247:9081/hls/24/index.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
-湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
 浙江卫视,http://hitv.airinf.eu.org:5052/trams/693/playlist.m3u8?token=1314
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -144,6 +144,7 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://hitv.airinf.eu.org:5052/trams/2229/playlist.m3u8?token=1314
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 东方卫视,http://111.61.236.247:9081/hls/40/index.m3u8
@@ -265,7 +266,6 @@ asia,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://hitv.airinf.eu.org:5052/trams/1345/playlist.m3u8?token=1314
@@ -305,8 +305,8 @@ TVB翡翠,http://hitv.airinf.eu.org:5052/trams/1939/playlist.m3u8?token=1314
 TVB翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 TVB翡翠,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB翡翠,http://rihou.cc:555/tv/[Pd]无线翡4k
+TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -465,8 +465,8 @@ Nation,http://hitv.airinf.eu.org:5052/trams/2247/playlist.m3u8?token=1314
 經典卡通,http://166.0.198.156:5054/play/4gtv-live022/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 經典卡通,http://166.0.198.156:5054/play/fast-live406/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 华视,http://166.0.198.156:5054/play/4gtv-4gtv041/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-华视,http://74.91.26.218:82/live/cts.m3u8
 华视,http://211.72.174.95:8114/0.ts
+华视,http://74.91.26.218:82/live/cts.m3u8
 华视新闻,http://166.0.198.156:5054/play/4gtv-4gtv052/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 华视好剧,http://166.0.198.156:5054/play/fast-live005/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
@@ -508,6 +508,7 @@ Nation,http://hitv.airinf.eu.org:5052/trams/2247/playlist.m3u8?token=1314
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 日韓電影大賞,http://166.0.198.156:5054/play/fast-live022/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 免費精選動畫,http://166.0.198.156:5054/play/fast-live407/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 民视,http://166.0.198.156:5054/play/4gtv-4gtv002/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
@@ -521,13 +522,13 @@ Nation,http://hitv.airinf.eu.org:5052/trams/2247/playlist.m3u8?token=1314
 民视台湾,http://hitv.airinf.eu.org:5052/trams/2033/playlist.m3u8?token=1314
 民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
 民视新闻,http://166.0.198.156:5054/play/litv-ftv13/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
+民视新闻,http://211.72.174.95:8117/0.ts
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
-民视新闻,http://211.72.174.95:8117/0.ts
 民视影剧,http://166.0.198.156:5054/play/litv-ftv09/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺,http://166.0.198.156:5054/play/4gtv-4gtv004/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
@@ -549,7 +550,6 @@ Nation,http://hitv.airinf.eu.org:5052/trams/2247/playlist.m3u8?token=1314
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial
 纬来精彩,http://hitv.airinf.eu.org:5052/trams/2472/playlist.m3u8?token=1314
@@ -815,8 +815,8 @@ Vellithirai,http://hitv.airinf.eu.org:5052/trams/2816/playlist.m3u8?token=1314
 Vijay Super,http://hitv.airinf.eu.org:5052/trams/2772/playlist.m3u8?token=1314
 Vision Prime,http://hitv.airinf.eu.org:5052/trams/2272/playlist.m3u8?token=1314
 Warner TV,http://hitv.airinf.eu.org:5052/trams/2293/playlist.m3u8?token=1314
-WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 WION,http://hitv.airinf.eu.org:5052/trams/2837/playlist.m3u8?token=1314
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Workpoint,http://hitv.airinf.eu.org:5052/trams/2245/playlist.m3u8?token=1314
 WTO姐妹會,http://166.0.198.156:5054/play/fast-live207/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 WWE,http://hitv.airinf.eu.org:5052/trams/1922/playlist.m3u8?token=1314
