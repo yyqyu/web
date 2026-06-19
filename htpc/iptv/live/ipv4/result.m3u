@@ -134,17 +134,17 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="CCTV17.png" group-title="央视",CCTV17
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
-http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
-http://home.amucn.net:8800/udp/239.49.0.82:8000
+http://107.150.60.122/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
 http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
-http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
+http://home.amucn.net:8800/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
+http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视",CETV1
 http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="74" tvg-name="CETV2" tvg-logo="CETV2.png" group-title="央视",CETV2
@@ -153,8 +153,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1860" tvg-name="CETV4" tvg-logo="CETV4.png" group-title="央视",CETV4
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="CGTN.png" group-title="央视",CGTN
-http://hitv.airinf.eu.org:5052/trams/2562/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="CGTN.png" group-title="央视",CGTN
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="CGTN.png" group-title="央视",CGTN
@@ -252,13 +250,9 @@ http://hmfs.f3322.net:3388/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华数电影" tvg-logo="华数电影.png" group-title="央视",华数电影
 http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="爱奇艺" tvg-logo="爱奇艺.png" group-title="央视",爱奇艺
-http://hitv.airinf.eu.org:5052/trams/1889/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="爱奇艺" tvg-logo="爱奇艺.png" group-title="央视",爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="" tvg-name="爱奇艺" tvg-logo="爱奇艺.png" group-title="央视",爱奇艺
 http://iptv.4666888.xyz/iptv2A.php?id=21
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
-http://hitv.airinf.eu.org:5052/trams/690/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
 http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
@@ -268,11 +262,9 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=13
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
 https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
-http://hitv.airinf.eu.org:5052/trams/693/playlist.m3u8?token=1314
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=13
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
 http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
@@ -286,23 +278,15 @@ http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
 http://iptv.4666888.xyz/iptv2A.php?id=14
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
-http://hitv.airinf.eu.org:5052/trams/2229/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://111.61.236.247:9081/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视",北京卫视
-http://hitv.airinf.eu.org:5052/trams/605/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视",北京卫视
 http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视",北京卫视
 http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视",江苏卫视
-http://hitv.airinf.eu.org:5052/trams/691/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视",江苏卫视
 http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视",江苏卫视
@@ -320,21 +304,15 @@ http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="卫视",重庆卫视
 http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视",四川卫视
-http://hitv.airinf.eu.org:5052/trams/701/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视",四川卫视
 http://111.61.236.247:9081/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视",四川卫视
 http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
-http://hitv.airinf.eu.org:5052/trams/697/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 http://111.61.236.247:9081/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
-http://hitv.airinf.eu.org:5052/trams/1832/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
 http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
@@ -346,8 +324,6 @@ http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视",广东卫视
-http://hitv.airinf.eu.org:5052/trams/2057/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视",广东卫视
 http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视",广东卫视
 http://183.237.95.108:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -355,8 +331,6 @@ http://183.237.95.108:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=
 http://111.61.236.247:9081/hls/43/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视",广东卫视
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="广西卫视.png" group-title="卫视",广西卫视
-http://hitv.airinf.eu.org:5052/trams/606/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="广西卫视.png" group-title="卫视",广西卫视
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="厦门卫视.png" group-title="卫视",厦门卫视
@@ -389,8 +363,6 @@ http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
 http://111.61.236.247:9081/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="卫视",湖北卫视
-http://hitv.airinf.eu.org:5052/trams/608/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="卫视",湖北卫视
 http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="卫视",湖北卫视
@@ -499,8 +471,6 @@ http://183.237.95.108:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=
 http://183.237.95.108:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="广州新闻.png" group-title="地方",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=e2dc470aa40798640857deb96b922f74&txTime=18d0548e823
-#EXTINF:-1 tvg-id="" tvg-name="珠江台" tvg-logo="珠江台.png" group-title="地方",珠江台
-http://hitv.airinf.eu.org:5052/trams/609/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
 http://112.46.105.20:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
@@ -516,8 +486,6 @@ http://166.0.198.156:5054/play/fast-live033/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="" tvg-name="精彩陸劇2台" tvg-logo="精彩陸劇2台.png" group-title="地方",精彩陸劇2台
 http://166.0.198.156:5054/play/fast-live043/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="asia",凤凰中文
-http://hitv.airinf.eu.org:5052/trams/60/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="asia",凤凰中文
 http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="asia",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -529,8 +497,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=27
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="asia",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="asia",凤凰香港
-http://hitv.airinf.eu.org:5052/trams/1345/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="asia",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="asia",凤凰香港
@@ -582,8 +548,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-id="" tvg-name="青田电视" tvg-logo="青田电视.png" group-title="asia",青田电视
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
-http://hitv.airinf.eu.org:5052/trams/2099/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
@@ -593,10 +557,6 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
-http://hitv.airinf.eu.org:5052/trams/2728/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
-http://hitv.airinf.eu.org:5052/trams/1939/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
@@ -613,6 +573,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
+https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
 http://rihou.cc:555/tv/[Pd]无线华丽
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
@@ -628,11 +592,11 @@ http://iptv.4666888.xyz/iptv2A.php?id=28
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
-http://r.jdshipin.com/Voac4
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
+http://r.jdshipin.com/Voac4
 #EXTINF:-1 tvg-id="" tvg-name="TVB明珠" tvg-logo="TVB明珠.png" group-title="asia",TVB明珠
 https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 tvg-id="" tvg-name="TVB明珠" tvg-logo="TVB明珠.png" group-title="asia",TVB明珠
@@ -665,14 +629,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
 http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB亚洲" tvg-logo="TVB亚洲.png" group-title="asia",TVB亚洲
-http://hitv.airinf.eu.org:5052/trams/2729/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="TVB亚洲武侠.png" group-title="asia",TVB亚洲武侠
 http://rihou.cc:555/tv/[Pd]无线功夫
 #EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="TVB亚洲武侠.png" group-title="asia",TVB亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
-http://hitv.airinf.eu.org:5052/trams/2731/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
 http://rihou.cc:555/tv/[Pd]无线千禧
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
@@ -683,8 +643,6 @@ https://o11.163189.xyz/stream/live/tvbc/
 http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
 http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻" tvg-logo="TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
-http://hitv.airinf.eu.org:5052/trams/2730/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻" tvg-logo="TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
 http://rihou.cc:555/tv/[Pd]无线娱乐
 #EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻" tvg-logo="TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
@@ -706,8 +664,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 #EXTINF:-1 tvg-id="1496" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
 http://166.0.198.156:5054/play/media-live073/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1496" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
-http://hitv.airinf.eu.org:5052/trams/735/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1496" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-id="1496" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -726,9 +682,9 @@ http://166.0.198.156:5054/play/4gtv-4gtv068/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
 http://166.0.198.156:5054/play/media-live072/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
-http://rihou.cc:555/tv/[FY]tvbS新闻
-#EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
+http://rihou.cc:555/tv/[FY]tvbS新闻
 #EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="" tvg-name="TVBS精采台" tvg-logo="TVBS精采台.png" group-title="asia",TVBS精采台
@@ -781,62 +737,18 @@ http://166.0.198.156:5054/play/litv-xinchuang20/index.m3u8?token=eIbUvRQxh8RkNPh
 http://166.0.198.156:5054/play/4gtv-live120/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達寵物運動台" tvg-logo="愛爾達寵物運動台.png" group-title="asia",愛爾達寵物運動台
 http://166.0.198.156:5054/play/4gtv-4gtv070/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="香港面包" tvg-logo="香港面包.png" group-title="asia",香港面包
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="Discovery Asia.png" group-title="asia",Discovery Asia
-http://hitv.airinf.eu.org:5052/trams/2888/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids Tamil" tvg-logo="Discovery Kids Tamil.png" group-title="asia",Discovery Kids Tamil
-http://hitv.airinf.eu.org:5052/trams/1841/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World Tamil" tvg-logo="Discovery World Tamil.png" group-title="asia",Discovery World Tamil
-http://hitv.airinf.eu.org:5052/trams/1834/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="Dreamworks.png" group-title="asia",Dreamworks
 http://166.0.198.156:5054/play/4gtv-live017/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="Dreamworks.png" group-title="asia",Dreamworks
-http://hitv.airinf.eu.org:5052/trams/2785/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="HBO Family.png" group-title="asia",HBO Family
-http://hitv.airinf.eu.org:5052/trams/2711/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HBO +" tvg-logo="HBO +.png" group-title="asia",HBO +
-http://hitv.airinf.eu.org:5052/trams/1015/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HBO +" tvg-logo="HBO +.png" group-title="asia",HBO +
-http://hitv.airinf.eu.org:5052/trams/898/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="HBO Hits.png" group-title="asia",HBO Hits
-http://hitv.airinf.eu.org:5052/trams/2782/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="HBO Hits.png" group-title="asia",HBO Hits
-http://hitv.airinf.eu.org:5052/trams/1207/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="HBO Signature.png" group-title="asia",HBO Signature
-http://hitv.airinf.eu.org:5052/trams/2722/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="1783" tvg-name="History" tvg-logo="History.png" group-title="asia",History
 http://166.0.198.156:5054/play/4gtv-live026/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1783" tvg-name="History" tvg-logo="History.png" group-title="asia",History
-http://hitv.airinf.eu.org:5052/trams/472/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="History Tamil" tvg-logo="History Tamil.png" group-title="asia",History Tamil
-http://hitv.airinf.eu.org:5052/trams/1836/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="Hits.png" group-title="asia",Hits
 http://166.0.198.156:5054/play/4gtv-live620/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="Hits.png" group-title="asia",Hits
-http://hitv.airinf.eu.org:5052/trams/2292/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Hits Movie" tvg-logo="Hits Movie.png" group-title="asia",Hits Movie
-http://hitv.airinf.eu.org:5052/trams/2299/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="Duck TV.png" group-title="asia",Duck TV
 http://166.0.198.156:5054/play/fast-live409/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1605" tvg-name="Nick Jr" tvg-logo="Nick Jr.png" group-title="asia",Nick Jr
 http://166.0.198.156:5054/play/4gtv-live032/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1605" tvg-name="Nick Jr" tvg-logo="Nick Jr.png" group-title="asia",Nick Jr
 http://166.0.198.156:5054/play/4gtv-live105/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1605" tvg-name="Nick Jr" tvg-logo="Nick Jr.png" group-title="asia",Nick Jr
-http://hitv.airinf.eu.org:5052/trams/1986/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD" tvg-logo="NatGeo HD.png" group-title="asia",NatGeo HD
-http://hitv.airinf.eu.org:5052/trams/2235/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Tamil" tvg-logo="NatGeo Tamil.png" group-title="asia",NatGeo Tamil
-http://hitv.airinf.eu.org:5052/trams/1838/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Tamil" tvg-logo="NatGeo Tamil.png" group-title="asia",NatGeo Tamil
-http://hitv.airinf.eu.org:5052/trams/1839/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="NatGeo Wild HD.png" group-title="asia",NatGeo Wild HD
-http://hitv.airinf.eu.org:5052/trams/1255/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="NatGeo Wild HD.png" group-title="asia",NatGeo Wild HD
-http://hitv.airinf.eu.org:5052/trams/2106/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Nation" tvg-logo="Nation.png" group-title="asia",Nation
-http://hitv.airinf.eu.org:5052/trams/2247/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩台" tvg-logo="八大精彩台.png" group-title="asia",八大精彩台
 http://166.0.198.156:5054/play/4gtv-4gtv034/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="八大综艺台" tvg-logo="八大综艺台.png" group-title="asia",八大综艺台
@@ -884,13 +796,11 @@ http://166.0.198.156:5054/play/4gtv-live046/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="" tvg-name="哆啦Ａ夢台" tvg-logo="哆啦Ａ夢台.png" group-title="asia",哆啦Ａ夢台
 http://166.0.198.156:5054/play/fast-live405/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1498" tvg-name="非凡新闻" tvg-logo="非凡新闻.png" group-title="asia",非凡新闻
-http://hitv.airinf.eu.org:5052/trams/575/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1498" tvg-name="非凡新闻" tvg-logo="非凡新闻.png" group-title="asia",非凡新闻
 http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-id="" tvg-name="公视" tvg-logo="公视.png" group-title="asia",公视
-http://211.72.174.95:8116/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="公视" tvg-logo="公视.png" group-title="asia",公视
 http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="公视" tvg-logo="公视.png" group-title="asia",公视
+http://211.72.174.95:8116/0.ts
 #EXTINF:-1 tvg-id="1454" tvg-name="公视戏剧" tvg-logo="公视戏剧.png" group-title="asia",公视戏剧
 http://166.0.198.156:5054/play/4gtv-4gtv042/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1454" tvg-name="公视戏剧" tvg-logo="公视戏剧.png" group-title="asia",公视戏剧
@@ -939,8 +849,6 @@ http://74.91.26.218:82/live/ctsjy.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=37
 #EXTINF:-1 tvg-id="1591" tvg-name="寰宇新闻" tvg-logo="寰宇新闻.png" group-title="asia",寰宇新闻
 http://166.0.198.156:5054/play/litv-longturn14/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1591" tvg-name="寰宇新闻" tvg-logo="寰宇新闻.png" group-title="asia",寰宇新闻
-http://hitv.airinf.eu.org:5052/trams/2501/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻台湾" tvg-logo="寰宇新闻台湾.png" group-title="asia",寰宇新闻台湾
 http://166.0.198.156:5054/play/4gtv-4gtv156/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="视纳华仁纪实频道" tvg-logo="视纳华仁纪实频道.png" group-title="asia",视纳华仁纪实频道
@@ -959,14 +867,10 @@ http://166.0.198.156:5054/play/4gtv-4gtv061/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1 tvg-id="" tvg-name="靖天国际" tvg-logo="靖天国际.png" group-title="asia",靖天国际
 http://166.0.198.156:5054/play/4gtv-4gtv063/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="靖天国际" tvg-logo="靖天国际.png" group-title="asia",靖天国际
-http://hitv.airinf.eu.org:5052/trams/2018/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="靖天欢乐" tvg-logo="靖天欢乐.png" group-title="asia",靖天欢乐
 http://166.0.198.156:5054/play/4gtv-4gtv054/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="靖天卡通" tvg-logo="靖天卡通.png" group-title="asia",靖天卡通
 http://166.0.198.156:5054/play/4gtv-4gtv044/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="靖天卡通" tvg-logo="靖天卡通.png" group-title="asia",靖天卡通
-http://hitv.airinf.eu.org:5052/trams/1585/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="靖天日本" tvg-logo="靖天日本.png" group-title="asia",靖天日本
 http://166.0.198.156:5054/play/4gtv-4gtv047/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="靖天戏剧" tvg-logo="靖天戏剧.png" group-title="asia",靖天戏剧
@@ -997,12 +901,8 @@ http://166.0.198.156:5054/play/fast-live007/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 https://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="1764" tvg-name="龙华经典" tvg-logo="龙华经典.png" group-title="asia",龙华经典
 https://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-id="1764" tvg-name="龙华经典" tvg-logo="龙华经典.png" group-title="asia",龙华经典
-http://hitv.airinf.eu.org:5052/trams/2079/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="1760" tvg-name="龙华偶像" tvg-logo="龙华偶像.png" group-title="asia",龙华偶像
 https://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-id="1760" tvg-name="龙华偶像" tvg-logo="龙华偶像.png" group-title="asia",龙华偶像
-http://hitv.airinf.eu.org:5052/trams/812/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="龙华日韩" tvg-logo="龙华日韩.png" group-title="asia",龙华日韩
 https://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="1761" tvg-name="龙华戏剧" tvg-logo="龙华戏剧.png" group-title="asia",龙华戏剧
@@ -1018,8 +918,6 @@ http://166.0.198.156:5054/play/fast-live407/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="1769" tvg-name="民视" tvg-logo="民视.png" group-title="asia",民视
 http://166.0.198.156:5054/play/4gtv-4gtv002/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1769" tvg-name="民视" tvg-logo="民视.png" group-title="asia",民视
-http://hitv.airinf.eu.org:5052/trams/2479/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1769" tvg-name="民视" tvg-logo="民视.png" group-title="asia",民视
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-id="1769" tvg-name="民视" tvg-logo="民视.png" group-title="asia",民视
 http://iptv.4666888.xyz/iptv2A.php?id=55
@@ -1031,8 +929,6 @@ http://74.91.26.218:82/live/ftvdy.m3u8
 http://166.0.198.156:5054/play/litv-ftv07/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
 http://166.0.198.156:5054/play/4gtv-4gtv001/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
-http://hitv.airinf.eu.org:5052/trams/2033/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
 http://74.91.26.218:82/live/ftvtw.m3u8
 #EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
@@ -1059,14 +955,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=53
 http://166.0.198.156:5054/play/4gtv-4gtv004/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="民視健康美麗生活" tvg-logo="民視健康美麗生活.png" group-title="asia",民視健康美麗生活
 http://166.0.198.156:5054/play/fast-live210/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1490" tvg-name="年代新闻" tvg-logo="年代新闻.png" group-title="asia",年代新闻
-http://hitv.airinf.eu.org:5052/trams/825/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="人間衛視" tvg-logo="人間衛視.png" group-title="asia",人間衛視
 http://166.0.198.156:5054/play/4gtv-live008/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1470" tvg-name="三立都会" tvg-logo="三立都会.png" group-title="asia",三立都会
-http://hitv.airinf.eu.org:5052/trams/2026/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1840" tvg-name="三立戏剧" tvg-logo="三立戏剧.png" group-title="asia",三立戏剧
-http://hitv.airinf.eu.org:5052/trams/2236/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="1840" tvg-name="三立戏剧" tvg-logo="三立戏剧.png" group-title="asia",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="1494" tvg-name="三立新闻" tvg-logo="三立新闻.png" group-title="asia",三立新闻
@@ -1076,9 +966,9 @@ http://166.0.198.156:5054/play/4gtv-live207/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="" tvg-name="时尚运动X" tvg-logo="时尚运动X.png" group-title="asia",时尚运动X
 http://166.0.198.156:5054/play/4gtv-4gtv014/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1449" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-id="1449" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
 http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-id="1449" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
+http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="1565" tvg-name="台视财经" tvg-logo="台视财经.png" group-title="asia",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
 #EXTINF:-1 tvg-id="1564" tvg-name="台视新闻" tvg-logo="台视新闻.png" group-title="asia",台视新闻
@@ -1097,10 +987,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=51
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-id="" tvg-name="纬来精彩" tvg-logo="纬来精彩.png" group-title="asia",纬来精彩
-http://hitv.airinf.eu.org:5052/trams/2472/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="asia",纬来育乐
-http://hitv.airinf.eu.org:5052/trams/2470/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="泰国剧集" tvg-logo="泰国剧集.png" group-title="asia",泰国剧集
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-id="" tvg-name="泰国剧集" tvg-logo="泰国剧集.png" group-title="asia",泰国剧集
@@ -1109,10 +995,6 @@ https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
 http://166.0.198.156:5054/play/4gtv-live050/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1592" tvg-name="亚洲旅游" tvg-logo="亚洲旅游.png" group-title="asia",亚洲旅游
 http://166.0.198.156:5054/play/4gtv-4gtv076/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1592" tvg-name="亚洲旅游" tvg-logo="亚洲旅游.png" group-title="asia",亚洲旅游
-http://hitv.airinf.eu.org:5052/trams/479/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1589" tvg-name="亚洲美食" tvg-logo="亚洲美食.png" group-title="asia",亚洲美食
-http://hitv.airinf.eu.org:5052/trams/2035/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="影迷數位电影" tvg-logo="影迷數位电影.png" group-title="asia",影迷數位电影
 http://166.0.198.156:5054/play/4gtv-4gtv011/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="影迷數位纪实" tvg-logo="影迷數位纪实.png" group-title="asia",影迷數位纪实
@@ -1126,11 +1008,9 @@ http://166.0.198.156:5054/play/fast-live045/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
 http://166.0.198.156:5054/play/4gtv-4gtv040/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
-http://hitv.airinf.eu.org:5052/trams/1988/playlist.m3u8?token=1314
+http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
 http://211.72.174.95:8113/0.ts
-#EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
-http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-id="1797" tvg-name="中视经典" tvg-logo="中视经典.png" group-title="asia",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-id="1451" tvg-name="中视菁采" tvg-logo="中视菁采.png" group-title="asia",中视菁采
@@ -1138,201 +1018,51 @@ http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
 http://166.0.198.156:5054/play/4gtv-4gtv074/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
-http://hitv.airinf.eu.org:5052/trams/1989/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="中天新闻.png" group-title="asia",中天新闻
 http://166.0.198.156:5054/play/4gtv-4gtv009/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="中天亚洲.png" group-title="asia",中天亚洲
-http://hitv.airinf.eu.org:5052/trams/1967/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="八度空间" tvg-logo="八度空间.png" group-title="asia",八度空间
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="" tvg-name="八度空间" tvg-logo="八度空间.png" group-title="asia",八度空间
 http://iptv.4666888.xyz/iptv2A.php?id=52
 #EXTINF:-1 tvg-id="1555" tvg-name="大立电视台" tvg-logo="大立电视台.png" group-title="asia",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="ABC News.png" group-title="asia",ABC News
-http://hitv.airinf.eu.org:5052/trams/1766/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
 http://166.0.198.156:5054/play/4gtv-live071/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
-http://hitv.airinf.eu.org:5052/trams/2886/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
-http://hitv.airinf.eu.org:5052/trams/440/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Adithya" tvg-logo="Adithya.png" group-title="asia",Adithya
-http://hitv.airinf.eu.org:5052/trams/2665/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="AlQuran AlKareem" tvg-logo="AlQuran AlKareem.png" group-title="asia",AlQuran AlKareem
-http://hitv.airinf.eu.org:5052/trams/2270/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Amarin" tvg-logo="Amarin.png" group-title="asia",Amarin
-http://hitv.airinf.eu.org:5052/trams/2239/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="1792" tvg-name="AMC电影" tvg-logo="AMC电影.png" group-title="asia",AMC电影
 http://166.0.198.156:5054/play/4gtv-4gtv017/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Animal_Planet" tvg-logo="Animal_Planet.png" group-title="asia",Animal_Planet
-http://hitv.airinf.eu.org:5052/trams/474/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Animal_Planet" tvg-logo="Animal_Planet.png" group-title="asia",Animal_Planet
-http://hitv.airinf.eu.org:5052/trams/2011/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="Animax.png" group-title="asia",Animax
-http://hitv.airinf.eu.org:5052/trams/2291/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="AnTV" tvg-logo="AnTV.png" group-title="asia",AnTV
-http://hitv.airinf.eu.org:5052/trams/2064/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="Astro AOD.png" group-title="asia",Astro AOD
-http://hitv.airinf.eu.org:5052/trams/2688/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="Astro AOD.png" group-title="asia",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="Astro AOD.png" group-title="asia",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="Astro AEC.png" group-title="asia",Astro AEC
-http://hitv.airinf.eu.org:5052/trams/38/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="Astro AEC.png" group-title="asia",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="" tvg-name="Astro欢喜" tvg-logo="Astro欢喜.png" group-title="asia",Astro欢喜
-http://hitv.airinf.eu.org:5052/trams/1623/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro欢喜" tvg-logo="Astro欢喜.png" group-title="asia",Astro欢喜
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="" tvg-name="Astro Badminton 2" tvg-logo="Astro Badminton 2.png" group-title="asia",Astro Badminton 2
-http://hitv.airinf.eu.org:5052/trams/2833/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Beinsports 1" tvg-logo="Astro Beinsports 1.png" group-title="asia",Astro Beinsports 1
-http://hitv.airinf.eu.org:5052/trams/2825/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Beinsports 2" tvg-logo="Astro Beinsports 2.png" group-title="asia",Astro Beinsports 2
-http://hitv.airinf.eu.org:5052/trams/2826/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Beinsports 3" tvg-logo="Astro Beinsports 3.png" group-title="asia",Astro Beinsports 3
-http://hitv.airinf.eu.org:5052/trams/2827/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="Astro Cricket.png" group-title="asia",Astro Cricket
-http://hitv.airinf.eu.org:5052/trams/2653/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Football" tvg-logo="Astro Football.png" group-title="asia",Astro Football
-http://hitv.airinf.eu.org:5052/trams/2823/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Golf" tvg-logo="Astro Golf.png" group-title="asia",Astro Golf
-http://hitv.airinf.eu.org:5052/trams/2611/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstand" tvg-logo="Astro Grandstand.png" group-title="asia",Astro Grandstand
-http://hitv.airinf.eu.org:5052/trams/2822/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro KTV" tvg-logo="Astro KTV.png" group-title="asia",Astro KTV
-http://hitv.airinf.eu.org:5052/trams/2770/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro LOL" tvg-logo="Astro LOL.png" group-title="asia",Astro LOL
-http://hitv.airinf.eu.org:5052/trams/2835/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro MTV" tvg-logo="Astro MTV.png" group-title="asia",Astro MTV
-http://hitv.airinf.eu.org:5052/trams/2775/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Rusi" tvg-logo="Astro Rusi.png" group-title="asia",Astro Rusi
-http://hitv.airinf.eu.org:5052/trams/2836/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sunlife" tvg-logo="Astro Sunlife.png" group-title="asia",Astro Sunlife
-http://hitv.airinf.eu.org:5052/trams/2763/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sunmusic" tvg-logo="Astro Sunmusic.png" group-title="asia",Astro Sunmusic
-http://hitv.airinf.eu.org:5052/trams/2694/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Vaanavil" tvg-logo="Astro Vaanavil.png" group-title="asia",Astro Vaanavil
-http://hitv.airinf.eu.org:5052/trams/2749/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astrol Kplus" tvg-logo="Astrol Kplus.png" group-title="asia",Astrol Kplus
-http://hitv.airinf.eu.org:5052/trams/2697/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Arena" tvg-logo="Arena.png" group-title="asia",Arena
-http://hitv.airinf.eu.org:5052/trams/2651/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Arena 2" tvg-logo="Arena 2.png" group-title="asia",Arena 2
-http://hitv.airinf.eu.org:5052/trams/2710/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="Arirang.png" group-title="asia",Arirang
 http://166.0.198.156:5054/play/4gtv-4gtv079/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Asianet" tvg-logo="Asianet.png" group-title="asia",Asianet
-http://hitv.airinf.eu.org:5052/trams/1474/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Asianet News" tvg-logo="Asianet News.png" group-title="asia",Asianet News
-http://hitv.airinf.eu.org:5052/trams/1924/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Aura" tvg-logo="Aura.png" group-title="asia",Aura
-http://hitv.airinf.eu.org:5052/trams/2744/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Awani" tvg-logo="Awani.png" group-title="asia",Awani
-http://hitv.airinf.eu.org:5052/trams/26/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="Awesome TV.png" group-title="asia",Awesome TV
-http://hitv.airinf.eu.org:5052/trams/2012/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1507" tvg-name="AXN" tvg-logo="AXN.png" group-title="asia",AXN
-http://hitv.airinf.eu.org:5052/trams/1023/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1507" tvg-name="AXN" tvg-logo="AXN.png" group-title="asia",AXN
-http://hitv.airinf.eu.org:5052/trams/906/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="Baby TV.png" group-title="asia",Baby TV
-http://hitv.airinf.eu.org:5052/trams/2255/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="Baby TV.png" group-title="asia",Baby TV
-http://hitv.airinf.eu.org:5052/trams/2073/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BBC 1" tvg-logo="BBC 1.png" group-title="asia",BBC 1
-http://hitv.airinf.eu.org:5052/trams/2215/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BBC 2" tvg-logo="BBC 2.png" group-title="asia",BBC 2
-http://hitv.airinf.eu.org:5052/trams/2216/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="BBC News.png" group-title="asia",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="BBC News.png" group-title="asia",BBC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="BBC Earth.png" group-title="asia",BBC Earth
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="BBC Earth.png" group-title="asia",BBC Earth
-http://hitv.airinf.eu.org:5052/trams/2037/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth Lifestyle" tvg-logo="BBC Earth Lifestyle.png" group-title="asia",BBC Earth Lifestyle
-http://hitv.airinf.eu.org:5052/trams/2038/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="BBC World News.png" group-title="asia",BBC World News
-http://hitv.airinf.eu.org:5052/trams/2113/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="BBC World News.png" group-title="asia",BBC World News
-http://hitv.airinf.eu.org:5052/trams/2717/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="BBC World News.png" group-title="asia",BBC World News
-http://hitv.airinf.eu.org:5052/trams/2224/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="Berita Satu.png" group-title="asia",Berita Satu
-http://hitv.airinf.eu.org:5052/trams/2066/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Bernama" tvg-logo="Bernama.png" group-title="asia",Bernama
-http://hitv.airinf.eu.org:5052/trams/27/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg News" tvg-logo="Bloomberg News.png" group-title="asia",Bloomberg News
-http://hitv.airinf.eu.org:5052/trams/267/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="Bloomberg TV.png" group-title="asia",Bloomberg TV
 http://166.0.198.156:5054/play/4gtv-live059/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="Bloomberg TV.png" group-title="asia",Bloomberg TV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="Bloomberg TV.png" group-title="asia",Bloomberg TV
-http://hitv.airinf.eu.org:5052/trams/2884/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Bollyone" tvg-logo="Bollyone.png" group-title="asia",Bollyone
-http://hitv.airinf.eu.org:5052/trams/2693/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Boo" tvg-logo="Boo.png" group-title="asia",Boo
-http://hitv.airinf.eu.org:5052/trams/2253/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="Cartoon Network.png" group-title="asia",Cartoon Network
-http://hitv.airinf.eu.org:5052/trams/959/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CBBC" tvg-logo="CBBC.png" group-title="asia",CBBC
-http://hitv.airinf.eu.org:5052/trams/2217/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1607" tvg-name="CBeebies" tvg-logo="CBeebies.png" group-title="asia",CBeebies
-http://hitv.airinf.eu.org:5052/trams/2282/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CBS HD" tvg-logo="CBS HD.png" group-title="asia",CBS HD
-http://hitv.airinf.eu.org:5052/trams/1768/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CBSN HD" tvg-logo="CBSN HD.png" group-title="asia",CBSN HD
-http://hitv.airinf.eu.org:5052/trams/1769/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic" tvg-logo="Celestial Classic.png" group-title="asia",Celestial Classic
-http://hitv.airinf.eu.org:5052/trams/1587/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies HD" tvg-logo="Celestial Movies HD.png" group-title="asia",Celestial Movies HD
-http://hitv.airinf.eu.org:5052/trams/1941/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Ceria" tvg-logo="Ceria.png" group-title="asia",Ceria
-http://hitv.airinf.eu.org:5052/trams/2650/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3 Thailand" tvg-logo="Channel 3 Thailand.png" group-title="asia",Channel 3 Thailand
-http://hitv.airinf.eu.org:5052/trams/458/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel 4" tvg-logo="Channel 4.png" group-title="asia",Channel 4
-http://hitv.airinf.eu.org:5052/trams/2227/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="Channel 5.png" group-title="asia",Channel 5
-http://hitv.airinf.eu.org:5052/trams/459/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="Channel 5.png" group-title="asia",Channel 5
-http://hitv.airinf.eu.org:5052/trams/1601/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="Channel 5.png" group-title="asia",Channel 5
 http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="" tvg-name="Channel 7" tvg-logo="Channel 7.png" group-title="asia",Channel 7
-http://hitv.airinf.eu.org:5052/trams/460/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="Channel 8.png" group-title="asia",Channel 8
-http://hitv.airinf.eu.org:5052/trams/2240/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="Channel 8.png" group-title="asia",Channel 8
-http://hitv.airinf.eu.org:5052/trams/1602/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="Channel 8.png" group-title="asia",Channel 8
 http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="Channel U.png" group-title="asia",Channel U
-http://hitv.airinf.eu.org:5052/trams/286/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="Channel U.png" group-title="asia",Channel U
 http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 tvg-id="1803" tvg-name="CI" tvg-logo="CI.png" group-title="asia",CI
 http://166.0.198.156:5054/play/4gtv-live027/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1803" tvg-name="CI" tvg-logo="CI.png" group-title="asia",CI
-http://hitv.airinf.eu.org:5052/trams/1243/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="CinemaWorld.png" group-title="asia",CinemaWorld
 http://166.0.198.156:5054/play/4gtv-live069/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1511" tvg-name="CINEMAX" tvg-logo="CINEMAX.png" group-title="asia",CINEMAX
-http://hitv.airinf.eu.org:5052/trams/496/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Citra" tvg-logo="Citra.png" group-title="asia",Citra
-http://hitv.airinf.eu.org:5052/trams/2718/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Citra" tvg-logo="Citra.png" group-title="asia",Citra
-http://hitv.airinf.eu.org:5052/trams/2818/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="CLASSICA古典乐" tvg-logo="CLASSICA古典乐.png" group-title="asia",CLASSICA古典乐
 http://166.0.198.156:5054/play/4gtv-4gtv059/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="CNA.png" group-title="asia",CNA
@@ -1343,28 +1073,12 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="CNA.png" group-title="asia",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="CNA.png" group-title="asia",CNA
-http://hitv.airinf.eu.org:5052/trams/677/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="CNBC.png" group-title="asia",CNBC
-http://hitv.airinf.eu.org:5052/trams/265/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="CNBC Asia 財經台" tvg-logo="CNBC Asia 財經台.png" group-title="asia",CNBC Asia 財經台
 http://166.0.198.156:5054/play/4gtv-live130/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1446" tvg-name="CNN" tvg-logo="CNN.png" group-title="asia",CNN
-http://hitv.airinf.eu.org:5052/trams/2715/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1446" tvg-name="CNN" tvg-logo="CNN.png" group-title="asia",CNN
-http://hitv.airinf.eu.org:5052/trams/2074/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Color HD" tvg-logo="Color HD.png" group-title="asia",Color HD
-http://hitv.airinf.eu.org:5052/trams/366/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Colors Tamil" tvg-logo="Colors Tamil.png" group-title="asia",Colors Tamil
-http://hitv.airinf.eu.org:5052/trams/2666/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Daai TV" tvg-logo="Daai TV.png" group-title="asia",Daai TV
-http://hitv.airinf.eu.org:5052/trams/2266/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="EBS1" tvg-logo="EBS1.png" group-title="asia",EBS1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBS1" tvg-logo="EBS1.png" group-title="asia",EBS1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EBS2" tvg-logo="EBS2.png" group-title="asia",EBS2
-http://hitv.airinf.eu.org:5052/trams/1976/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="EBS2" tvg-logo="EBS2.png" group-title="asia",EBS2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
 #EXTINF:-1 tvg-id="" tvg-name="EBS2" tvg-logo="EBS2.png" group-title="asia",EBS2
@@ -1377,24 +1091,10 @@ http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8?zshijd
 #EXTINF:-1 tvg-id="" tvg-name="EBS少儿" tvg-logo="EBS少儿.png" group-title="asia",EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 tvg-id="" tvg-name="Entertain" tvg-logo="Entertain.png" group-title="asia",Entertain
-http://hitv.airinf.eu.org:5052/trams/2304/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="EWTN.png" group-title="asia",EWTN
-http://hitv.airinf.eu.org:5052/trams/2268/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Fashion" tvg-logo="Fashion.png" group-title="asia",Fashion
-http://hitv.airinf.eu.org:5052/trams/2117/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Foodnetwork Hd" tvg-logo="Foodnetwork Hd.png" group-title="asia",Foodnetwork Hd
-http://hitv.airinf.eu.org:5052/trams/2615/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="FOOD超人" tvg-logo="FOOD超人.png" group-title="asia",FOOD超人
 http://166.0.198.156:5054/play/fast-live410/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="247" tvg-name="France 24" tvg-logo="France 24.png" group-title="asia",France 24
 http://166.0.198.156:5054/play/4gtv-live146/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="247" tvg-name="France 24" tvg-logo="France 24.png" group-title="asia",France 24
-http://hitv.airinf.eu.org:5052/trams/2887/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="247" tvg-name="France 24" tvg-logo="France 24.png" group-title="asia",France 24
-http://hitv.airinf.eu.org:5052/trams/439/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Freesports" tvg-logo="Freesports.png" group-title="asia",Freesports
-http://hitv.airinf.eu.org:5052/trams/2219/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="fun探索娛樂台" tvg-logo="fun探索娛樂台.png" group-title="asia",fun探索娛樂台
 http://166.0.198.156:5054/play/4gtv-live011/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="GagaOOLala" tvg-logo="GagaOOLala.png" group-title="asia",GagaOOLala
@@ -1403,36 +1103,14 @@ http://166.0.198.156:5054/play/fast-live139/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/4gtv-4gtv053/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="Global Trekker" tvg-logo="Global Trekker.png" group-title="asia",Global Trekker
 http://166.0.198.156:5054/play/4gtv-live112/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Gmm Channel" tvg-logo="Gmm Channel.png" group-title="asia",Gmm Channel
-http://hitv.airinf.eu.org:5052/trams/2246/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="GmmOne" tvg-logo="GmmOne.png" group-title="asia",GmmOne
-http://hitv.airinf.eu.org:5052/trams/2241/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="GoGoTaiwan" tvg-logo="GoGoTaiwan.png" group-title="asia",GoGoTaiwan
 http://166.0.198.156:5054/play/fast-live235/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="GTV.png" group-title="asia",GTV
-http://hitv.airinf.eu.org:5052/trams/2263/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="HahaTai 哈哈台" tvg-logo="HahaTai 哈哈台.png" group-title="asia",HahaTai 哈哈台
 http://166.0.198.156:5054/play/fast-live243/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="HGTV.png" group-title="asia",HGTV
-http://hitv.airinf.eu.org:5052/trams/2508/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar HD" tvg-logo="Indosiar HD.png" group-title="asia",Indosiar HD
-http://hitv.airinf.eu.org:5052/trams/1032/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="iNews TV" tvg-logo="iNews TV.png" group-title="asia",iNews TV
-http://hitv.airinf.eu.org:5052/trams/2265/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="INULTRA" tvg-logo="INULTRA.png" group-title="asia",INULTRA
 http://166.0.198.156:5054/play/4gtv-live096/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="Jak TV.png" group-title="asia",Jak TV
-http://hitv.airinf.eu.org:5052/trams/2264/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="JTV.png" group-title="asia",JTV
-http://hitv.airinf.eu.org:5052/trams/2069/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="KBS World.png" group-title="asia",KBS World
-http://hitv.airinf.eu.org:5052/trams/2629/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="Kids TV.png" group-title="asia",Kids TV
-http://hitv.airinf.eu.org:5052/trams/2281/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="KIX.png" group-title="asia",KIX
 http://iptv.4666888.xyz/iptv2A.php?id=18
-#EXTINF:-1 tvg-id="" tvg-name="Kompass TV" tvg-logo="Kompass TV.png" group-title="asia",Kompass TV
-http://hitv.airinf.eu.org:5052/trams/43/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="199" tvg-name="Lifetime" tvg-logo="Lifetime.png" group-title="asia",Lifetime
 http://166.0.198.156:5054/play/4gtv-live029/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="LiveABC" tvg-logo="LiveABC.png" group-title="asia",LiveABC
@@ -1441,210 +1119,44 @@ http://166.0.198.156:5054/play/4gtv-live030/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/4gtv-live208/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="LUXE TV Channel" tvg-logo="LUXE TV Channel.png" group-title="asia",LUXE TV Channel
 http://166.0.198.156:5054/play/4gtv-live121/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Makkal TV" tvg-logo="Makkal TV.png" group-title="asia",Makkal TV
-http://hitv.airinf.eu.org:5052/trams/1196/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="Metro TV.png" group-title="asia",Metro TV
-http://hitv.airinf.eu.org:5052/trams/1014/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="MEZZO.png" group-title="asia",MEZZO
 http://166.0.198.156:5054/play/4gtv-4gtv083/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="MiaoMi" tvg-logo="MiaoMi.png" group-title="asia",MiaoMi
-http://hitv.airinf.eu.org:5052/trams/2283/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="MNC TV.png" group-title="asia",MNC TV
-http://hitv.airinf.eu.org:5052/trams/1887/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Mono" tvg-logo="Mono.png" group-title="asia",Mono
 http://166.0.198.156:5054/play/4gtv-live107/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="Mono" tvg-logo="Mono.png" group-title="asia",Mono
 http://166.0.198.156:5054/play/fast-live415/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Mono" tvg-logo="Mono.png" group-title="asia",Mono
-http://hitv.airinf.eu.org:5052/trams/241/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Mono" tvg-logo="Mono.png" group-title="asia",Mono
-http://hitv.airinf.eu.org:5052/trams/2242/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="More4" tvg-logo="More4.png" group-title="asia",More4
-http://hitv.airinf.eu.org:5052/trams/2218/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now HD" tvg-logo="Movies Now HD.png" group-title="asia",Movies Now HD
-http://hitv.airinf.eu.org:5052/trams/2256/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="MTV Live.png" group-title="asia",MTV Live
-http://hitv.airinf.eu.org:5052/trams/2046/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="Music TV.png" group-title="asia",Music TV
-http://hitv.airinf.eu.org:5052/trams/2275/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Muslim TV" tvg-logo="Muslim TV.png" group-title="asia",Muslim TV
-http://hitv.airinf.eu.org:5052/trams/2273/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="MCE" tvg-logo="MCE.png" group-title="asia",MCE
 http://166.0.198.156:5054/play/litv-ftv10/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="MY TIME" tvg-logo="MY TIME.png" group-title="asia",MY TIME
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nbt" tvg-logo="Nbt.png" group-title="asia",Nbt
-http://hitv.airinf.eu.org:5052/trams/2249/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="Net TV.png" group-title="asia",Net TV
-http://hitv.airinf.eu.org:5052/trams/2267/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="New" tvg-logo="New.png" group-title="asia",New
-http://hitv.airinf.eu.org:5052/trams/2250/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="News Max" tvg-logo="News Max.png" group-title="asia",News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 18 Tamil" tvg-logo="News 18 Tamil.png" group-title="asia",News 18 Tamil
-http://hitv.airinf.eu.org:5052/trams/1946/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="NHK World.png" group-title="asia",NHK World
 http://166.0.198.156:5054/play/4gtv-live168/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="NHK World.png" group-title="asia",NHK World
-http://hitv.airinf.eu.org:5052/trams/2392/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1604" tvg-name="Nickelodeon" tvg-logo="Nickelodeon.png" group-title="asia",Nickelodeon
-http://hitv.airinf.eu.org:5052/trams/1985/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="NOW新闻" tvg-logo="NOW新闻.png" group-title="asia",NOW新闻
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="" tvg-name="NOW直播" tvg-logo="NOW直播.png" group-title="asia",NOW直播
 https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV7" tvg-logo="NTV7.png" group-title="asia",NTV7
-http://hitv.airinf.eu.org:5052/trams/4/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Oasis" tvg-logo="Oasis.png" group-title="asia",Oasis
-http://hitv.airinf.eu.org:5052/trams/1465/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="One.png" group-title="asia",One
-http://hitv.airinf.eu.org:5052/trams/2294/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Pick TV" tvg-logo="Pick TV.png" group-title="asia",Pick TV
-http://hitv.airinf.eu.org:5052/trams/2221/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Picture HD" tvg-logo="Picture HD.png" group-title="asia",Picture HD
-http://hitv.airinf.eu.org:5052/trams/367/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="PopC" tvg-logo="PopC.png" group-title="asia",PopC
 http://tl.061833.xyz/tl/popc
-#EXTINF:-1 tvg-id="" tvg-name="PPTV Thailand1" tvg-logo="PPTV Thailand1.png" group-title="asia",PPTV Thailand1
-http://hitv.airinf.eu.org:5052/trams/1001/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Rania" tvg-logo="Rania.png" group-title="asia",Rania
-http://hitv.airinf.eu.org:5052/trams/2687/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="RCTI.png" group-title="asia",RCTI
-http://hitv.airinf.eu.org:5052/trams/47/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Ria" tvg-logo="Ria.png" group-title="asia",Ria
-http://hitv.airinf.eu.org:5052/trams/2621/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="ROCK Action" tvg-logo="ROCK Action.png" group-title="asia",ROCK Action
 http://166.0.198.156:5054/play/4gtv-live138/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="ROCK Action" tvg-logo="ROCK Action.png" group-title="asia",ROCK Action
-http://hitv.airinf.eu.org:5052/trams/2713/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="ROCK Action" tvg-logo="ROCK Action.png" group-title="asia",ROCK Action
 http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 tvg-id="" tvg-name="ROCK Entertainment" tvg-logo="ROCK Entertainment.png" group-title="asia",ROCK Entertainment
 http://166.0.198.156:5054/play/4gtv-live080/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="RTM Asean" tvg-logo="RTM Asean.png" group-title="asia",RTM Asean
-http://hitv.airinf.eu.org:5052/trams/2838/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="RTM Sports HD" tvg-logo="RTM Sports HD.png" group-title="asia",RTM Sports HD
-http://hitv.airinf.eu.org:5052/trams/1745/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="RTV.png" group-title="asia",RTV
-http://hitv.airinf.eu.org:5052/trams/2606/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Rugby Pass TV" tvg-logo="Rugby Pass TV.png" group-title="asia",Rugby Pass TV
-http://hitv.airinf.eu.org:5052/trams/2695/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="SBN全球財經台" tvg-logo="SBN全球財經台.png" group-title="asia",SBN全球財經台
 http://166.0.198.156:5054/play/4gtv-live060/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="SCM" tvg-logo="SCM.png" group-title="asia",SCM
-http://hitv.airinf.eu.org:5052/trams/2295/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="SCTV.png" group-title="asia",SCTV
-http://hitv.airinf.eu.org:5052/trams/44/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Sensasi" tvg-logo="Sensasi.png" group-title="asia",Sensasi
-http://hitv.airinf.eu.org:5052/trams/2750/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Siar" tvg-logo="Siar.png" group-title="asia",Siar
-http://hitv.airinf.eu.org:5052/trams/2786/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="Sony HD.png" group-title="asia",Sony HD
-http://hitv.airinf.eu.org:5052/trams/2340/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Sony Yay Tamil" tvg-logo="Sony Yay Tamil.png" group-title="asia",Sony Yay Tamil
-http://hitv.airinf.eu.org:5052/trams/1927/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2" tvg-logo="SPO TV 2.png" group-title="asia",SPO TV 2
-http://hitv.airinf.eu.org:5052/trams/2628/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1 HD" tvg-logo="SPOTV 1 HD.png" group-title="asia",SPOTV 1 HD
-http://hitv.airinf.eu.org:5052/trams/2709/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="Star Movies.png" group-title="asia",Star Movies
-http://hitv.airinf.eu.org:5052/trams/2258/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Star Vijay" tvg-logo="Star Vijay.png" group-title="asia",Star Vijay
-http://hitv.airinf.eu.org:5052/trams/1648/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Starmaa" tvg-logo="Starmaa.png" group-title="asia",Starmaa
-http://hitv.airinf.eu.org:5052/trams/2463/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Starmaa Movies" tvg-logo="Starmaa Movies.png" group-title="asia",Starmaa Movies
-http://hitv.airinf.eu.org:5052/trams/2464/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Starplus" tvg-logo="Starplus.png" group-title="asia",Starplus
-http://hitv.airinf.eu.org:5052/trams/2771/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Sun Music" tvg-logo="Sun Music.png" group-title="asia",Sun Music
-http://hitv.airinf.eu.org:5052/trams/2127/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="Sun TV.png" group-title="asia",Sun TV
-http://hitv.airinf.eu.org:5052/trams/127/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="Sun TV.png" group-title="asia",Sun TV
-http://hitv.airinf.eu.org:5052/trams/2279/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Supersports 2" tvg-logo="Supersports 2.png" group-title="asia",Supersports 2
-http://hitv.airinf.eu.org:5052/trams/1789/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="Suria.png" group-title="asia",Suria
-http://hitv.airinf.eu.org:5052/trams/284/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="Tawaf TV.png" group-title="asia",Tawaf TV
-http://hitv.airinf.eu.org:5052/trams/2271/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Thai Thai" tvg-logo="Thai Thai.png" group-title="asia",Thai Thai
-http://hitv.airinf.eu.org:5052/trams/1794/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Thairath" tvg-logo="Thairath.png" group-title="asia",Thairath
-http://hitv.airinf.eu.org:5052/trams/2243/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="Thrill.png" group-title="asia",Thrill
-http://hitv.airinf.eu.org:5052/trams/2297/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="TLC.png" group-title="asia",TLC
-http://hitv.airinf.eu.org:5052/trams/1595/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Tnn24" tvg-logo="Tnn24.png" group-title="asia",Tnn24
-http://hitv.airinf.eu.org:5052/trams/2248/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="TBS.png" group-title="asia",TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tpbs" tvg-logo="tpbs.png" group-title="asia",tpbs
-http://hitv.airinf.eu.org:5052/trams/2244/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TPTV" tvg-logo="TPTV.png" group-title="asia",TPTV
-http://hitv.airinf.eu.org:5052/trams/2251/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="TRACE Urban" tvg-logo="TRACE Urban.png" group-title="asia",TRACE Urban
 http://166.0.198.156:5054/play/4gtv-4gtv082/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="Trans 7.png" group-title="asia",Trans 7
-http://hitv.airinf.eu.org:5052/trams/2065/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Transtv" tvg-logo="Transtv.png" group-title="asia",Transtv
-http://hitv.airinf.eu.org:5052/trams/2005/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="TV1.png" group-title="asia",TV1
-http://hitv.airinf.eu.org:5052/trams/1667/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="TV1.png" group-title="asia",TV1
-http://hitv.airinf.eu.org:5052/trams/2702/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="TV2.png" group-title="asia",TV2
-http://hitv.airinf.eu.org:5052/trams/3/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="TV3.png" group-title="asia",TV3
-http://hitv.airinf.eu.org:5052/trams/1652/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="TV3.png" group-title="asia",TV3
-http://hitv.airinf.eu.org:5052/trams/2829/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="TV5" tvg-logo="TV5.png" group-title="asia",TV5
 http://166.0.198.156:5054/play/4gtv-live122/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="TV5" tvg-logo="TV5.png" group-title="asia",TV5
-http://hitv.airinf.eu.org:5052/trams/2840/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="TV9.png" group-title="asia",TV9
-http://hitv.airinf.eu.org:5052/trams/6/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TVMU" tvg-logo="TVMU.png" group-title="asia",TVMU
-http://hitv.airinf.eu.org:5052/trams/2061/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="tvN Movie" tvg-logo="tvN Movie.png" group-title="asia",tvN Movie
-http://hitv.airinf.eu.org:5052/trams/2300/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Tvone" tvg-logo="Tvone.png" group-title="asia",Tvone
-http://hitv.airinf.eu.org:5052/trams/2006/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="Vasantham.png" group-title="asia",Vasantham
-http://hitv.airinf.eu.org:5052/trams/287/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Vellithirai" tvg-logo="Vellithirai.png" group-title="asia",Vellithirai
-http://hitv.airinf.eu.org:5052/trams/2816/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Vijay Super" tvg-logo="Vijay Super.png" group-title="asia",Vijay Super
-http://hitv.airinf.eu.org:5052/trams/2772/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="Vision Prime.png" group-title="asia",Vision Prime
-http://hitv.airinf.eu.org:5052/trams/2272/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="Warner TV.png" group-title="asia",Warner TV
-http://hitv.airinf.eu.org:5052/trams/2293/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="WION.png" group-title="asia",WION
-http://hitv.airinf.eu.org:5052/trams/2837/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="WION.png" group-title="asia",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Workpoint" tvg-logo="Workpoint.png" group-title="asia",Workpoint
-http://hitv.airinf.eu.org:5052/trams/2245/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="WTO姐妹會" tvg-logo="WTO姐妹會.png" group-title="asia",WTO姐妹會
 http://166.0.198.156:5054/play/fast-live207/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="WWE.png" group-title="asia",WWE
-http://hitv.airinf.eu.org:5052/trams/1922/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="Zee Action.png" group-title="asia",Zee Action
-http://hitv.airinf.eu.org:5052/trams/131/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Zee Business" tvg-logo="Zee Business.png" group-title="asia",Zee Business
-http://hitv.airinf.eu.org:5052/trams/1593/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="Zee Cinema HD.png" group-title="asia",Zee Cinema HD
-http://hitv.airinf.eu.org:5052/trams/365/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="Zee News.png" group-title="asia",Zee News
-http://hitv.airinf.eu.org:5052/trams/368/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="Zee Tamil.png" group-title="asia",Zee Tamil
-http://hitv.airinf.eu.org:5052/trams/130/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="Zee TV.png" group-title="asia",Zee TV
-http://hitv.airinf.eu.org:5052/trams/364/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Z" tvg-logo="Z.png" group-title="asia",Z
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="豬哥會社" tvg-logo="豬哥會社.png" group-title="asia",豬哥會社
@@ -1675,8 +1187,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=5
 http://166.0.198.156:5054/play/litv-xinchuang09/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="博斯无限" tvg-logo="博斯无限.png" group-title="体育",博斯无限
 http://166.0.198.156:5054/play/litv-xinchuang10/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="博斯无限" tvg-logo="博斯无限.png" group-title="体育",博斯无限
-http://hitv.airinf.eu.org:5052/trams/2087/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="博斯无限2" tvg-logo="博斯无限2.png" group-title="体育",博斯无限2
 http://166.0.198.156:5054/play/litv-xinchuang13/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="博斯运动1" tvg-logo="博斯运动1.png" group-title="体育",博斯运动1
@@ -1689,32 +1199,8 @@ http://166.0.198.156:5054/play/litv-xinchuang05/index.m3u8?token=eIbUvRQxh8RkNPh
 http://166.0.198.156:5054/play/litv-xinchuang06/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="博斯魅力" tvg-logo="博斯魅力.png" group-title="体育",博斯魅力
 http://166.0.198.156:5054/play/litv-xinchuang04/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus" tvg-logo="Astro Sports Plus.png" group-title="体育",Astro Sports Plus
-http://hitv.airinf.eu.org:5052/trams/2610/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1603" tvg-name="Euronews" tvg-logo="Euronews.png" group-title="体育",Euronews
-http://hitv.airinf.eu.org:5052/trams/2226/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Now SPORTS PRIME" tvg-logo="Now SPORTS PRIME.png" group-title="体育",Now SPORTS PRIME
 http://rihou.cc:555/tv/[Mt]Now体育
-#EXTINF:-1 tvg-id="" tvg-name="Prima" tvg-logo="Prima.png" group-title="体育",Prima
-http://hitv.airinf.eu.org:5052/trams/1466/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Prima backup" tvg-logo="Prima backup.png" group-title="体育",Prima backup
-http://hitv.airinf.eu.org:5052/trams/2658/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="NBA TV.png" group-title="体育",NBA TV
-http://hitv.airinf.eu.org:5052/trams/1694/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skynews" tvg-logo="Skynews.png" group-title="体育",Skynews
-http://hitv.airinf.eu.org:5052/trams/2891/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skynews" tvg-logo="Skynews.png" group-title="体育",Skynews
-http://hitv.airinf.eu.org:5052/trams/2220/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skysports Cricket" tvg-logo="Skysports Cricket.png" group-title="体育",Skysports Cricket
-http://hitv.airinf.eu.org:5052/trams/2861/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skysports EPL" tvg-logo="Skysports EPL.png" group-title="体育",Skysports EPL
-http://hitv.airinf.eu.org:5052/trams/2862/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skysports F1" tvg-logo="Skysports F1.png" group-title="体育",Skysports F1
-http://hitv.airinf.eu.org:5052/trams/2863/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skysports Main Event" tvg-logo="Skysports Main Event.png" group-title="体育",Skysports Main Event
-http://hitv.airinf.eu.org:5052/trams/2865/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skysports Mix" tvg-logo="Skysports Mix.png" group-title="体育",Skysports Mix
-http://hitv.airinf.eu.org:5052/trams/2866/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="TRACE Sport Stars" tvg-logo="TRACE Sport Stars.png" group-title="体育",TRACE Sport Stars
 http://166.0.198.156:5054/play/4gtv-4gtv077/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="TNT SPORTS 3.png" group-title="体育",TNT SPORTS 3
@@ -1743,214 +1229,26 @@ http://iptv.4666888.xyz/iptv2A.php?id=63
 http://iptv.4666888.xyz/iptv2A.php?id=64
 #EXTINF:-1 tvg-id="" tvg-name="65" group-title="其他",65
 http://iptv.4666888.xyz/iptv2A.php?id=65
-#EXTINF:-1 tvg-id="" tvg-name="8TV" group-title="其他",8TV
-http://hitv.airinf.eu.org:5052/trams/292/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="9" group-title="其他",9
 http://iptv.4666888.xyz/iptv2A.php?id=9
 #EXTINF:-1 tvg-id="" tvg-name="ABC Australia 澳洲公廣頻道" group-title="其他",ABC Australia 澳洲公廣頻道
 http://166.0.198.156:5054/play/4gtv-live167/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="Al-Hijrah" group-title="其他",Al-Hijrah
-http://hitv.airinf.eu.org:5052/trams/25/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Al-Hijrah (Back up 1)" group-title="其他",Al-Hijrah (Back up 1)
-http://hitv.airinf.eu.org:5052/trams/2723/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Al-Jazeera" group-title="其他",Al-Jazeera
-http://hitv.airinf.eu.org:5052/trams/1089/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Al_Jazeera" group-title="其他",Al_Jazeera
-http://hitv.airinf.eu.org:5052/trams/2893/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="All the Kpop" group-title="其他",All the Kpop
-http://hitv.airinf.eu.org:5052/trams/2417/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" group-title="其他",ANTV
-http://hitv.airinf.eu.org:5052/trams/2751/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Apps TV" group-title="其他",Apps TV
-http://hitv.airinf.eu.org:5052/trams/2415/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 1" group-title="其他",Arena Bola 1
-http://hitv.airinf.eu.org:5052/trams/2691/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 2" group-title="其他",Arena Bola 2
-http://hitv.airinf.eu.org:5052/trams/2781/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Arirang HD" group-title="其他",Arirang HD
-http://hitv.airinf.eu.org:5052/trams/2421/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Asia Food Network" group-title="其他",Asia Food Network
-http://hitv.airinf.eu.org:5052/trams/1042/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Badminton" group-title="其他",Astro Badminton
-http://hitv.airinf.eu.org:5052/trams/2832/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Football (Back Up 1)" group-title="其他",Astro Football (Back Up 1)
-http://hitv.airinf.eu.org:5052/trams/1791/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro Grandstand (Back Up 1)" group-title="其他",Astro Grandstand (Back Up 1)
-http://hitv.airinf.eu.org:5052/trams/1790/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro PL 1" group-title="其他",Astro PL 1
-http://hitv.airinf.eu.org:5052/trams/1788/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro PL 1 (Back Up 1)" group-title="其他",Astro PL 1 (Back Up 1)
-http://hitv.airinf.eu.org:5052/trams/2820/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro PL 1 (Back Up 2)" group-title="其他",Astro PL 1 (Back Up 2)
-http://hitv.airinf.eu.org:5052/trams/2839/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro PL 2" group-title="其他",Astro PL 2
-http://hitv.airinf.eu.org:5052/trams/2821/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Astro W-Sports" group-title="其他",Astro W-Sports
-http://hitv.airinf.eu.org:5052/trams/2834/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BS-TBS" group-title="其他",BS-TBS
-http://hitv.airinf.eu.org:5052/trams/2075/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BSジャパン 181" group-title="其他",BSジャパン 181
-http://hitv.airinf.eu.org:5052/trams/1417/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BSフジ BS Fuji" group-title="其他",BSフジ BS Fuji
-http://hitv.airinf.eu.org:5052/trams/1418/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="BTV HD" group-title="其他",BTV HD
-http://hitv.airinf.eu.org:5052/trams/2876/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CBS" group-title="其他",CBS
-http://hitv.airinf.eu.org:5052/trams/1975/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-1 綜合" group-title="其他",CCTV-1 綜合
-http://hitv.airinf.eu.org:5052/trams/710/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-10 科教" group-title="其他",CCTV-10 科教
-http://hitv.airinf.eu.org:5052/trams/720/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-11 戲曲" group-title="其他",CCTV-11 戲曲
-http://hitv.airinf.eu.org:5052/trams/721/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-12 社會與法" group-title="其他",CCTV-12 社會與法
-http://hitv.airinf.eu.org:5052/trams/722/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-13 新聞與頻道" group-title="其他",CCTV-13 新聞與頻道
-http://hitv.airinf.eu.org:5052/trams/723/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-14 少兒" group-title="其他",CCTV-14 少兒
-http://hitv.airinf.eu.org:5052/trams/2013/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-15 音樂" group-title="其他",CCTV-15 音樂
-http://hitv.airinf.eu.org:5052/trams/726/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-2 財經" group-title="其他",CCTV-2 財經
-http://hitv.airinf.eu.org:5052/trams/711/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-3 綜藝" group-title="其他",CCTV-3 綜藝
-http://hitv.airinf.eu.org:5052/trams/712/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 中文國際" group-title="其他",CCTV-4 中文國際
-http://hitv.airinf.eu.org:5052/trams/2626/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 中文國際 (備:1)" group-title="其他",CCTV-4 中文國際 (備:1)
-http://hitv.airinf.eu.org:5052/trams/1515/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-5 體育" group-title="其他",CCTV-5 體育
-http://hitv.airinf.eu.org:5052/trams/1631/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+ 體育" group-title="其他",CCTV-5+ 體育
-http://hitv.airinf.eu.org:5052/trams/890/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-6 電影" group-title="其他",CCTV-6 電影
-http://hitv.airinf.eu.org:5052/trams/501/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-7 軍事農業" group-title="其他",CCTV-7 軍事農業
-http://hitv.airinf.eu.org:5052/trams/717/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-8 電視劇" group-title="其他",CCTV-8 電視劇
-http://hitv.airinf.eu.org:5052/trams/718/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-9 紀錄" group-title="其他",CCTV-9 紀錄
-http://hitv.airinf.eu.org:5052/trams/719/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV" group-title="其他",CGNTV
-http://hitv.airinf.eu.org:5052/trams/2422/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 backup" group-title="其他",Channel 5 backup
-http://hitv.airinf.eu.org:5052/trams/2788/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8 backup" group-title="其他",Channel 8 backup
-http://hitv.airinf.eu.org:5052/trams/2789/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Channel U backup" group-title="其他",Channel U backup
-http://hitv.airinf.eu.org:5052/trams/2790/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" group-title="其他",Cinemax
-http://hitv.airinf.eu.org:5052/trams/2732/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CNA backup1" group-title="其他",CNA backup1
-http://hitv.airinf.eu.org:5052/trams/2793/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CNA backup2" group-title="其他",CNA backup2
-http://hitv.airinf.eu.org:5052/trams/2664/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CNA Japan" group-title="其他",CNA Japan
-http://hitv.airinf.eu.org:5052/trams/1439/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="CTV HD" group-title="其他",CTV HD
-http://hitv.airinf.eu.org:5052/trams/2877/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" group-title="其他",DAZN 1
-http://hitv.airinf.eu.org:5052/trams/2869/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" group-title="其他",DAZN 2
-http://hitv.airinf.eu.org:5052/trams/2870/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Diar_Indo" group-title="其他",Diar_Indo
-http://hitv.airinf.eu.org:5052/trams/2896/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Dmax" group-title="其他",Dmax
-http://hitv.airinf.eu.org:5052/trams/2889/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="EBS 1" group-title="其他",EBS 1
-http://hitv.airinf.eu.org:5052/trams/2419/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="EBS Kids" group-title="其他",EBS Kids
-http://hitv.airinf.eu.org:5052/trams/2420/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="EBS Plus2" group-title="其他",EBS Plus2
-http://hitv.airinf.eu.org:5052/trams/1977/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Elta体育1台" group-title="其他",Elta体育1台
-http://hitv.airinf.eu.org:5052/trams/2871/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Elta體育2台" group-title="其他",Elta體育2台
-http://hitv.airinf.eu.org:5052/trams/1541/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Elta體育3台" group-title="其他",Elta體育3台
-http://hitv.airinf.eu.org:5052/trams/2578/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport" group-title="其他",Eurosport
-http://hitv.airinf.eu.org:5052/trams/2890/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="EYETV 戏剧" group-title="其他",EYETV 戏剧
-http://hitv.airinf.eu.org:5052/trams/2101/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="EYETV 旅游" group-title="其他",EYETV 旅游
-http://hitv.airinf.eu.org:5052/trams/2100/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Fox News" group-title="其他",Fox News
-http://hitv.airinf.eu.org:5052/trams/2535/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature Taiwan" group-title="其他",HBO Signature Taiwan
-http://hitv.airinf.eu.org:5052/trams/2868/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies" group-title="其他",Hollywood Movies
-http://hitv.airinf.eu.org:5052/trams/278/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HTV 7" group-title="其他",HTV 7
-http://hitv.airinf.eu.org:5052/trams/2754/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="HTV 9" group-title="其他",HTV 9
-http://hitv.airinf.eu.org:5052/trams/2755/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="ifunanime" group-title="其他",ifunanime
 http://iptv.4666888.xyz/iptv2A.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="iNews 互動新聞台" group-title="其他",iNews 互動新聞台
-http://hitv.airinf.eu.org:5052/trams/1619/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="itv 1" group-title="其他",itv 1
-http://hitv.airinf.eu.org:5052/trams/2222/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="itv 2" group-title="其他",itv 2
-http://hitv.airinf.eu.org:5052/trams/2223/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="J 2" group-title="其他",J 2
-http://hitv.airinf.eu.org:5052/trams/1615/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="J sport1" group-title="其他",J sport1
 http://iptv.4666888.xyz/iptv2A.php?id=6
-#EXTINF:-1 tvg-id="" tvg-name="J the Kpop" group-title="其他",J the Kpop
-http://hitv.airinf.eu.org:5052/trams/2418/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="JET 綜合" group-title="其他",JET 綜合
-http://hitv.airinf.eu.org:5052/trams/1394/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="KBS World 24" group-title="其他",KBS World 24
-http://hitv.airinf.eu.org:5052/trams/2411/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Lifestyle&amp;Fashion" group-title="其他",Lifestyle&amp;Fashion
-http://hitv.airinf.eu.org:5052/trams/2276/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="MCOT HD Thailand-1" group-title="其他",MCOT HD Thailand-1
-http://hitv.airinf.eu.org:5052/trams/1000/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="momo" group-title="其他",momo
 http://iptv.4666888.xyz/iptv2A.php?id=49
 #EXTINF:-1 tvg-id="1536" tvg-name="MTV" group-title="其他",MTV
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mytv super" group-title="其他",mytv super
 http://iptv.4666888.xyz/iptv2A.php?id=24
-#EXTINF:-1 tvg-id="" tvg-name="NHK Oaska" group-title="其他",NHK Oaska
-http://hitv.airinf.eu.org:5052/trams/2076/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NHK Premium" group-title="其他",NHK Premium
-http://hitv.airinf.eu.org:5052/trams/2892/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NHK-E" group-title="其他",NHK-E
-http://hitv.airinf.eu.org:5052/trams/1398/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NHK-総合-2" group-title="其他",NHK-総合-2
-http://hitv.airinf.eu.org:5052/trams/1397/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NHKBS1" group-title="其他",NHKBS1
-http://hitv.airinf.eu.org:5052/trams/1412/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="NHKBSプレミア Premium" group-title="其他",NHKBSプレミア Premium
-http://hitv.airinf.eu.org:5052/trams/1413/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Nickeledeon" group-title="其他",Nickeledeon
 http://iptv.4666888.xyz/iptv2A.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="Quran" group-title="其他",Quran
-http://hitv.airinf.eu.org:5052/trams/2843/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" group-title="其他",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RHK 31" group-title="其他",RHK 31
-http://hitv.airinf.eu.org:5052/trams/1823/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="RHK 32" group-title="其他",RHK 32
-http://hitv.airinf.eu.org:5052/trams/2230/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Ria-3" group-title="其他",Ria-3
-http://hitv.airinf.eu.org:5052/trams/2773/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" group-title="其他",Rock Entertainment
-http://hitv.airinf.eu.org:5052/trams/2714/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="ROCK Xstream搖滾極限頻道" group-title="其他",ROCK Xstream搖滾極限頻道
 http://166.0.198.156:5054/play/4gtv-live124/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="SBS Plus" group-title="其他",SBS Plus
-http://hitv.airinf.eu.org:5052/trams/1978/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Showcase" group-title="其他",Showcase
-http://hitv.airinf.eu.org:5052/trams/2528/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skysports Golf" group-title="其他",Skysports Golf
-http://hitv.airinf.eu.org:5052/trams/2864/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Skysports Racing" group-title="其他",Skysports Racing
-http://hitv.airinf.eu.org:5052/trams/2867/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pictures HD" group-title="其他",Sony Pictures HD
-http://hitv.airinf.eu.org:5052/trams/2857/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="spotv2" group-title="其他",spotv2
 http://iptv.4666888.xyz/iptv2A.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="spotv2" group-title="其他",spotv2
@@ -1967,114 +1265,18 @@ http://iptv.4666888.xyz/iptv2A.php?id=71
 http://iptv.4666888.xyz/iptv2A.php?id=72
 #EXTINF:-1 tvg-id="" tvg-name="spotv2" group-title="其他",spotv2
 http://iptv.4666888.xyz/iptv2A.php?id=80
-#EXTINF:-1 tvg-id="" tvg-name="Sunnah" group-title="其他",Sunnah
-http://hitv.airinf.eu.org:5052/trams/2844/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Suria backup" group-title="其他",Suria backup
-http://hitv.airinf.eu.org:5052/trams/2791/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TBKTV" group-title="其他",TBKTV
-http://hitv.airinf.eu.org:5052/trams/2875/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Test 1" group-title="其他",Test 1
-http://hitv.airinf.eu.org:5052/trams/2879/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Test 2" group-title="其他",Test 2
-http://hitv.airinf.eu.org:5052/trams/2880/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Test 3" group-title="其他",Test 3
-http://hitv.airinf.eu.org:5052/trams/2881/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Test 4" group-title="其他",Test 4
-http://hitv.airinf.eu.org:5052/trams/2882/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Test 5" group-title="其他",Test 5
-http://hitv.airinf.eu.org:5052/trams/2883/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Thangathirai" group-title="其他",Thangathirai
-http://hitv.airinf.eu.org:5052/trams/2841/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="THVL HD" group-title="其他",THVL HD
-http://hitv.airinf.eu.org:5052/trams/2874/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Sports 1" group-title="其他",Tnt Sports 1
-http://hitv.airinf.eu.org:5052/trams/2764/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" group-title="其他",TNT Sports 2
-http://hitv.airinf.eu.org:5052/trams/2765/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" group-title="其他",TNT Sports 3
-http://hitv.airinf.eu.org:5052/trams/2766/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4" group-title="其他",TNT Sports 4
-http://hitv.airinf.eu.org:5052/trams/2767/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TOKYOMX" group-title="其他",TOKYOMX
-http://hitv.airinf.eu.org:5052/trams/1404/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TV3 backup" group-title="其他",TV3 backup
-http://hitv.airinf.eu.org:5052/trams/2894/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TV3 backup2" group-title="其他",TV3 backup2
-http://hitv.airinf.eu.org:5052/trams/2895/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TVB 星河台  Xing He" group-title="其他",TVB 星河台  Xing He
-http://hitv.airinf.eu.org:5052/trams/1050/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TVBS News 新聞台" group-title="其他",TVBS News 新聞台
-http://hitv.airinf.eu.org:5052/trams/738/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TVBS 歡樂台" group-title="其他",TVBS 歡樂台
-http://hitv.airinf.eu.org:5052/trams/1936/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TvN" group-title="其他",TvN
-http://hitv.airinf.eu.org:5052/trams/2123/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="TVRi National" group-title="其他",TVRi National
-http://hitv.airinf.eu.org:5052/trams/1622/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Vasantham backup" group-title="其他",Vasantham backup
-http://hitv.airinf.eu.org:5052/trams/2792/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Vinmeen" group-title="其他",Vinmeen
-http://hitv.airinf.eu.org:5052/trams/2842/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Viu6" group-title="其他",Viu6
-http://hitv.airinf.eu.org:5052/trams/2469/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="VIUTV1" group-title="其他",VIUTV1
-http://hitv.airinf.eu.org:5052/trams/1825/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="VTV 1" group-title="其他",VTV 1
-http://hitv.airinf.eu.org:5052/trams/2752/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="VTV 3" group-title="其他",VTV 3
-http://hitv.airinf.eu.org:5052/trams/2753/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="VTV 4" group-title="其他",VTV 4
-http://hitv.airinf.eu.org:5052/trams/2872/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="VTV 6" group-title="其他",VTV 6
-http://hitv.airinf.eu.org:5052/trams/2873/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="Yonhap News" group-title="其他",Yonhap News
-http://hitv.airinf.eu.org:5052/trams/2416/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="YTN" group-title="其他",YTN
-http://hitv.airinf.eu.org:5052/trams/2410/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="YTN DMB" group-title="其他",YTN DMB
-http://hitv.airinf.eu.org:5052/trams/2414/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="YTN Korean" group-title="其他",YTN Korean
-http://hitv.airinf.eu.org:5052/trams/2413/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="YTN Science" group-title="其他",YTN Science
-http://hitv.airinf.eu.org:5052/trams/2412/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="テレビ朝日 Asahi TV" group-title="其他",テレビ朝日 Asahi TV
-http://hitv.airinf.eu.org:5052/trams/1400/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="テレビ東京 Tokyo TV" group-title="其他",テレビ東京 Tokyo TV
-http://hitv.airinf.eu.org:5052/trams/1402/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="一字千金" group-title="其他",一字千金
 http://166.0.198.156:5054/play/fast-live202/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="一起追韓星" group-title="其他",一起追韓星
 http://166.0.198.156:5054/play/fast-live239/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="三立台湾 Sanli Taiwan" group-title="其他",三立台湾 Sanli Taiwan
-http://hitv.airinf.eu.org:5052/trams/543/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="三立综合 Sanli Metro" group-title="其他",三立综合 Sanli Metro
-http://hitv.airinf.eu.org:5052/trams/756/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="世間路" group-title="其他",世間路
 http://166.0.198.156:5054/play/fast-live028/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="东森幼幼 Yoyo TV" group-title="其他",东森幼幼 Yoyo TV
-http://hitv.airinf.eu.org:5052/trams/969/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="东森戏剧 ETTV Drama" group-title="其他",东森戏剧 ETTV Drama
-http://hitv.airinf.eu.org:5052/trams/546/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻美洲" group-title="其他",东森新闻美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东森洋片 ETTV Western" group-title="其他",东森洋片 ETTV Western
-http://hitv.airinf.eu.org:5052/trams/763/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="东森电影 ETTV Movie" group-title="其他",东森电影 ETTV Movie
-http://hitv.airinf.eu.org:5052/trams/924/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="东森综合 ETTV Metro" group-title="其他",东森综合 ETTV Metro
-http://hitv.airinf.eu.org:5052/trams/118/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="中国电影频道" group-title="其他",中国电影频道
 http://iptv.4666888.xyz/iptv2A.php?id=61
-#EXTINF:-1 tvg-id="" tvg-name="中天娱乐 CTI Entertaiment" group-title="其他",中天娱乐 CTI Entertaiment
-http://hitv.airinf.eu.org:5052/trams/529/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="中天娱乐台" group-title="其他",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中天新聞 CTI News" group-title="其他",中天新聞 CTI News
-http://hitv.airinf.eu.org:5052/trams/1923/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="中天综合 CTI Metro" group-title="其他",中天综合 CTI Metro
-http://hitv.airinf.eu.org:5052/trams/741/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="亚洲旅游 TLC Asia" group-title="其他",亚洲旅游 TLC Asia
-http://hitv.airinf.eu.org:5052/trams/2055/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="以家人之名" group-title="其他",以家人之名
 http://166.0.198.156:5054/play/fast-live012/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="以愛為營" group-title="其他",以愛為營
@@ -2087,38 +1289,12 @@ http://166.0.198.156:5054/play/fast-live050/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/fast-live209/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="全能歌手" group-title="其他",全能歌手
 http://166.0.198.156:5054/play/fast-live216/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="八大娱乐 GTV Entertainment" group-title="其他",八大娱乐 GTV Entertainment
-http://hitv.airinf.eu.org:5052/trams/110/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="八大戏剧 GTV Drama" group-title="其他",八大戏剧 GTV Drama
-http://hitv.airinf.eu.org:5052/trams/753/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="八大第一 GTV First" group-title="其他",八大第一 GTV First
-http://hitv.airinf.eu.org:5052/trams/752/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="八大综合 GTV Metro" group-title="其他",八大综合 GTV Metro
-http://hitv.airinf.eu.org:5052/trams/754/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="公视 CTV" group-title="其他",公视 CTV
-http://hitv.airinf.eu.org:5052/trams/530/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="公视2" group-title="其他",公视2
-http://hitv.airinf.eu.org:5052/trams/2830/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="別打擾我種田" group-title="其他",別打擾我種田
 http://166.0.198.156:5054/play/fast-live018/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="加油喜事" group-title="其他",加油喜事
 http://166.0.198.156:5054/play/fast-live013/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="包青天" group-title="其他",包青天
 http://166.0.198.156:5054/play/fast-live034/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="华丽台 HD (Wah Lai Toi)" group-title="其他",华丽台 HD (Wah Lai Toi)
-http://hitv.airinf.eu.org:5052/trams/1077/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="华视 CTS HD" group-title="其他",华视 CTS HD
-http://hitv.airinf.eu.org:5052/trams/2032/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="博斯网球 HD" group-title="其他",博斯网球 HD
-http://hitv.airinf.eu.org:5052/trams/2086/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="博斯运动 1" group-title="其他",博斯运动 1
-http://hitv.airinf.eu.org:5052/trams/2083/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="博斯运动 2" group-title="其他",博斯运动 2
-http://hitv.airinf.eu.org:5052/trams/2084/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="博斯高球2 HD" group-title="其他",博斯高球2 HD
-http://hitv.airinf.eu.org:5052/trams/2085/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="卫视中文台 Star Movies Chinese" group-title="其他",卫视中文台 Star Movies Chinese
-http://hitv.airinf.eu.org:5052/trams/2078/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="去有風的地方" group-title="其他",去有風的地方
 http://166.0.198.156:5054/play/fast-live014/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="台灣No.1棒球精選" group-title="其他",台灣No.1棒球精選
@@ -2127,30 +1303,16 @@ http://166.0.198.156:5054/play/fast-live242/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/fast-live026/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="台灣靈異事件" group-title="其他",台灣靈異事件
 http://166.0.198.156:5054/play/fast-live010/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="台視新聞台 TTV News" group-title="其他",台視新聞台 TTV News
-http://hitv.airinf.eu.org:5052/trams/2502/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="台视 TTV HD" group-title="其他",台视 TTV HD
-http://hitv.airinf.eu.org:5052/trams/744/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="台视综合台" group-title="其他",台视综合台
-http://hitv.airinf.eu.org:5052/trams/745/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="同學！搞什麼鬼" group-title="其他",同學！搞什麼鬼
 http://166.0.198.156:5054/play/fast-live232/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="大兵日記" group-title="其他",大兵日記
 http://166.0.198.156:5054/play/fast-live039/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="大爱1台" group-title="其他",大爱1台
-http://hitv.airinf.eu.org:5052/trams/550/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1563" tvg-name="大爱2台" group-title="其他",大爱2台
-http://hitv.airinf.eu.org:5052/trams/508/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="天才衝衝衝" group-title="其他",天才衝衝衝
 http://166.0.198.156:5054/play/fast-live201/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="天映頻道Celestial Movies" group-title="其他",天映頻道Celestial Movies
-http://hitv.airinf.eu.org:5052/trams/2427/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="女人我最大" group-title="其他",女人我最大
 http://166.0.198.156:5054/play/fast-live204/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="女力報到" group-title="其他",女力報到
 http://166.0.198.156:5054/play/fast-live047/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="好消息 2" group-title="其他",好消息 2
-http://hitv.airinf.eu.org:5052/trams/2023/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="威廉沈歡樂送" group-title="其他",威廉沈歡樂送
 http://166.0.198.156:5054/play/fast-live208/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="娛樂百分百" group-title="其他",娛樂百分百
@@ -2161,8 +1323,6 @@ http://166.0.198.156:5054/play/fast-live001/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/fast-live231/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="幸福空間居家台" group-title="其他",幸福空間居家台
 http://166.0.198.156:5054/play/4gtv-4gtv064/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="广东南方卫视" group-title="其他",广东南方卫视
-http://hitv.airinf.eu.org:5052/trams/601/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="1996" tvg-name="广东民生" group-title="其他",广东民生
 http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广东经济" group-title="其他",广东经济
@@ -2175,14 +1335,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=54
 http://166.0.198.156:5054/play/fast-live413/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="我的成長" group-title="其他",我的成長
 http://166.0.198.156:5054/play/fast-live219/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="探索频道" group-title="其他",探索频道
-http://hitv.airinf.eu.org:5052/trams/2878/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="新兵日記" group-title="其他",新兵日記
 http://166.0.198.156:5054/play/fast-live011/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="新年追劇首選" group-title="其他",新年追劇首選
 http://166.0.198.156:5054/play/fast-live037/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="无线财经资讯台" group-title="其他",无线财经资讯台
-http://hitv.airinf.eu.org:5052/trams/1820/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
@@ -2203,50 +1359,28 @@ http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv043
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv039&cid=114
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv067&cid=227
-#EXTINF:-1 tvg-id="" tvg-name="東森新聞 ETTV News" group-title="其他",東森新聞 ETTV News
-http://hitv.airinf.eu.org:5052/trams/544/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="東森財經新聞 ETTV Business" group-title="其他",東森財經新聞 ETTV Business
-http://hitv.airinf.eu.org:5052/trams/761/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="東離劍遊紀" group-title="其他",東離劍遊紀
 http://166.0.198.156:5054/play/fast-live414/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="機智校園生活" group-title="其他",機智校園生活
 http://166.0.198.156:5054/play/fast-live046/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="欢喜台 HD(Hua Hee Tai)" group-title="其他",欢喜台 HD(Hua Hee Tai)
-http://hitv.airinf.eu.org:5052/trams/1076/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="武媚娘傳奇" group-title="其他",武媚娘傳奇
 http://166.0.198.156:5054/play/fast-live042/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="民視新聞台 FTV News" group-title="其他",民視新聞台 FTV News
-http://hitv.airinf.eu.org:5052/trams/746/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="民視生活通" group-title="其他",民視生活通
 http://166.0.198.156:5054/play/fast-live217/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="民視綜藝" group-title="其他",民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-id="" tvg-name="注意事项" group-title="其他",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-id="" tvg-name="爱尔达戏剧台" group-title="其他",爱尔达戏剧台
-http://hitv.airinf.eu.org:5052/trams/2043/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="爸媽囧很大" group-title="其他",爸媽囧很大
 http://166.0.198.156:5054/play/fast-live233/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="环球电视" group-title="其他",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="珍珠台" group-title="其他",珍珠台
-http://hitv.airinf.eu.org:5052/trams/1617/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="環遊世界800天" group-title="其他",環遊世界800天
 http://166.0.198.156:5054/play/fast-live228/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="終極一班" group-title="其他",終極一班
 http://166.0.198.156:5054/play/fast-live048/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="1512" tvg-name="纬来体育台" group-title="其他",纬来体育台
-http://hitv.airinf.eu.org:5052/trams/2051/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="纬来日本台" group-title="其他",纬来日本台
-http://hitv.airinf.eu.org:5052/trams/2048/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1503" tvg-name="纬来电影台" group-title="其他",纬来电影台
-http://hitv.airinf.eu.org:5052/trams/2049/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="1466" tvg-name="纬来综合台" group-title="其他",纬来综合台
-http://hitv.airinf.eu.org:5052/trams/2053/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="翡翠" group-title="其他",翡翠
 http://iptv.4666888.xyz/iptv2A.php?id=57
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台 (Back up 1)" group-title="其他",翡翠台 (Back up 1)
-http://hitv.airinf.eu.org:5052/trams/2831/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="耀才财经" group-title="其他",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="花千骨" group-title="其他",花千骨
@@ -2277,8 +1411,6 @@ http://166.0.198.156:5054/play/fast-live223/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/4gtv-live144/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="金光布袋戲" group-title="其他",金光布袋戲
 http://166.0.198.156:5054/play/fast-live402/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="阿里郎 Arirang" group-title="其他",阿里郎 Arirang
-http://hitv.airinf.eu.org:5052/trams/2080/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="韓流美食料理秀" group-title="其他",韓流美食料理秀
 http://166.0.198.156:5054/play/fast-live240/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="飛龍在天" group-title="其他",飛龍在天
@@ -2289,15 +1421,7 @@ http://166.0.198.156:5054/play/fast-live205/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/fast-live218/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="鬥魚" group-title="其他",鬥魚
 http://166.0.198.156:5054/play/fast-live049/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" group-title="其他",鳳凰資訊
-http://hitv.airinf.eu.org:5052/trams/61/playlist.m3u8?token=1314
 #EXTINF:-1 tvg-id="" tvg-name="黃金歲月" group-title="其他",黃金歲月
 http://166.0.198.156:5054/play/fast-live016/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="黄金华丽" group-title="其他",黄金华丽
 http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-id="" tvg-name="龙华戏剧 Lunghua Drama" group-title="其他",龙华戏剧 Lunghua Drama
-http://hitv.airinf.eu.org:5052/trams/811/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="龙华洋片 Lunghua Western" group-title="其他",龙华洋片 Lunghua Western
-http://hitv.airinf.eu.org:5052/trams/810/playlist.m3u8?token=1314
-#EXTINF:-1 tvg-id="" tvg-name="龙详时代" group-title="其他",龙详时代
-http://hitv.airinf.eu.org:5052/trams/2024/playlist.m3u8?token=1314
