@@ -218,8 +218,6 @@ http://120.4.126.153:1234/608807420
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视",CCTV1
 http://27.9.173.82:1234/608807420
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视",CCTV1
-http://111.61.236.247:9081/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视",CCTV1
 http://112.46.105.20:8009/hls/501/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视",CCTV1
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -237,8 +235,6 @@ http://14.153.176.157:1234/631780532
 http://120.4.126.153:1234/631780532
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="央视",CCTV2
 http://27.9.173.82:1234/631780532
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="央视",CCTV2
-http://111.61.236.247:9081/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="央视",CCTV2
 http://112.46.105.20:8009/hls/502/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="央视",CCTV2
@@ -258,8 +254,6 @@ http://120.4.126.153:1234/624878271
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="央视",CCTV3
 http://27.9.173.82:1234/624878271
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="央视",CCTV3
-http://111.61.236.247:9081/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="央视",CCTV3
 http://112.46.105.20:8009/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="央视",CCTV3
 http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
@@ -275,8 +269,6 @@ http://14.153.176.157:1234/631780421
 http://120.4.126.153:1234/631780421
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="CCTV4.png" group-title="央视",CCTV4
 http://27.9.173.82:1234/631780421
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="CCTV4.png" group-title="央视",CCTV4
-http://111.61.236.247:9081/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="CCTV4.png" group-title="央视",CCTV4
 http://112.46.105.20:8009/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="CCTV4.png" group-title="央视",CCTV4
@@ -320,8 +312,6 @@ http://120.4.126.153:1234/641886683
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="央视",CCTV5
 http://27.9.173.82:1234/641886683
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="央视",CCTV5
-http://111.61.236.247:9081/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="央视",CCTV5
 http://112.46.105.20:8009/hls/503/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="央视",CCTV5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
@@ -352,8 +342,6 @@ http://120.4.126.153:1234/624878396
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="央视",CCTV6
 http://27.9.173.82:1234/624878396
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="央视",CCTV6
-http://111.61.236.247:9081/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="央视",CCTV6
 http://112.46.105.20:8009/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="央视",CCTV6
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
@@ -372,8 +360,6 @@ http://27.9.173.82:1234/673168121
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="CCTV7.png" group-title="央视",CCTV7
 http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="CCTV7.png" group-title="央视",CCTV7
-http://111.61.236.247:9081/hls/7/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="CCTV7.png" group-title="央视",CCTV7
 http://112.46.105.20:8009/hls/504/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="CCTV7.png" group-title="央视",CCTV7
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
@@ -390,8 +376,6 @@ http://120.4.126.153:1234/624878356
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="CCTV8.png" group-title="央视",CCTV8
 http://27.9.173.82:1234/624878356
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="CCTV8.png" group-title="央视",CCTV8
-http://111.61.236.247:9081/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="CCTV8.png" group-title="央视",CCTV8
 http://112.46.105.20:8009/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="CCTV8.png" group-title="央视",CCTV8
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
@@ -405,8 +389,6 @@ http://14.153.176.157:1234/673168140
 http://120.4.126.153:1234/673168140
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="CCTV9.png" group-title="央视",CCTV9
 http://27.9.173.82:1234/673168140
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="CCTV9.png" group-title="央视",CCTV9
-http://111.61.236.247:9081/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="CCTV9.png" group-title="央视",CCTV9
 http://112.46.105.20:8009/hls/509/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="CCTV9.png" group-title="央视",CCTV9
@@ -440,8 +422,6 @@ http://120.4.126.153:1234/667987558
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="CCTV11.png" group-title="央视",CCTV11
 http://27.9.173.82:1234/667987558
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="CCTV11.png" group-title="央视",CCTV11
-http://111.61.236.247:9081/hls/11/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="CCTV11.png" group-title="央视",CCTV11
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="CCTV11.png" group-title="央视",CCTV11
 http://74.91.26.218:82/live/cctv11hd.m3u8
@@ -456,8 +436,6 @@ http://120.4.126.153:1234/673168185
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="CCTV12.png" group-title="央视",CCTV12
 http://27.9.173.82:1234/673168185
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="CCTV12.png" group-title="央视",CCTV12
-http://111.61.236.247:9081/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="CCTV12.png" group-title="央视",CCTV12
 http://112.46.105.20:8009/hls/507/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="CCTV12.png" group-title="央视",CCTV12
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
@@ -471,8 +449,6 @@ http://14.153.176.157:1234/608807423
 http://120.4.126.153:1234/608807423
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视",CCTV13
 http://27.9.173.82:1234/608807423
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视",CCTV13
-http://111.61.236.247:9081/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视",CCTV13
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视",CCTV13
@@ -507,8 +483,6 @@ http://14.153.176.157:1234/673168223
 http://120.4.126.153:1234/673168223
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="央视",CCTV15
 http://27.9.173.82:1234/673168223
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="央视",CCTV15
-http://111.61.236.247:9081/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="央视",CCTV15
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="央视",CCTV15
@@ -640,8 +614,6 @@ http://183.237.95.108:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-id="1647" tvg-name="第一剧场" tvg-logo="第一剧场.png" group-title="央视",第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1651" tvg-name="怀旧剧场" tvg-logo="怀旧剧场.png" group-title="央视",怀旧剧场
-http://111.61.236.247:9081/hls/67/index.m3u8
-#EXTINF:-1 tvg-id="1651" tvg-name="怀旧剧场" tvg-logo="怀旧剧场.png" group-title="央视",怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1648" tvg-name="风云剧场" tvg-logo="风云剧场.png" group-title="央视",风云剧场
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -664,8 +636,6 @@ http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="风云足球.png" group-title="央视",风云足球
 http://183.237.95.108:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="风云足球.png" group-title="央视",风云足球
-http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="风云足球.png" group-title="央视",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="风云足球.png" group-title="央视",风云足球
 https://stream1.freetv.fun/f2138a8afdae84246099c1f3bb72aa3714e369f6cec03df0f951f5883f2ca5f8.m3u8
@@ -676,15 +646,11 @@ http://183.237.95.108:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-id="1673" tvg-name="央视台球" tvg-logo="央视台球.png" group-title="央视",央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1653" tvg-name="女性时尚" tvg-logo="女性时尚.png" group-title="央视",女性时尚
-http://111.61.236.247:9081/hls/59/index.m3u8
-#EXTINF:-1 tvg-id="1653" tvg-name="女性时尚" tvg-logo="女性时尚.png" group-title="央视",女性时尚
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="电视指南.png" group-title="央视",电视指南
 http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="世界地理.png" group-title="央视",世界地理
 http://183.237.95.108:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="世界地理.png" group-title="央视",世界地理
-http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="世界地理.png" group-title="央视",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1677" tvg-name="发现之旅" tvg-logo="发现之旅.png" group-title="央视",发现之旅
@@ -717,8 +683,6 @@ http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_99
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-id="" tvg-name="重温经典" tvg-logo="重温经典.png" group-title="央视",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-id="1678" tvg-name="环球奇观" tvg-logo="环球奇观.png" group-title="央视",环球奇观
-http://111.61.236.247:9081/hls/63/index.m3u8
 #EXTINF:-1 tvg-id="1969" tvg-name="CHC影迷电影" tvg-logo="CHC影迷电影.png" group-title="央视",CHC影迷电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="1969" tvg-name="CHC影迷电影" tvg-logo="CHC影迷电影.png" group-title="央视",CHC影迷电影
@@ -742,15 +706,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=21
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
 http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
-http://111.61.236.247:9081/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=13
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
 https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=13
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
 http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
@@ -777,8 +739,6 @@ http://120.4.126.153:1234/651632648
 http://27.9.173.82:1234/651632648
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
-http://111.61.236.247:9081/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视",北京卫视
@@ -808,13 +768,9 @@ http://27.9.173.82:1234/623899368
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视",江苏卫视
 http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视",江苏卫视
-http://111.61.236.247:9081/hls/26/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视",江苏卫视
 http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="卫视",安徽卫视
 http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="卫视",安徽卫视
-http://111.61.236.247:9081/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="卫视",安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="卫视",重庆卫视
@@ -832,8 +788,6 @@ http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="卫视",重庆卫视
 http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视",四川卫视
-http://111.61.236.247:9081/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视",四川卫视
 http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 http://85.121.245.62:1234/849116810
@@ -848,15 +802,11 @@ http://27.9.173.82:1234/849116810
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
-http://111.61.236.247:9081/hls/42/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
 http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
 http://183.237.95.108:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
-http://111.61.236.247:9081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
@@ -876,15 +826,11 @@ http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视",广东卫视
 http://183.237.95.108:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视",广东卫视
-http://111.61.236.247:9081/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视",广东卫视
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="广西卫视.png" group-title="卫视",广西卫视
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="厦门卫视.png" group-title="卫视",厦门卫视
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png" group-title="卫视",甘肃卫视
-http://111.61.236.247:9081/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png" group-title="卫视",甘肃卫视
 http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="卫视",陕西卫视
@@ -902,8 +848,6 @@ http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="卫视",贵州卫视
 http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="卫视",贵州卫视
-http://111.61.236.247:9081/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="卫视",贵州卫视
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="卫视",河北卫视
 http://85.121.245.62:1234/962042070
@@ -918,8 +862,6 @@ http://27.9.173.82:1234/962042070
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="卫视",河北卫视
 http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="卫视",河北卫视
-http://111.61.236.247:9081/hls/17/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="卫视",河北卫视
 http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="卫视",河南卫视
 http://85.121.245.62:1234/790187291
@@ -932,13 +874,9 @@ http://120.4.126.153:1234/790187291
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="卫视",河南卫视
 http://27.9.173.82:1234/790187291
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="卫视",河南卫视
-http://111.61.236.247:9081/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="卫视",河南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://111.61.236.247:9081/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="卫视",湖北卫视
@@ -966,8 +904,6 @@ http://120.4.126.153:1234/783847495
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="卫视",江西卫视
 http://27.9.173.82:1234/783847495
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="卫视",江西卫视
-http://111.61.236.247:9081/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="卫视",江西卫视
 http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="卫视",吉林卫视
 http://85.121.245.62:1234/947472500
@@ -983,8 +919,6 @@ http://27.9.173.82:1234/947472500
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://183.237.95.108:9901/tsfile/live/1039_1.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://111.61.236.247:9081/hls/48/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视",辽宁卫视
@@ -1012,8 +946,6 @@ http://120.4.126.153:1234/738910535
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="卫视",宁夏卫视
 http://27.9.173.82:1234/738910535
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="卫视",宁夏卫视
-http://111.61.236.247:9081/hls/51/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="卫视",宁夏卫视
 http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="卫视",青海卫视
 http://85.121.245.62:1234/947472506
@@ -1026,15 +958,11 @@ http://120.4.126.153:1234/947472506
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="卫视",青海卫视
 http://27.9.173.82:1234/947472506
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="卫视",青海卫视
-http://111.61.236.247:9081/hls/49/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="卫视",青海卫视
 http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="卫视",青海卫视
 http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="卫视",山东卫视
 http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="卫视",山东卫视
-http://111.61.236.247:9081/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="卫视",山东卫视
 http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="卫视",山西卫视
@@ -1494,8 +1422,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="asia",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="asia",凤凰资讯
-https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="asia",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="asia",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
@@ -1889,8 +1815,6 @@ http://166.0.198.156:5054/play/4gtv-4gtv057/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/4gtv-4gtv045/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="靖洋戏剧" tvg-logo="靖洋戏剧.png" group-title="asia",靖洋戏剧
 http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="旅游卫视.png" group-title="asia",旅游卫视
-http://111.61.236.247:9081/hls/50/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="镜新闻" tvg-logo="镜新闻.png" group-title="asia",镜新闻
 http://166.0.198.156:5054/play/4gtv-4gtv075/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1458" tvg-name="客家电视台" tvg-logo="客家电视台.png" group-title="asia",客家电视台
@@ -1983,8 +1907,6 @@ http://74.91.26.218:82/live/ttvnews.m3u8
 http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-id="1566" tvg-name="台视综合" tvg-logo="台视综合.png" group-title="asia",台视综合
 http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
-https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 #EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
@@ -2236,45 +2158,49 @@ http://iptv.4666888.xyz/iptv2A.php?id=9
 #EXTINF:-1 tvg-id="" tvg-name="ABC Australia 澳洲公廣頻道" group-title="其他",ABC Australia 澳洲公廣頻道
 http://166.0.198.156:5054/play/4gtv-live167/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 1号场地 00:00" group-title="其他",BWF 何志伟/黄睿璿领衔出战 1号场地 00:00
+http://85.121.245.62:1234/965571441
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 1号场地 00:00" group-title="其他",BWF 何志伟/黄睿璿领衔出战 1号场地 00:00
 http://115.58.151.196:1234/965571441
 #EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 1号场地 00:00" group-title="其他",BWF 何志伟/黄睿璿领衔出战 1号场地 00:00
-http://120.4.126.153:1234/965571441
+http://14.153.176.157:1234/965571441
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 1号场地 00:00" group-title="其他",BWF 何志伟/黄睿璿领衔出战 1号场地 00:00
+http://27.9.173.82:1234/965571441
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 2号场地 00:00" group-title="其他",BWF 何志伟/黄睿璿领衔出战 2号场地 00:00
+http://85.121.245.62:1234/965571613
 #EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 2号场地 00:00" group-title="其他",BWF 何志伟/黄睿璿领衔出战 2号场地 00:00
 http://115.58.151.196:1234/965571613
 #EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 2号场地 00:00" group-title="其他",BWF 何志伟/黄睿璿领衔出战 2号场地 00:00
-http://120.4.126.153:1234/965571613
+http://14.153.176.157:1234/965571613
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 2号场地 00:00" group-title="其他",BWF 何志伟/黄睿璿领衔出战 2号场地 00:00
+http://27.9.173.82:1234/965571613
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 3号场地 00:10" group-title="其他",BWF 何志伟/黄睿璿领衔出战 3号场地 00:10
+http://85.121.245.62:1234/965571746
 #EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 3号场地 00:10" group-title="其他",BWF 何志伟/黄睿璿领衔出战 3号场地 00:10
 http://115.58.151.196:1234/965571746
 #EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 3号场地 00:10" group-title="其他",BWF 何志伟/黄睿璿领衔出战 3号场地 00:10
-http://120.4.126.153:1234/965571746
+http://14.153.176.157:1234/965571746
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 3号场地 00:10" group-title="其他",BWF 何志伟/黄睿璿领衔出战 3号场地 00:10
+http://27.9.173.82:1234/965571746
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 4号场地 00:10" group-title="其他",BWF 何志伟/黄睿璿领衔出战 4号场地 00:10
+http://85.121.245.62:1234/965571918
 #EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 4号场地 00:10" group-title="其他",BWF 何志伟/黄睿璿领衔出战 4号场地 00:10
 http://115.58.151.196:1234/965571918
 #EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 4号场地 00:10" group-title="其他",BWF 何志伟/黄睿璿领衔出战 4号场地 00:10
-http://120.4.126.153:1234/965571918
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 1号场地 00:00" group-title="其他",BWF 资格赛、1/16决赛 1号场地 00:00
-http://85.121.245.62:1234/965571441
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 1号场地 00:00" group-title="其他",BWF 资格赛、1/16决赛 1号场地 00:00
-http://14.153.176.157:1234/965571441
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 1号场地 00:00" group-title="其他",BWF 资格赛、1/16决赛 1号场地 00:00
-http://27.9.173.82:1234/965571441
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 2号场地 00:00" group-title="其他",BWF 资格赛、1/16决赛 2号场地 00:00
-http://85.121.245.62:1234/965571613
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 2号场地 00:00" group-title="其他",BWF 资格赛、1/16决赛 2号场地 00:00
-http://14.153.176.157:1234/965571613
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 2号场地 00:00" group-title="其他",BWF 资格赛、1/16决赛 2号场地 00:00
-http://27.9.173.82:1234/965571613
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 3号场地 00:10" group-title="其他",BWF 资格赛、1/16决赛 3号场地 00:10
-http://85.121.245.62:1234/965571746
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 3号场地 00:10" group-title="其他",BWF 资格赛、1/16决赛 3号场地 00:10
-http://14.153.176.157:1234/965571746
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 3号场地 00:10" group-title="其他",BWF 资格赛、1/16决赛 3号场地 00:10
-http://27.9.173.82:1234/965571746
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 4号场地 00:10" group-title="其他",BWF 资格赛、1/16决赛 4号场地 00:10
-http://85.121.245.62:1234/965571918
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 4号场地 00:10" group-title="其他",BWF 资格赛、1/16决赛 4号场地 00:10
 http://14.153.176.157:1234/965571918
-#EXTINF:-1 tvg-id="" tvg-name="BWF 资格赛、1/16决赛 4号场地 00:10" group-title="其他",BWF 资格赛、1/16决赛 4号场地 00:10
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出战 4号场地 00:10" group-title="其他",BWF 何志伟/黄睿璿领衔出战 4号场地 00:10
 http://27.9.173.82:1234/965571918
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出站 1号场地 02:00" group-title="其他",BWF 何志伟/黄睿璿领衔出站 1号场地 02:00
+http://120.4.126.153:1234/965571441
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出站 2号场地 02:00" group-title="其他",BWF 何志伟/黄睿璿领衔出站 2号场地 02:00
+http://120.4.126.153:1234/965571613
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出站 3号场地 02:10" group-title="其他",BWF 何志伟/黄睿璿领衔出站 3号场地 02:10
+http://120.4.126.153:1234/965571746
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出站 4号场地 02:10" group-title="其他",BWF 何志伟/黄睿璿领衔出站 4号场地 02:10
+http://120.4.126.153:1234/965571918
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出站 张田琦/奥德丽·张VS克里斯托弗·古纳万/佐伊·陈 02:10" group-title="其他",BWF 何志伟/黄睿璿领衔出站 张田琦/奥德丽·张VS克里斯托弗·古纳万/佐伊·陈 02:10
+http://120.4.126.153:1234/965608215
+#EXTINF:-1 tvg-id="" tvg-name="BWF 何志伟/黄睿璿领衔出站 徐子丞/卡西迪·叶VS基·尼古拉斯/鲁斯利 02:00" group-title="其他",BWF 何志伟/黄睿璿领衔出站 徐子丞/卡西迪·叶VS基·尼古拉斯/鲁斯利 02:00
+http://120.4.126.153:1234/965608279
 #EXTINF:-1 tvg-id="" tvg-name="ifunanime" group-title="其他",ifunanime
 http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 tvg-id="" tvg-name="J sport1" group-title="其他",J sport1
@@ -2308,29 +2234,29 @@ http://85.121.245.62:1234/965601708
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 全场回放 12:55
 http://115.58.151.196:1234/965601708
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 全场回放 12:55
+http://14.153.176.157:1234/965601708
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 全场回放 12:55
 http://120.4.126.153:1234/965601708
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 清流播出 12:55" group-title="其他",NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 清流播出 12:55
-http://14.153.176.157:1234/965576511
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 清流播出 12:55" group-title="其他",NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 清流播出 12:55
-http://27.9.173.82:1234/965576511
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Kyungbock高中 vs 禧年学校 全场回放 12:55
+http://27.9.173.82:1234/965601708
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55
+http://85.121.245.62:1234/965604809
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55
 http://115.58.151.196:1234/965604809
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55
-http://85.121.245.62:1234/965576537
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55
-http://14.153.176.157:1234/965576537
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55
-http://120.4.126.153:1234/965576537
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55
-http://27.9.173.82:1234/965576537
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55
-http://85.121.245.62:1234/965576816
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55
+http://14.153.176.157:1234/965604809
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55
+http://120.4.126.153:1234/965604809
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55" group-title="其他",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55
+http://27.9.173.82:1234/965604809
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 全场回放 16:55" group-title="其他",NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 全场回放 16:55
+http://85.121.245.62:1234/965606602
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 全场回放 16:55" group-title="其他",NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 全场回放 16:55
+http://120.4.126.153:1234/965606602
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55
 http://115.58.151.196:1234/965576816
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55
 http://14.153.176.157:1234/965576816
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55
-http://120.4.126.153:1234/965576816
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55
 http://27.9.173.82:1234/965576816
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55
@@ -2338,11 +2264,11 @@ http://85.121.245.62:1234/965601759
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55
 http://115.58.151.196:1234/965601759
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55
+http://14.153.176.157:1234/965601759
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55
 http://120.4.126.153:1234/965601759
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 清流播出 12:55" group-title="其他",NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 清流播出 12:55
-http://14.153.176.157:1234/965576798
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 清流播出 12:55" group-title="其他",NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 清流播出 12:55
-http://27.9.173.82:1234/965576798
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55" group-title="其他",NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55
+http://27.9.173.82:1234/965601759
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 东泰高中 vs 武吉加里尔体育学校 清流播出 12:55" group-title="其他",NBA未来之星邀请赛 东泰高中 vs 武吉加里尔体育学校 清流播出 12:55
 http://85.121.245.62:1234/965576580
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 东泰高中 vs 武吉加里尔体育学校 清流播出 12:55" group-title="其他",NBA未来之星邀请赛 东泰高中 vs 武吉加里尔体育学校 清流播出 12:55
@@ -2373,14 +2299,12 @@ http://14.153.176.157:1234/965576658
 http://120.4.126.153:1234/965576658
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 华侨中学 vs 鸟取城北高校 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 华侨中学 vs 鸟取城北高校 清流播出 16:55
 http://27.9.173.82:1234/965576658
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55
-http://85.121.245.62:1234/965576558
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 协恩中学 vs 华侨中学 全场回放 18:55" group-title="其他",NBA未来之星邀请赛 协恩中学 vs 华侨中学 全场回放 18:55
+http://120.4.126.153:1234/965608618
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55
 http://115.58.151.196:1234/965576558
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55
 http://14.153.176.157:1234/965576558
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55
-http://120.4.126.153:1234/965576558
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 协恩中学 vs 华侨中学 清流播出 18:55
 http://27.9.173.82:1234/965576558
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55
@@ -2388,11 +2312,11 @@ http://85.121.245.62:1234/965598753
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55
 http://115.58.151.196:1234/965598753
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55
+http://14.153.176.157:1234/965598753
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55
 http://120.4.126.153:1234/965598753
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 全场回放 10:55
 http://27.9.173.82:1234/965598753
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 清流播出 10:55" group-title="其他",NBA未来之星邀请赛 南洋理工学院 vs 雅礼中学 清流播出 10:55
-http://14.153.176.157:1234/965576506
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 吞武里易三仓学校 vs 新加坡工艺教育学院 清流播出 14:55" group-title="其他",NBA未来之星邀请赛 吞武里易三仓学校 vs 新加坡工艺教育学院 清流播出 14:55
 http://85.121.245.62:1234/965576893
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 吞武里易三仓学校 vs 新加坡工艺教育学院 清流播出 14:55" group-title="其他",NBA未来之星邀请赛 吞武里易三仓学校 vs 新加坡工艺教育学院 清流播出 14:55
@@ -2413,14 +2337,14 @@ http://14.153.176.157:1234/965576858
 http://120.4.126.153:1234/965576858
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 圣托马斯大学 vs Royal国际学校 清流播出 12:55" group-title="其他",NBA未来之星邀请赛 圣托马斯大学 vs Royal国际学校 清流播出 12:55
 http://27.9.173.82:1234/965576858
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55
-http://85.121.245.62:1234/965576546
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 全场回放 16:55" group-title="其他",NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 全场回放 16:55
+http://85.121.245.62:1234/965606715
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 全场回放 16:55" group-title="其他",NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 全场回放 16:55
+http://120.4.126.153:1234/965606715
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55
 http://115.58.151.196:1234/965576546
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55
 http://14.153.176.157:1234/965576546
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55
-http://120.4.126.153:1234/965576546
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55" group-title="其他",NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55
 http://27.9.173.82:1234/965576546
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 杨明高中 vs Watnoinoppakhun学校 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 杨明高中 vs Watnoinoppakhun学校 清流播出 18:55
@@ -2438,9 +2362,11 @@ http://85.121.245.62:1234/965599245
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 全场回放 10:55
 http://115.58.151.196:1234/965599245
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 全场回放 10:55
+http://14.153.176.157:1234/965599245
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 全场回放 10:55
 http://120.4.126.153:1234/965599245
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 清流播出 10:55" group-title="其他",NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 清流播出 10:55
-http://14.153.176.157:1234/965576783
+#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 全场回放 10:55" group-title="其他",NBA未来之星邀请赛 武吉加里尔体育学校 vs 伯威克学院 全场回放 10:55
+http://27.9.173.82:1234/965599245
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 禧年学校 vs The Velammal国际学校 清流播出 10:55" group-title="其他",NBA未来之星邀请赛 禧年学校 vs The Velammal国际学校 清流播出 10:55
 http://85.121.245.62:1234/965576844
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 禧年学校 vs The Velammal国际学校 清流播出 10:55" group-title="其他",NBA未来之星邀请赛 禧年学校 vs The Velammal国际学校 清流播出 10:55
@@ -2452,13 +2378,9 @@ http://120.4.126.153:1234/965576844
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 禧年学校 vs The Velammal国际学校 清流播出 10:55" group-title="其他",NBA未来之星邀请赛 禧年学校 vs The Velammal国际学校 清流播出 10:55
 http://27.9.173.82:1234/965576844
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55
-http://85.121.245.62:1234/965576832
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55
 http://115.58.151.196:1234/965576832
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55
 http://14.153.176.157:1234/965576832
-#EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55
-http://120.4.126.153:1234/965576832
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55" group-title="其他",NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55
 http://27.9.173.82:1234/965576832
 #EXTINF:-1 tvg-id="" tvg-name="NBA未来之星邀请赛 雅礼中学 vs 禧年学校 清流播出 10:55" group-title="其他",NBA未来之星邀请赛 雅礼中学 vs 禧年学校 清流播出 10:55
@@ -2476,7 +2398,9 @@ http://85.121.245.62:1234/965594759
 #EXTINF:-1 tvg-id="" tvg-name="NBA经典赛事 NBA精彩重播：2026西决 马刺vs雷霆 G1 杨健 曾令旭 苏群 18:00" group-title="其他",NBA经典赛事 NBA精彩重播：2026西决 马刺vs雷霆 G1 杨健 曾令旭 苏群 18:00
 http://115.58.151.196:1234/965594759
 #EXTINF:-1 tvg-id="" tvg-name="NBA经典赛事 NBA精彩重播：2026西决 马刺vs雷霆 G1 杨健 曾令旭 苏群 18:00" group-title="其他",NBA经典赛事 NBA精彩重播：2026西决 马刺vs雷霆 G1 杨健 曾令旭 苏群 18:00
-http://120.4.126.153:1234/965594759
+http://14.153.176.157:1234/965594759
+#EXTINF:-1 tvg-id="" tvg-name="NBA经典赛事 NBA精彩重播：2026西决 马刺vs雷霆 G1 杨健 曾令旭 苏群 18:00" group-title="其他",NBA经典赛事 NBA精彩重播：2026西决 马刺vs雷霆 G1 杨健 曾令旭 苏群 18:00
+http://27.9.173.82:1234/965594759
 #EXTINF:-1 tvg-id="" tvg-name="Nickeledeon" group-title="其他",Nickeledeon
 http://iptv.4666888.xyz/iptv2A.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" group-title="其他",Red Bull TV
@@ -2500,13 +2424,25 @@ http://iptv.4666888.xyz/iptv2A.php?id=72
 #EXTINF:-1 tvg-id="" tvg-name="spotv2" group-title="其他",spotv2
 http://iptv.4666888.xyz/iptv2A.php?id=80
 #EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 英文原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 英文原声 18:00
+http://85.121.245.62:1234/965596252
+#EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 英文原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 英文原声 18:00
 http://115.58.151.196:1234/965596252
 #EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 英文原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 英文原声 18:00
+http://14.153.176.157:1234/965596252
+#EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 英文原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 英文原声 18:00
 http://120.4.126.153:1234/965596252
+#EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 英文原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 英文原声 18:00
+http://27.9.173.82:1234/965596252
+#EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 赛场原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 赛场原声 18:00
+http://85.121.245.62:1234/965596158
 #EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 赛场原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 赛场原声 18:00
 http://115.58.151.196:1234/965596158
 #EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 赛场原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 赛场原声 18:00
+http://14.153.176.157:1234/965596158
+#EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 赛场原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 赛场原声 18:00
 http://120.4.126.153:1234/965596158
+#EXTINF:-1 tvg-id="" tvg-name="WTA WTA250伊斯特本站 Day4 赛场原声 18:00" group-title="其他",WTA WTA250伊斯特本站 Day4 赛场原声 18:00
+http://27.9.173.82:1234/965596158
 #EXTINF:-1 tvg-id="" tvg-name="WTA WTA巴特洪堡站Day4 英文原声 17:00" group-title="其他",WTA WTA巴特洪堡站Day4 英文原声 17:00
 http://85.121.245.62:1234/965446380
 #EXTINF:-1 tvg-id="" tvg-name="WTA WTA巴特洪堡站Day4 英文原声 17:00" group-title="其他",WTA WTA巴特洪堡站Day4 英文原声 17:00
@@ -2528,13 +2464,9 @@ http://120.4.126.153:1234/965446153
 #EXTINF:-1 tvg-id="" tvg-name="WTA WTA巴特洪堡站Day4 赛场原声 17:00" group-title="其他",WTA WTA巴特洪堡站Day4 赛场原声 17:00
 http://27.9.173.82:1234/965446153
 #EXTINF:-1 tvg-id="" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30" group-title="其他",WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30
-http://85.121.245.62:1234/965595478
-#EXTINF:-1 tvg-id="" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30" group-title="其他",WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30
 http://115.58.151.196:1234/965595478
 #EXTINF:-1 tvg-id="" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30" group-title="其他",WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30
 http://14.153.176.157:1234/965595478
-#EXTINF:-1 tvg-id="" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30" group-title="其他",WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30
-http://120.4.126.153:1234/965595478
 #EXTINF:-1 tvg-id="" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30" group-title="其他",WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30
 http://27.9.173.82:1234/965595478
 #EXTINF:-1 tvg-id="" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 英文原声 17:00" group-title="其他",WTA 大坂直美、斯维托丽娜领衔出战 英文原声 17:00
@@ -2557,14 +2489,16 @@ http://14.153.176.157:1234/965446095
 http://120.4.126.153:1234/965446095
 #EXTINF:-1 tvg-id="" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 赛场原声 17:00" group-title="其他",WTA 大坂直美、斯维托丽娜领衔出战 赛场原声 17:00
 http://27.9.173.82:1234/965446095
-#EXTINF:-1 tvg-id="" tvg-name="WTA 王欣瑜VS费尔南德斯 赛场原声 18:30" group-title="其他",WTA 王欣瑜VS费尔南德斯 赛场原声 18:30
-http://85.121.245.62:1234/965595433
+#EXTINF:-1 tvg-id="" tvg-name="WTA 王欣瑜VS费尔南德斯 【回放】王欣瑜2-0费尔南德斯（宋光振） 17:00" group-title="其他",WTA 王欣瑜VS费尔南德斯 【回放】王欣瑜2-0费尔南德斯（宋光振） 17:00
+http://85.121.245.62:1234/965607478
+#EXTINF:-1 tvg-id="" tvg-name="WTA 王欣瑜VS费尔南德斯 【回放】王欣瑜2-0费尔南德斯（宋光振） 17:00" group-title="其他",WTA 王欣瑜VS费尔南德斯 【回放】王欣瑜2-0费尔南德斯（宋光振） 17:00
+http://120.4.126.153:1234/965607478
+#EXTINF:-1 tvg-id="" tvg-name="WTA 王欣瑜VS费尔南德斯 全场回放 17:00" group-title="其他",WTA 王欣瑜VS费尔南德斯 全场回放 17:00
+http://120.4.126.153:1234/965608418
 #EXTINF:-1 tvg-id="" tvg-name="WTA 王欣瑜VS费尔南德斯 赛场原声 18:30" group-title="其他",WTA 王欣瑜VS费尔南德斯 赛场原声 18:30
 http://115.58.151.196:1234/965595433
 #EXTINF:-1 tvg-id="" tvg-name="WTA 王欣瑜VS费尔南德斯 赛场原声 18:30" group-title="其他",WTA 王欣瑜VS费尔南德斯 赛场原声 18:30
 http://14.153.176.157:1234/965595433
-#EXTINF:-1 tvg-id="" tvg-name="WTA 王欣瑜VS费尔南德斯 赛场原声 18:30" group-title="其他",WTA 王欣瑜VS费尔南德斯 赛场原声 18:30
-http://120.4.126.153:1234/965595433
 #EXTINF:-1 tvg-id="" tvg-name="WTA 王欣瑜VS费尔南德斯 赛场原声 18:30" group-title="其他",WTA 王欣瑜VS费尔南德斯 赛场原声 18:30
 http://27.9.173.82:1234/965595433
 #EXTINF:-1 tvg-id="" tvg-name="WTA 郑钦文 王欣瑜晋级  伊埃拉、大威止步 【全场回放】（英文原声）（一） 17:00" group-title="其他",WTA 郑钦文 王欣瑜晋级  伊埃拉、大威止步 【全场回放】（英文原声）（一） 17:00
@@ -2721,14 +2655,6 @@ http://27.9.173.82:1234/965582672
 http://166.0.198.156:5054/play/fast-live202/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="一起追韓星" group-title="其他",一起追韓星
 http://166.0.198.156:5054/play/fast-live239/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00" group-title="其他",世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00
-http://85.121.245.62:1234/965274201
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00" group-title="其他",世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00
-http://14.153.176.157:1234/965274201
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00" group-title="其他",世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00
-http://120.4.126.153:1234/965274201
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00" group-title="其他",世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00
-http://27.9.173.82:1234/965274201
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》第13期 绿茵狂想第13期 19:00" group-title="其他",世界杯 《绿茵狂想》第13期 绿茵狂想第13期 19:00
 http://85.121.245.62:1234/965274224
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》第13期 绿茵狂想第13期 19:00" group-title="其他",世界杯 《绿茵狂想》第13期 绿茵狂想第13期 19:00
@@ -2741,6 +2667,10 @@ http://120.4.126.153:1234/965274224
 http://27.9.173.82:1234/965274224
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》：徐阳徐云龙前瞻C罗次战 绿茵狂想第12期 19:00" group-title="其他",世界杯 《绿茵狂想》：徐阳徐云龙前瞻C罗次战 绿茵狂想第12期 19:00
 http://115.58.151.196:1234/965274201
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》：徐阳徐云龙前瞻C罗次战 绿茵狂想第12期 19:00" group-title="其他",世界杯 《绿茵狂想》：徐阳徐云龙前瞻C罗次战 绿茵狂想第12期 19:00
+http://14.153.176.157:1234/965274201
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 《绿茵狂想》：徐阳徐云龙前瞻C罗次战 绿茵狂想第12期 19:00" group-title="其他",世界杯 《绿茵狂想》：徐阳徐云龙前瞻C罗次战 绿茵狂想第12期 19:00
+http://27.9.173.82:1234/965274201
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 乌拉圭VS佛得角 全场回放（AI智慧观赛） 05:30" group-title="其他",世界杯 乌拉圭VS佛得角 全场回放（AI智慧观赛） 05:30
 http://85.121.245.62:1234/965569077
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 乌拉圭VS佛得角 全场回放（AI智慧观赛） 05:30" group-title="其他",世界杯 乌拉圭VS佛得角 全场回放（AI智慧观赛） 05:30
@@ -3121,64 +3051,46 @@ http://14.153.176.157:1234/965592909
 http://120.4.126.153:1234/965592909
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 法国VS伊拉克 纯享版回放（苏东、徐阳、孙继海、李子琪） 04:00" group-title="其他",世界杯 法国VS伊拉克 纯享版回放（苏东、徐阳、孙继海、李子琪） 04:00
 http://27.9.173.82:1234/965592909
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 AI智慧观赛 10:55" group-title="其他",世界杯 约旦VS阿尔及利亚 AI智慧观赛 10:55
-http://14.153.176.157:1234/965460047
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 AI智慧观赛 10:55" group-title="其他",世界杯 约旦VS阿尔及利亚 AI智慧观赛 10:55
-http://27.9.173.82:1234/965460047
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 CCTV5 12:00" group-title="其他",世界杯 约旦VS阿尔及利亚 CCTV5 12:00
-http://14.153.176.157:1234/965271838
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30
 http://85.121.245.62:1234/965600056
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30
 http://115.58.151.196:1234/965600056
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30
+http://14.153.176.157:1234/965600056
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30
 http://120.4.126.153:1234/965600056
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（AI智慧观赛） 10:30
+http://27.9.173.82:1234/965600056
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30
 http://85.121.245.62:1234/965600138
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30
 http://115.58.151.196:1234/965600138
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30
+http://14.153.176.157:1234/965600138
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30
 http://120.4.126.153:1234/965600138
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（孙雨轩、李欣、贺宇、程思钦） 10:30
+http://27.9.173.82:1234/965600138
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30
 http://85.121.245.62:1234/965599984
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30
 http://115.58.151.196:1234/965599984
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30
+http://14.153.176.157:1234/965599984
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30
 http://120.4.126.153:1234/965599984
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 孙雨轩 李欣 贺宇 程思钦 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 孙雨轩 李欣 贺宇 程思钦 10:30
-http://14.153.176.157:1234/965460548
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 孙雨轩 李欣 贺宇 程思钦 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 孙雨轩 李欣 贺宇 程思钦 10:30
-http://27.9.173.82:1234/965460548
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 山顶的风好大！ 10:45" group-title="其他",世界杯 约旦VS阿尔及利亚 山顶的风好大！ 10:45
-http://14.153.176.157:1234/965459600
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 山顶的风好大！ 10:45" group-title="其他",世界杯 约旦VS阿尔及利亚 山顶的风好大！ 10:45
-http://27.9.173.82:1234/965459600
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 开天眼了！ 10:45" group-title="其他",世界杯 约旦VS阿尔及利亚 开天眼了！ 10:45
-http://14.153.176.157:1234/965459644
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 开天眼了！ 10:45" group-title="其他",世界杯 约旦VS阿尔及利亚 开天眼了！ 10:45
-http://27.9.173.82:1234/965459644
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 智能字幕 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 智能字幕 10:30
-http://14.153.176.157:1234/965460492
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 智能字幕 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 智能字幕 10:30
-http://27.9.173.82:1234/965460492
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 约旦队视角 10:00" group-title="其他",世界杯 约旦VS阿尔及利亚 约旦队视角 10:00
-http://14.153.176.157:1234/965460821
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 约旦队视角 10:00" group-title="其他",世界杯 约旦VS阿尔及利亚 约旦队视角 10:00
-http://27.9.173.82:1234/965460821
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 全场回放（智能解说） 10:30
+http://27.9.173.82:1234/965599984
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30
 http://85.121.245.62:1234/965599865
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30
 http://115.58.151.196:1234/965599865
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30
+http://14.153.176.157:1234/965599865
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30
 http://120.4.126.153:1234/965599865
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 赛场原声 10:45" group-title="其他",世界杯 约旦VS阿尔及利亚 赛场原声 10:45
-http://14.153.176.157:1234/965460931
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 赛场原声 10:45" group-title="其他",世界杯 约旦VS阿尔及利亚 赛场原声 10:45
-http://27.9.173.82:1234/965460931
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 阿尔及利亚队视角 10:00" group-title="其他",世界杯 约旦VS阿尔及利亚 阿尔及利亚队视角 10:00
-http://14.153.176.157:1234/965460819
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 阿尔及利亚队视角 10:00" group-title="其他",世界杯 约旦VS阿尔及利亚 阿尔及利亚队视角 10:00
-http://27.9.173.82:1234/965460819
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30" group-title="其他",世界杯 约旦VS阿尔及利亚 纯享版回放（孙雨轩、李欣、贺宇、程思钦） 10:30
+http://27.9.173.82:1234/965599865
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 英格兰VS加纳 AI智慧观赛 03:55" group-title="其他",世界杯 英格兰VS加纳 AI智慧观赛 03:55
 http://85.121.245.62:1234/965511993
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 英格兰VS加纳 AI智慧观赛 03:55" group-title="其他",世界杯 英格兰VS加纳 AI智慧观赛 03:55
@@ -3259,10 +3171,6 @@ http://14.153.176.157:1234/965511971
 http://120.4.126.153:1234/965511971
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 AI智慧观赛 00:55" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 AI智慧观赛 00:55
 http://27.9.173.82:1234/965511971
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 呼叫我的球搭子 00:00" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 呼叫我的球搭子 00:00
-http://14.153.176.157:1234/965512307
-#EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 呼叫我的球搭子 00:00" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 呼叫我的球搭子 00:00
-http://27.9.173.82:1234/965512307
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 女声：沈云怡 林梦鸽 00:45" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 女声：沈云怡 林梦鸽 00:45
 http://85.121.245.62:1234/965512542
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 女声：沈云怡 林梦鸽 00:45" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 女声：沈云怡 林梦鸽 00:45
@@ -3278,7 +3186,11 @@ http://85.121.245.62:1234/965512307
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 娄一晨 颜强 许堂川 魏心怡 00:00" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 娄一晨 颜强 许堂川 魏心怡 00:00
 http://115.58.151.196:1234/965512307
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 娄一晨 颜强 许堂川 魏心怡 00:00" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 娄一晨 颜强 许堂川 魏心怡 00:00
+http://14.153.176.157:1234/965512307
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 娄一晨 颜强 许堂川 魏心怡 00:00" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 娄一晨 颜强 许堂川 魏心怡 00:00
 http://120.4.126.153:1234/965512307
+#EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 娄一晨 颜强 许堂川 魏心怡 00:00" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 娄一晨 颜强 许堂川 魏心怡 00:00
+http://27.9.173.82:1234/965512307
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 新声代：张昊泽 涂远 00:45" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 新声代：张昊泽 涂远 00:45
 http://85.121.245.62:1234/965512539
 #EXTINF:-1 tvg-id="" tvg-name="世界杯 葡萄牙VS乌兹别克斯坦 新声代：张昊泽 涂远 00:45" group-title="其他",世界杯 葡萄牙VS乌兹别克斯坦 新声代：张昊泽 涂远 00:45
@@ -3473,16 +3385,14 @@ http://27.9.173.82:1234/965588427
 http://166.0.198.156:5054/play/fast-live028/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻美洲" group-title="其他",东森新闻美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中乙 上海赛更达VS大连英博B队 解说 15:50" group-title="其他",中乙 上海赛更达VS大连英博B队 解说 15:50
-http://85.121.245.62:1234/965585677
+#EXTINF:-1 tvg-id="" tvg-name="中乙 上海赛更达VS大连英博B队 全场回放 15:50" group-title="其他",中乙 上海赛更达VS大连英博B队 全场回放 15:50
+http://85.121.245.62:1234/965606129
+#EXTINF:-1 tvg-id="" tvg-name="中乙 上海赛更达VS大连英博B队 全场回放 15:50" group-title="其他",中乙 上海赛更达VS大连英博B队 全场回放 15:50
+http://120.4.126.153:1234/965606129
 #EXTINF:-1 tvg-id="" tvg-name="中乙 上海赛更达VS大连英博B队 解说 15:50" group-title="其他",中乙 上海赛更达VS大连英博B队 解说 15:50
 http://115.58.151.196:1234/965585677
 #EXTINF:-1 tvg-id="" tvg-name="中乙 上海赛更达VS大连英博B队 解说 15:50" group-title="其他",中乙 上海赛更达VS大连英博B队 解说 15:50
 http://14.153.176.157:1234/965585677
-#EXTINF:-1 tvg-id="" tvg-name="中乙 上海赛更达VS大连英博B队 解说 15:50" group-title="其他",中乙 上海赛更达VS大连英博B队 解说 15:50
-http://120.4.126.153:1234/965585677
-#EXTINF:-1 tvg-id="" tvg-name="中乙 上海赛更达VS大连英博B队 解说 15:50" group-title="其他",中乙 上海赛更达VS大连英博B队 解说 15:50
-http://27.9.173.82:1234/965585677
 #EXTINF:-1 tvg-id="" tvg-name="中乙 北京理工VS山东泰山B队 解说 18:50" group-title="其他",中乙 北京理工VS山东泰山B队 解说 18:50
 http://85.121.245.62:1234/965585642
 #EXTINF:-1 tvg-id="" tvg-name="中乙 北京理工VS山东泰山B队 解说 18:50" group-title="其他",中乙 北京理工VS山东泰山B队 解说 18:50
@@ -3493,16 +3403,14 @@ http://14.153.176.157:1234/965585642
 http://120.4.126.153:1234/965585642
 #EXTINF:-1 tvg-id="" tvg-name="中乙 北京理工VS山东泰山B队 解说 18:50" group-title="其他",中乙 北京理工VS山东泰山B队 解说 18:50
 http://27.9.173.82:1234/965585642
-#EXTINF:-1 tvg-id="" tvg-name="中乙 厦门飞鹭VS湖北青年星 解说 15:50" group-title="其他",中乙 厦门飞鹭VS湖北青年星 解说 15:50
-http://85.121.245.62:1234/965585671
+#EXTINF:-1 tvg-id="" tvg-name="中乙 厦门飞鹭VS湖北青年星 全场回放 15:50" group-title="其他",中乙 厦门飞鹭VS湖北青年星 全场回放 15:50
+http://85.121.245.62:1234/965606324
+#EXTINF:-1 tvg-id="" tvg-name="中乙 厦门飞鹭VS湖北青年星 全场回放 15:50" group-title="其他",中乙 厦门飞鹭VS湖北青年星 全场回放 15:50
+http://120.4.126.153:1234/965606324
 #EXTINF:-1 tvg-id="" tvg-name="中乙 厦门飞鹭VS湖北青年星 解说 15:50" group-title="其他",中乙 厦门飞鹭VS湖北青年星 解说 15:50
 http://115.58.151.196:1234/965585671
 #EXTINF:-1 tvg-id="" tvg-name="中乙 厦门飞鹭VS湖北青年星 解说 15:50" group-title="其他",中乙 厦门飞鹭VS湖北青年星 解说 15:50
 http://14.153.176.157:1234/965585671
-#EXTINF:-1 tvg-id="" tvg-name="中乙 厦门飞鹭VS湖北青年星 解说 15:50" group-title="其他",中乙 厦门飞鹭VS湖北青年星 解说 15:50
-http://120.4.126.153:1234/965585671
-#EXTINF:-1 tvg-id="" tvg-name="中乙 厦门飞鹭VS湖北青年星 解说 15:50" group-title="其他",中乙 厦门飞鹭VS湖北青年星 解说 15:50
-http://27.9.173.82:1234/965585671
 #EXTINF:-1 tvg-id="" tvg-name="中乙 山西崇德荣海VS泰安天贶 解说 14:50" group-title="其他",中乙 山西崇德荣海VS泰安天贶 解说 14:50
 http://85.121.245.62:1234/965585648
 #EXTINF:-1 tvg-id="" tvg-name="中乙 山西崇德荣海VS泰安天贶 解说 14:50" group-title="其他",中乙 山西崇德荣海VS泰安天贶 解说 14:50
@@ -3519,8 +3427,6 @@ http://85.121.245.62:1234/965585658
 http://115.58.151.196:1234/965585658
 #EXTINF:-1 tvg-id="" tvg-name="中乙 广东铭途VS贵州贵阳竞技 解说 19:20" group-title="其他",中乙 广东铭途VS贵州贵阳竞技 解说 19:20
 http://14.153.176.157:1234/965585658
-#EXTINF:-1 tvg-id="" tvg-name="中乙 广东铭途VS贵州贵阳竞技 解说 19:20" group-title="其他",中乙 广东铭途VS贵州贵阳竞技 解说 19:20
-http://120.4.126.153:1234/965585658
 #EXTINF:-1 tvg-id="" tvg-name="中乙 广东铭途VS贵州贵阳竞技 解说 19:20" group-title="其他",中乙 广东铭途VS贵州贵阳竞技 解说 19:20
 http://27.9.173.82:1234/965585658
 #EXTINF:-1 tvg-id="" tvg-name="中乙 成都蓉城希拉谷VS广州蒲公英 解说 19:50" group-title="其他",中乙 成都蓉城希拉谷VS广州蒲公英 解说 19:50
@@ -3550,8 +3456,6 @@ http://115.58.151.196:1234/965585663
 #EXTINF:-1 tvg-id="" tvg-name="中乙 海门珂缔缘VS上海海港B队 解说 19:20" group-title="其他",中乙 海门珂缔缘VS上海海港B队 解说 19:20
 http://14.153.176.157:1234/965585663
 #EXTINF:-1 tvg-id="" tvg-name="中乙 海门珂缔缘VS上海海港B队 解说 19:20" group-title="其他",中乙 海门珂缔缘VS上海海港B队 解说 19:20
-http://120.4.126.153:1234/965585663
-#EXTINF:-1 tvg-id="" tvg-name="中乙 海门珂缔缘VS上海海港B队 解说 19:20" group-title="其他",中乙 海门珂缔缘VS上海海港B队 解说 19:20
 http://27.9.173.82:1234/965585663
 #EXTINF:-1 tvg-id="" tvg-name="中乙 深圳二零二八VS杭州临平吴越 解说 19:20" group-title="其他",中乙 深圳二零二八VS杭州临平吴越 解说 19:20
 http://85.121.245.62:1234/965585638
@@ -3573,34 +3477,32 @@ http://14.153.176.157:1234/965585627
 http://120.4.126.153:1234/965585627
 #EXTINF:-1 tvg-id="" tvg-name="中乙 温州俱乐部VS武汉三镇B队 解说 19:20" group-title="其他",中乙 温州俱乐部VS武汉三镇B队 解说 19:20
 http://27.9.173.82:1234/965585627
-#EXTINF:-1 tvg-id="" tvg-name="中乙 长春喜都VS兰州陇原竞技 解说 15:50" group-title="其他",中乙 长春喜都VS兰州陇原竞技 解说 15:50
-http://85.121.245.62:1234/965585669
+#EXTINF:-1 tvg-id="" tvg-name="中乙 长春喜都VS兰州陇原竞技 全场回放 15:50" group-title="其他",中乙 长春喜都VS兰州陇原竞技 全场回放 15:50
+http://85.121.245.62:1234/965605948
+#EXTINF:-1 tvg-id="" tvg-name="中乙 长春喜都VS兰州陇原竞技 全场回放 15:50" group-title="其他",中乙 长春喜都VS兰州陇原竞技 全场回放 15:50
+http://120.4.126.153:1234/965605948
+#EXTINF:-1 tvg-id="" tvg-name="中乙 长春喜都VS兰州陇原竞技 全场回放 15:50" group-title="其他",中乙 长春喜都VS兰州陇原竞技 全场回放 15:50
+http://27.9.173.82:1234/965605948
 #EXTINF:-1 tvg-id="" tvg-name="中乙 长春喜都VS兰州陇原竞技 解说 15:50" group-title="其他",中乙 长春喜都VS兰州陇原竞技 解说 15:50
 http://115.58.151.196:1234/965585669
 #EXTINF:-1 tvg-id="" tvg-name="中乙 长春喜都VS兰州陇原竞技 解说 15:50" group-title="其他",中乙 长春喜都VS兰州陇原竞技 解说 15:50
 http://14.153.176.157:1234/965585669
-#EXTINF:-1 tvg-id="" tvg-name="中乙 长春喜都VS兰州陇原竞技 解说 15:50" group-title="其他",中乙 长春喜都VS兰州陇原竞技 解说 15:50
-http://120.4.126.153:1234/965585669
-#EXTINF:-1 tvg-id="" tvg-name="中乙 长春喜都VS兰州陇原竞技 解说 15:50" group-title="其他",中乙 长春喜都VS兰州陇原竞技 解说 15:50
-http://27.9.173.82:1234/965585669
-#EXTINF:-1 tvg-id="" tvg-name="中乙 青岛红狮VS大连可为 解说 15:50" group-title="其他",中乙 青岛红狮VS大连可为 解说 15:50
-http://85.121.245.62:1234/965585667
+#EXTINF:-1 tvg-id="" tvg-name="中乙 青岛红狮VS大连可为 全场回放 15:50" group-title="其他",中乙 青岛红狮VS大连可为 全场回放 15:50
+http://85.121.245.62:1234/965606361
+#EXTINF:-1 tvg-id="" tvg-name="中乙 青岛红狮VS大连可为 全场回放 15:50" group-title="其他",中乙 青岛红狮VS大连可为 全场回放 15:50
+http://120.4.126.153:1234/965606361
 #EXTINF:-1 tvg-id="" tvg-name="中乙 青岛红狮VS大连可为 解说 15:50" group-title="其他",中乙 青岛红狮VS大连可为 解说 15:50
 http://115.58.151.196:1234/965585667
 #EXTINF:-1 tvg-id="" tvg-name="中乙 青岛红狮VS大连可为 解说 15:50" group-title="其他",中乙 青岛红狮VS大连可为 解说 15:50
 http://14.153.176.157:1234/965585667
-#EXTINF:-1 tvg-id="" tvg-name="中乙 青岛红狮VS大连可为 解说 15:50" group-title="其他",中乙 青岛红狮VS大连可为 解说 15:50
-http://120.4.126.153:1234/965585667
-#EXTINF:-1 tvg-id="" tvg-name="中乙 青岛红狮VS大连可为 解说 15:50" group-title="其他",中乙 青岛红狮VS大连可为 解说 15:50
-http://27.9.173.82:1234/965585667
-#EXTINF:-1 tvg-id="" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 解说 14:00" group-title="其他",中国围棋甲级联赛 围甲联赛第5轮 解说 14:00
-http://85.121.245.62:1234/965416743
-#EXTINF:-1 tvg-id="" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 解说 14:00" group-title="其他",中国围棋甲级联赛 围甲联赛第5轮 解说 14:00
-http://14.153.176.157:1234/965416743
-#EXTINF:-1 tvg-id="" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 解说 14:00" group-title="其他",中国围棋甲级联赛 围甲联赛第5轮 解说 14:00
-http://120.4.126.153:1234/965416743
-#EXTINF:-1 tvg-id="" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 解说 14:00" group-title="其他",中国围棋甲级联赛 围甲联赛第5轮 解说 14:00
-http://27.9.173.82:1234/965416743
+#EXTINF:-1 tvg-id="" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00" group-title="其他",中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00
+http://85.121.245.62:1234/965604945
+#EXTINF:-1 tvg-id="" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00" group-title="其他",中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00
+http://14.153.176.157:1234/965604945
+#EXTINF:-1 tvg-id="" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00" group-title="其他",中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00
+http://120.4.126.153:1234/965604945
+#EXTINF:-1 tvg-id="" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00" group-title="其他",中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00
+http://27.9.173.82:1234/965604945
 #EXTINF:-1 tvg-id="" tvg-name="中国电影频道" group-title="其他",中国电影频道
 http://iptv.4666888.xyz/iptv2A.php?id=61
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 3D全真视频 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 3D全真视频 19:20
@@ -3610,17 +3512,17 @@ http://115.58.151.196:1234/965551994
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 3D全真视频 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 3D全真视频 19:20
 http://14.153.176.157:1234/965551994
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 3D全真视频 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 3D全真视频 19:20
-http://120.4.126.153:1234/965551994
-#EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 3D全真视频 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 3D全真视频 19:20
 http://27.9.173.82:1234/965551994
+#EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 全场回放（原声） 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 全场回放（原声） 19:20
+http://120.4.126.153:1234/965608417
+#EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 全场回放（李天宇、陈正昊、张兆旭） 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 全场回放（李天宇、陈正昊、张兆旭） 19:20
+http://120.4.126.153:1234/965608429
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10
 http://85.121.245.62:1234/965520855
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10
 http://115.58.151.196:1234/965520855
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10
 http://14.153.176.157:1234/965520855
-#EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10
-http://120.4.126.153:1234/965520855
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 李天宇 陈正昊 张兆旭 19:10
 http://27.9.173.82:1234/965520855
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 现场原声 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 现场原声 19:20
@@ -3629,8 +3531,6 @@ http://85.121.245.62:1234/965520881
 http://115.58.151.196:1234/965520881
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 现场原声 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 现场原声 19:20
 http://14.153.176.157:1234/965520881
-#EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 现场原声 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 现场原声 19:20
-http://120.4.126.153:1234/965520881
 #EXTINF:-1 tvg-id="" tvg-name="中国男篮系列热身赛 中国男篮VS荷兰男篮 现场原声 19:20" group-title="其他",中国男篮系列热身赛 中国男篮VS荷兰男篮 现场原声 19:20
 http://27.9.173.82:1234/965520881
 #EXTINF:-1 tvg-id="" tvg-name="中天娱乐台" group-title="其他",中天娱乐台
@@ -3643,16 +3543,16 @@ http://166.0.198.156:5054/play/fast-live031/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/fast-live220/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="傅子純的時光機" group-title="其他",傅子純的時光機
 http://166.0.198.156:5054/play/fast-live050/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25" group-title="其他",全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25
-http://85.121.245.62:1234/965293011
+#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs河北英励 全场回放（赛场原声） 15:25" group-title="其他",全国青年篮球联赛 上海U21vs河北英励 全场回放（赛场原声） 15:25
+http://85.121.245.62:1234/965605461
+#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs河北英励 全场回放（赛场原声） 15:25" group-title="其他",全国青年篮球联赛 上海U21vs河北英励 全场回放（赛场原声） 15:25
+http://120.4.126.153:1234/965605461
+#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs河北英励 全场回放（赛场原声） 15:25" group-title="其他",全国青年篮球联赛 上海U21vs河北英励 全场回放（赛场原声） 15:25
+http://27.9.173.82:1234/965605461
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25" group-title="其他",全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25
 http://115.58.151.196:1234/965293011
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25" group-title="其他",全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25
 http://14.153.176.157:1234/965293011
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25" group-title="其他",全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25
-http://120.4.126.153:1234/965293011
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25" group-title="其他",全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25
-http://27.9.173.82:1234/965293011
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs福建U21 清流播出 17:55" group-title="其他",全国青年篮球联赛 上海U21vs福建U21 清流播出 17:55
 http://85.121.245.62:1234/965293078
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海U21vs福建U21 清流播出 17:55" group-title="其他",全国青年篮球联赛 上海U21vs福建U21 清流播出 17:55
@@ -3673,14 +3573,12 @@ http://14.153.176.157:1234/965581166
 http://120.4.126.153:1234/965581166
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 上海久事67-68浙江广厦 全场回放（赛场原声） 15:55" group-title="其他",全国青年篮球联赛 上海久事67-68浙江广厦 全场回放（赛场原声） 15:55
 http://27.9.173.82:1234/965581166
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55" group-title="其他",全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55
-http://85.121.245.62:1234/965293018
+#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 北京首钢82-61新疆天山 全场回放（赛场原声） 17:55" group-title="其他",全国青年篮球联赛 北京首钢82-61新疆天山 全场回放（赛场原声） 17:55
+http://120.4.126.153:1234/965608552
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55" group-title="其他",全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55
 http://115.58.151.196:1234/965293018
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55" group-title="其他",全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55
 http://14.153.176.157:1234/965293018
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55" group-title="其他",全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55
-http://120.4.126.153:1234/965293018
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55" group-title="其他",全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55
 http://27.9.173.82:1234/965293018
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 北京首钢vs武汉盛帆 清流播出 15:25" group-title="其他",全国青年篮球联赛 北京首钢vs武汉盛帆 清流播出 15:25
@@ -3740,8 +3638,6 @@ http://115.58.151.196:1234/965293027
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 武汉盛帆vs山西竹叶青酒 清流播出 19:55" group-title="其他",全国青年篮球联赛 武汉盛帆vs山西竹叶青酒 清流播出 19:55
 http://14.153.176.157:1234/965293027
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 武汉盛帆vs山西竹叶青酒 清流播出 19:55" group-title="其他",全国青年篮球联赛 武汉盛帆vs山西竹叶青酒 清流播出 19:55
-http://120.4.126.153:1234/965293027
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 武汉盛帆vs山西竹叶青酒 清流播出 19:55" group-title="其他",全国青年篮球联赛 武汉盛帆vs山西竹叶青酒 清流播出 19:55
 http://27.9.173.82:1234/965293027
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 浙江稠州银行94-85南京同曦 全场回放（赛场原声） 09:55" group-title="其他",全国青年篮球联赛 浙江稠州银行94-85南京同曦 全场回放（赛场原声） 09:55
 http://85.121.245.62:1234/965574184
@@ -3765,14 +3661,14 @@ http://120.4.126.153:1234/965578850
 http://27.9.173.82:1234/965578850
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 2026全国U21青年篮球锦标赛全场回放：福建U21vs江西赣星（赛场原声） 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 2026全国U21青年篮球锦标赛全场回放：福建U21vs江西赣星（赛场原声） 13:25
 http://115.58.151.196:1234/965603204
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25
-http://85.121.245.62:1234/965293008
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25
-http://14.153.176.157:1234/965293008
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25
-http://120.4.126.153:1234/965293008
-#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25
-http://27.9.173.82:1234/965293008
+#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 2026全国U21青年篮球锦标赛全场回放：福建U21vs江西赣星（赛场原声） 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 2026全国U21青年篮球锦标赛全场回放：福建U21vs江西赣星（赛场原声） 13:25
+http://14.153.176.157:1234/965603204
+#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 全场回放（赛场原声） 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 全场回放（赛场原声） 13:25
+http://85.121.245.62:1234/965603204
+#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 全场回放（赛场原声） 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 全场回放（赛场原声） 13:25
+http://120.4.126.153:1234/965603204
+#EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 全场回放（赛场原声） 13:25" group-title="其他",全国青年篮球联赛 福建U21vs江西赣星 全场回放（赛场原声） 13:25
+http://27.9.173.82:1234/965603204
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 苏科雄狮92-120北京首钢 全场回放（赛场原声） 09:55" group-title="其他",全国青年篮球联赛 苏科雄狮92-120北京首钢 全场回放（赛场原声） 09:55
 http://85.121.245.62:1234/965574411
 #EXTINF:-1 tvg-id="" tvg-name="全国青年篮球联赛 苏科雄狮92-120北京首钢 全场回放（赛场原声） 09:55" group-title="其他",全国青年篮球联赛 苏科雄狮92-120北京首钢 全场回放（赛场原声） 09:55
@@ -3823,24 +3719,22 @@ http://166.0.198.156:5054/play/fast-live026/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/fast-live010/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="同學！搞什麼鬼" group-title="其他",同學！搞什麼鬼
 http://166.0.198.156:5054/play/fast-live232/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-#EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50" group-title="其他",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50
-http://85.121.245.62:1234/965476701
+#EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 全场回放（原声） 15:50" group-title="其他",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 全场回放（原声） 15:50
+http://85.121.245.62:1234/965605882
+#EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 全场回放（原声） 15:50" group-title="其他",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 全场回放（原声） 15:50
+http://120.4.126.153:1234/965605882
+#EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 全场回放（原声） 15:50" group-title="其他",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 全场回放（原声） 15:50
+http://27.9.173.82:1234/965605882
 #EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50" group-title="其他",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50
 http://115.58.151.196:1234/965476701
 #EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50" group-title="其他",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50
 http://14.153.176.157:1234/965476701
-#EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50" group-title="其他",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50
-http://120.4.126.153:1234/965476701
-#EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50" group-title="其他",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50
-http://27.9.173.82:1234/965476701
 #EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20" group-title="其他",国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20
 http://85.121.245.62:1234/965476713
 #EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20" group-title="其他",国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20
 http://115.58.151.196:1234/965476713
 #EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20" group-title="其他",国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20
 http://14.153.176.157:1234/965476713
-#EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20" group-title="其他",国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20
-http://120.4.126.153:1234/965476713
 #EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20" group-title="其他",国青女篮热身赛 中国U18女篮VS巴西U18女篮 清流播出 19:20
 http://27.9.173.82:1234/965476713
 #EXTINF:-1 tvg-id="" tvg-name="国青女篮热身赛 中国U18女篮VS拉脱维亚U18女篮 清流播出 19:20" group-title="其他",国青女篮热身赛 中国U18女篮VS拉脱维亚U18女篮 清流播出 19:20
@@ -3875,6 +3769,8 @@ http://166.0.198.156:5054/play/fast-live047/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 http://166.0.198.156:5054/play/fast-live208/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="娛樂百分百" group-title="其他",娛樂百分百
 http://166.0.198.156:5054/play/fast-live212/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
+#EXTINF:-1 tvg-id="" tvg-name="小七) 18:00" group-title="其他",小七) 18:00
+http://120.4.126.153:1234/965594759
 #EXTINF:-1 tvg-id="" tvg-name="市井豪門" group-title="其他",市井豪門
 http://166.0.198.156:5054/play/fast-live001/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="幸福保衛戰" group-title="其他",幸福保衛戰
@@ -3894,13 +3790,9 @@ http://166.0.198.156:5054/play/fast-live413/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="" tvg-name="我的成長" group-title="其他",我的成長
 http://166.0.198.156:5054/play/fast-live219/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00" group-title="其他",斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00
-http://85.121.245.62:1234/965489994
-#EXTINF:-1 tvg-id="" tvg-name="斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00" group-title="其他",斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00
 http://115.58.151.196:1234/965489994
 #EXTINF:-1 tvg-id="" tvg-name="斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00" group-title="其他",斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00
 http://14.153.176.157:1234/965489994
-#EXTINF:-1 tvg-id="" tvg-name="斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00" group-title="其他",斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00
-http://120.4.126.153:1234/965489994
 #EXTINF:-1 tvg-id="" tvg-name="斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00" group-title="其他",斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00
 http://27.9.173.82:1234/965489994
 #EXTINF:-1 tvg-id="" tvg-name="斯诺克 2025世锦赛决赛 赵心童vs老马二阶段 斯诺克经典回放：2025世锦赛正赛半决赛 赵心童vs马克·威廉姆斯第二阶段 18:00" group-title="其他",斯诺克 2025世锦赛决赛 赵心童vs老马二阶段 斯诺克经典回放：2025世锦赛正赛半决赛 赵心童vs马克·威廉姆斯第二阶段 18:00
@@ -4068,13 +3960,21 @@ http://85.121.245.62:1234/965600741
 #EXTINF:-1 tvg-id="" tvg-name="贵州村超 水尾乡中心校U12足球队VS古州三小U12足球队 2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队 18:30" group-title="其他",贵州村超 水尾乡中心校U12足球队VS古州三小U12足球队 2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队 18:30
 http://115.58.151.196:1234/965600741
 #EXTINF:-1 tvg-id="" tvg-name="贵州村超 水尾乡中心校U12足球队VS古州三小U12足球队 2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队 18:30" group-title="其他",贵州村超 水尾乡中心校U12足球队VS古州三小U12足球队 2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队 18:30
+http://14.153.176.157:1234/965600741
+#EXTINF:-1 tvg-id="" tvg-name="贵州村超 水尾乡中心校U12足球队VS古州三小U12足球队 2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队 18:30" group-title="其他",贵州村超 水尾乡中心校U12足球队VS古州三小U12足球队 2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队 18:30
 http://120.4.126.153:1234/965600741
+#EXTINF:-1 tvg-id="" tvg-name="贵州村超 水尾乡中心校U12足球队VS古州三小U12足球队 2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队 18:30" group-title="其他",贵州村超 水尾乡中心校U12足球队VS古州三小U12足球队 2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队 18:30
+http://27.9.173.82:1234/965600741
 #EXTINF:-1 tvg-id="" tvg-name="贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00" group-title="其他",贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00
 http://85.121.245.62:1234/965600758
 #EXTINF:-1 tvg-id="" tvg-name="贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00" group-title="其他",贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00
 http://115.58.151.196:1234/965600758
 #EXTINF:-1 tvg-id="" tvg-name="贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00" group-title="其他",贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00
+http://14.153.176.157:1234/965600758
+#EXTINF:-1 tvg-id="" tvg-name="贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00" group-title="其他",贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00
 http://120.4.126.153:1234/965600758
+#EXTINF:-1 tvg-id="" tvg-name="贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00" group-title="其他",贵州村超 贵州刺梨队VS榕江牛瘪队 2026赛季贵州村超联赛村超友谊赛: 贵州刺梨队v榕江牛瘪队 20:00
+http://27.9.173.82:1234/965600758
 #EXTINF:-1 tvg-id="" tvg-name="超人力霸王《TV版》" group-title="其他",超人力霸王《TV版》
 http://166.0.198.156:5054/play/fast-live403/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="超人力霸王《劇場版》" group-title="其他",超人力霸王《劇場版》
