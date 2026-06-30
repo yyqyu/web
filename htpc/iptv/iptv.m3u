@@ -3,16 +3,12 @@
 https://bee.tzh911.qzz.io/bee.php?id=MUTV
 #EXTINF:-1,tvg-id="RMTV" tvg-name="RMTV" tvg-logo="https://epg.112114.xyz/logo/RMTV.png" group-title="体育",RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1,tvg-id="KPL直播" tvg-name="KPL直播" tvg-logo="https://game.gtimg.cn/images/yxzj/web201706/images/comm/logo.png" group-title="体育",KPL直播
-https://isus.cc/php/huya.php?id=660002
 #EXTINF:0 group-title="体育" tvg-id="4675" tvg-logo="http://epg.it999.ru/img/4675.png" tvg-rec="7",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1,tvg-id="KPL直播" tvg-name="KPL直播" tvg-logo="https://game.gtimg.cn/images/yxzj/web201706/images/comm/logo.png" group-title="体育",KPL直播
 https://huya.airinf.eu.org?id=660002
 #EXTINF:-1,tvg-id="KPL直播" tvg-name="KPL直播" tvg-logo="https://game.gtimg.cn/images/yxzj/web201706/images/comm/logo.png" group-title="体育",KPL直播
 https://huya.flt.workers.dev?id=660002
-#EXTINF:-1,tvg-id="KPL直播" tvg-name="KPL直播" tvg-logo="https://game.gtimg.cn/images/yxzj/web201706/images/comm/logo.png" group-title="体育",KPL直播
-http://epg.112114.xyz/douyu/1863767
 #EXTINF:-1,tvg-id="至臻视界4K" tvg-name="至臻视界" tvg-logo="https://epg.112114.xyz/logo/至臻视界.png" group-title="体育",至臻视界
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1,tvg-id="至臻视界4K" tvg-name="至臻视界" tvg-logo="https://epg.112114.xyz/logo/至臻视界.png" group-title="体育",至臻视界
@@ -205,6 +201,8 @@ http://hls.168.us.kg/u/630/master.m3u8
 http://hls.168.us.kg/u/961/master.m3u8
 #EXTINF:-1 tvg-name="VIUTV全运-2" tvg-logo="https://live.fanmingming.com/tv/VIUTV全运-2.png" group-title="体育",VIUTV全运-2
 http://hls.168.us.kg/u/962/master.m3u8
+#EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="体育",NBA
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1,tvg-id="迪拜体育" tvg-name="迪拜体育" tvg-logo="https://epg.112114.xyz/logo/迪拜体育.png" group-title="体育",迪拜体育
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视",CCTV1
@@ -535,8 +533,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 http://rihou.cc:555/tv/[Cx]RTHK-31
 #EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="RTHK31.png" group-title="asia",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
-http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
 http://rihou.cc:555/tv/[Cx]RTHK-32
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
@@ -1289,8 +1285,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://166.0.198.156:5054/play/4gtv-live168/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="NHK World.png" group-title="asia",NHK World
 http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live168&cid=461
-#EXTINF:-1 tvg-id="" tvg-name="NOW新闻" tvg-logo="NOW新闻.png" group-title="asia",NOW新闻
-http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="" tvg-name="NOW直播" tvg-logo="NOW直播.png" group-title="asia",NOW直播
 https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="Pet Club TV.png" group-title="asia",Pet Club TV
