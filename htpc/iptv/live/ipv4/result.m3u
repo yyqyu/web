@@ -180,11 +180,11 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视",北京卫视
 http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视",北京卫视
@@ -280,9 +280,9 @@ http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="浙江国际.png" group-title="卫视",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
-http://58.252.81.228:1234/626064703
-#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
 http://2280.eu.org:1234/626064703
+#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
+http://112.85.93.6:7788/626064703
 #EXTINF:-1 tvg-id="" tvg-name="多情城市" tvg-logo="多情城市.png" group-title="地方",多情城市
 http://166.0.198.156:5054/play/fast-live015/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="河北4K" tvg-logo="河北4K.png" group-title="地方",河北4K
@@ -304,37 +304,37 @@ https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="广州综合.png" group-title="地方",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=1b3fcaebe0459e7ca2876c2d5493cfac&txTime=18d047b699e
 #EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
-http://58.252.81.228:1234/626064707
-#EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
 http://2280.eu.org:1234/626064707
-#EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
-http://58.252.81.228:1234/626064693
+#EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
+http://112.85.93.6:7788/626064707
 #EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
 http://2280.eu.org:1234/626064693
-#EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
-http://58.252.81.228:1234/838151753
+#EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
+http://112.85.93.6:7788/626064693
 #EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
 http://2280.eu.org:1234/838151753
-#EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
-http://58.252.81.228:1234/838153729
+#EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
+http://112.85.93.6:7788/838151753
 #EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
 http://2280.eu.org:1234/838153729
-#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
-http://58.252.81.228:1234/838109047
+#EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
+http://112.85.93.6:7788/838153729
 #EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
 http://2280.eu.org:1234/838109047
-#EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
-http://58.252.81.228:1234/626064714
+#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
+http://112.85.93.6:7788/838109047
 #EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
 http://2280.eu.org:1234/626064714
-#EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
-http://58.252.81.228:1234/626064697
+#EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
+http://112.85.93.6:7788/626064714
 #EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
 http://2280.eu.org:1234/626064697
-#EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
-http://58.252.81.228:1234/626065193
+#EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
+http://112.85.93.6:7788/626064697
 #EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
 http://2280.eu.org:1234/626065193
+#EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
+http://112.85.93.6:7788/626065193
 #EXTINF:-1 tvg-id="1759" tvg-name="广东珠江" tvg-logo="广东珠江.png" group-title="地方",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-id="1436" tvg-name="广东体育" tvg-logo="广东体育.png" group-title="地方",广东体育
@@ -342,41 +342,41 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="广州新闻.png" group-title="地方",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=e2dc470aa40798640857deb96b922f74&txTime=18d0548e823
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
-http://58.252.81.228:1234/956909289
-#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
 http://2280.eu.org:1234/956909289
-#EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
-http://58.252.81.228:1234/956909303
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
+http://112.85.93.6:7788/956909289
 #EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
 http://2280.eu.org:1234/956909303
-#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
-http://58.252.81.228:1234/956909358
+#EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
+http://112.85.93.6:7788/956909303
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
 http://2280.eu.org:1234/956909358
-#EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
-http://58.252.81.228:1234/956909362
+#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
+http://112.85.93.6:7788/956909358
 #EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
 http://2280.eu.org:1234/956909362
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
-http://58.252.81.228:1234/962067523
+#EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
+http://112.85.93.6:7788/956909362
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
 http://2280.eu.org:1234/962067523
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
-http://58.252.81.228:1234/962067526
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
+http://112.85.93.6:7788/962067523
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
 http://2280.eu.org:1234/962067526
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
-http://58.252.81.228:1234/962067517
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
+http://112.85.93.6:7788/962067526
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
 http://2280.eu.org:1234/962067517
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
-http://58.252.81.228:1234/962045223
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
+http://112.85.93.6:7788/962067517
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
 http://2280.eu.org:1234/962045223
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
-http://58.252.81.228:1234/962045226
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
+http://112.85.93.6:7788/962045223
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
 http://2280.eu.org:1234/962045226
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
+http://112.85.93.6:7788/962045226
 #EXTINF:-1 tvg-id="" tvg-name="精彩陸劇1台" tvg-logo="精彩陸劇1台.png" group-title="地方",精彩陸劇1台
 http://166.0.198.156:5054/play/fast-live033/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="精彩陸劇2台" tvg-logo="精彩陸劇2台.png" group-title="地方",精彩陸劇2台
@@ -394,15 +394,15 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="凤凰香港.png" group-title="asia",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="RTHK31.png" group-title="asia",RTHK31
-http://rihou.cc:555/tv/[Cx]RTHK-31
-#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="RTHK31.png" group-title="asia",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="RTHK31.png" group-title="asia",RTHK31
+http://rihou.cc:555/tv/[Cx]RTHK-31
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
-http://rihou.cc:555/tv/[Cx]RTHK-32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+http://rihou.cc:555/tv/[Cx]RTHK-32
 #EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="RTHK33.png" group-title="asia",RTHK33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="RTHK33.png" group-title="asia",RTHK33
@@ -422,11 +422,11 @@ http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="" tvg-name="亚洲卫视" tvg-logo="亚洲卫视.png" group-title="asia",亚洲卫视
 https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="HOY77.png" group-title="asia",HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="HOY77.png" group-title="asia",HOY77
 http://rihou.cc:555/tv/[Cx]有线综合
 #EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="HOY77.png" group-title="asia",HOY77
 http://rihou.cc:555/tv/[Pd]有线综合
-#EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="HOY77.png" group-title="asia",HOY77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-id="" tvg-name="青田电视" tvg-logo="青田电视.png" group-title="asia",青田电视
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
@@ -440,8 +440,6 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
-http://rihou.cc:555/tv/[Pd]无线翡4k
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -453,8 +451,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
-http://rihou.cc:555/tv/[Pd]无线华丽
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
+http://rihou.cc:555/tv/[Pd]无线翡4k
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
 http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
@@ -463,12 +461,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
 https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
-http://r.jdshipin.com/Voac4
+#EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
+http://rihou.cc:555/tv/[Pd]无线华丽
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
+http://r.jdshipin.com/Voac4
 #EXTINF:-1 tvg-id="" tvg-name="TVB明珠" tvg-logo="TVB明珠.png" group-title="asia",TVB明珠
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="" tvg-name="TVB明珠" tvg-logo="TVB明珠.png" group-title="asia",TVB明珠
@@ -482,35 +482,35 @@ http://74.91.26.218:82/live/j1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB J2" tvg-logo="TVB J2.png" group-title="asia",TVB J2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
-http://rihou.cc:555/tv/[Pd]Plus综合
-#EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
 http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="TVB亚洲武侠.png" group-title="asia",TVB亚洲武侠
-http://rihou.cc:555/tv/[Pd]无线功夫
+#EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
+http://rihou.cc:555/tv/[Pd]Plus综合
 #EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="TVB亚洲武侠.png" group-title="asia",TVB亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
-http://rihou.cc:555/tv/[Pd]无线千禧
+#EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="TVB亚洲武侠.png" group-title="asia",TVB亚洲武侠
+http://rihou.cc:555/tv/[Pd]无线功夫
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻" tvg-logo="TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
-http://rihou.cc:555/tv/[Pd]无线娱乐
+#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
+http://rihou.cc:555/tv/[Pd]无线千禧
 #EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻" tvg-logo="TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-id="123" tvg-name="TVB无线新闻" tvg-logo="TVB无线新闻.png" group-title="asia",TVB无线新闻
-http://rihou.cc:555/tv/[Pd]无线新闻
+#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻" tvg-logo="TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
+http://rihou.cc:555/tv/[Pd]无线娱乐
 #EXTINF:-1 tvg-id="123" tvg-name="TVB无线新闻" tvg-logo="TVB无线新闻.png" group-title="asia",TVB无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="123" tvg-name="TVB无线新闻" tvg-logo="TVB无线新闻.png" group-title="asia",TVB无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 tvg-id="123" tvg-name="TVB无线新闻" tvg-logo="TVB无线新闻.png" group-title="asia",TVB无线新闻
 http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="TVB无线新闻" tvg-logo="TVB无线新闻.png" group-title="asia",TVB无线新闻
+http://rihou.cc:555/tv/[Pd]无线新闻
 #EXTINF:-1 tvg-id="" tvg-name="TVB生活" tvg-logo="TVB生活.png" group-title="asia",TVB生活
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 #EXTINF:-1 tvg-id="1496" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
@@ -532,11 +532,11 @@ http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4g
 #EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
 http://166.0.198.156:5054/play/media-live072/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
-http://rihou.cc:555/tv/[FY]tvbS新闻
-#EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
 http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=1314&pid=media-live072&cid=473
 #EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
+http://rihou.cc:555/tv/[FY]tvbS新闻
 #EXTINF:-1 tvg-id="" tvg-name="TVBS精采台" tvg-logo="TVBS精采台.png" group-title="asia",TVBS精采台
 http://166.0.198.156:5054/play/4gtv-4gtv067/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="TVBS精采台" tvg-logo="TVBS精采台.png" group-title="asia",TVBS精采台
@@ -548,11 +548,11 @@ http://166.0.198.156:5054/play/fast-live222/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="" tvg-name="TVBS台劇台" tvg-logo="TVBS台劇台.png" group-title="asia",TVBS台劇台
 http://166.0.198.156:5054/play/fast-live200/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
 http://rihou.cc:555/tv/[Cx]VIUTV粤
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
 http://rihou.cc:555/tv/[Cx]VIUTV英
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
-https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="" tvg-name="邵氏动作" tvg-logo="邵氏动作.png" group-title="asia",邵氏动作
 http://feilong123.vip/409990236/tv.php?id=ssdz
 #EXTINF:-1 tvg-id="" tvg-name="邵氏动作" tvg-logo="邵氏动作.png" group-title="asia",邵氏动作
@@ -734,9 +734,9 @@ http://166.0.198.156:5054/play/4gtv-4gtv041/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
 http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv041&cid=6
 #EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
-http://211.72.174.95:8114/0.ts
-#EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
 http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
+http://211.72.174.95:8114/0.ts
 #EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
 http://166.0.198.156:5054/play/4gtv-4gtv052/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
@@ -920,9 +920,9 @@ http://166.0.198.156:5054/play/4gtv-4gtv014/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="" tvg-name="时尚运动X" tvg-logo="时尚运动X.png" group-title="asia",时尚运动X
 http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv014&cid=69
 #EXTINF:-1 tvg-id="1449" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
-http://211.72.174.95:8112/0.ts
-#EXTINF:-1 tvg-id="1449" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
 http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 tvg-id="1449" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
+http://211.72.174.95:8112/0.ts
 #EXTINF:-1 tvg-id="1565" tvg-name="台视财经" tvg-logo="台视财经.png" group-title="asia",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
 #EXTINF:-1 tvg-id="1564" tvg-name="台视新闻" tvg-logo="台视新闻.png" group-title="asia",台视新闻
@@ -1324,9 +1324,9 @@ http://166.0.198.156:5054/play/4gtv-4gtv064/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="" tvg-name="幸福空間居家台" group-title="其他",幸福空間居家台
 http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv064&cid=123
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
-http://58.252.81.228:1234/639731952
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
 http://2280.eu.org:1234/639731952
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
+http://112.85.93.6:7788/639731952
 #EXTINF:-1 tvg-id="" tvg-name="廚神明星秀" group-title="其他",廚神明星秀
 http://166.0.198.156:5054/play/fast-live226/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="怪獸之王" group-title="其他",怪獸之王
@@ -1338,25 +1338,25 @@ http://166.0.198.156:5054/play/fast-live011/index.m3u8?token=eIbUvRQxh8RkNPhHZFB
 #EXTINF:-1 tvg-id="" tvg-name="新年追劇首選" group-title="其他",新年追劇首選
 http://166.0.198.156:5054/play/fast-live037/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/608807420
+http://2280.eu.org:1234/608807420
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/631780532
+http://2280.eu.org:1234/631780532
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/624878271
+http://2280.eu.org:1234/624878271
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/631780421
+http://2280.eu.org:1234/631780421
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/641886683
+http://2280.eu.org:1234/641886683
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/641886773
+http://2280.eu.org:1234/641886773
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/624878396
+http://2280.eu.org:1234/624878396
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/673168121
+http://2280.eu.org:1234/673168121
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/624878356
+http://2280.eu.org:1234/624878356
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://58.252.81.228:1234/673168140
+http://2280.eu.org:1234/673168140
 #EXTINF:-1 tvg-id="" tvg-name="東離劍遊紀" group-title="其他",東離劍遊紀
 http://166.0.198.156:5054/play/fast-live414/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
 #EXTINF:-1 tvg-id="" tvg-name="機智校園生活" group-title="其他",機智校園生活
