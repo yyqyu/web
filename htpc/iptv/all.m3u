@@ -248,13 +248,13 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="CCTV17.png" group-title="央视",CCTV17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
-http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
-http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
+http://107.150.60.122/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
+http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视",CETV1
 http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="74" tvg-name="CETV2" tvg-logo="CETV2.png" group-title="央视",CETV2
@@ -451,6 +451,10 @@ http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="浙江国际.png" group-title="卫视",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
+http://223.241.233.130:7788/626064703
+#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
+http://123.113.13.236:51234/626064703
 #EXTINF:-1 tvg-id="" tvg-name="河北4K" tvg-logo="河北4K.png" group-title="地方",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州4K" tvg-logo="苏州4K.png" group-title="地方",苏州4K
@@ -469,12 +473,80 @@ https://hwapi.yntv.net/62hdvf/227q43.m3u8
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="广州综合.png" group-title="地方",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=1b3fcaebe0459e7ca2876c2d5493cfac&txTime=18d047b699e
+#EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
+http://223.241.233.130:7788/626064707
+#EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
+http://123.113.13.236:51234/626064707
+#EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
+http://223.241.233.130:7788/626064693
+#EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
+http://123.113.13.236:51234/626064693
+#EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
+http://223.241.233.130:7788/838151753
+#EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
+http://123.113.13.236:51234/838151753
+#EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
+http://223.241.233.130:7788/838153729
+#EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
+http://123.113.13.236:51234/838153729
+#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
+http://223.241.233.130:7788/838109047
+#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
+http://123.113.13.236:51234/838109047
+#EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
+http://223.241.233.130:7788/626064714
+#EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
+http://123.113.13.236:51234/626064714
+#EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
+http://223.241.233.130:7788/626064697
+#EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
+http://123.113.13.236:51234/626064697
+#EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
+http://223.241.233.130:7788/626065193
+#EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
+http://123.113.13.236:51234/626065193
 #EXTINF:-1 tvg-id="1759" tvg-name="广东珠江" tvg-logo="广东珠江.png" group-title="地方",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-id="1436" tvg-name="广东体育" tvg-logo="广东体育.png" group-title="地方",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="广州新闻.png" group-title="地方",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=e2dc470aa40798640857deb96b922f74&txTime=18d0548e823
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
+http://223.241.233.130:7788/956909289
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
+http://123.113.13.236:51234/956909289
+#EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
+http://223.241.233.130:7788/956909303
+#EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
+http://123.113.13.236:51234/956909303
+#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
+http://223.241.233.130:7788/956909358
+#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
+http://123.113.13.236:51234/956909358
+#EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
+http://223.241.233.130:7788/956909362
+#EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
+http://123.113.13.236:51234/956909362
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
+http://223.241.233.130:7788/962067523
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
+http://123.113.13.236:51234/962067523
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
+http://223.241.233.130:7788/962067526
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
+http://123.113.13.236:51234/962067526
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
+http://223.241.233.130:7788/962067517
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
+http://123.113.13.236:51234/962067517
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
+http://223.241.233.130:7788/962045223
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
+http://123.113.13.236:51234/962045223
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
+http://223.241.233.130:7788/962045226
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
+http://123.113.13.236:51234/962045226
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="asia",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="asia",凤凰中文
@@ -773,8 +845,30 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 http://rihou.cc:555/tv/[Mt]Now体育
 #EXTINF:-1 tvg-id="" tvg-name="0001" group-title="其他",0001
 https://tv1288.xyz/9999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
+http://223.241.233.130:7788/639731952
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
+http://123.113.13.236:51234/639731952
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-https://tmxk.pp.ua/tv.mp4
+http://223.241.233.130:7788/608807420
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/631780532
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/624878271
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/631780421
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/641886683
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/641886773
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/624878396
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/673168121
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/624878356
+#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
+http://223.241.233.130:7788/673168140
 #EXTINF:-1 tvg-id="" tvg-name="注意事项" group-title="其他",注意事项
 # 【成人-台湾省】台标PNG文件
 #https://raw.githubusercontent.com/samkolau/TVLOGO/95f66e4b53b8b6d35144fc21df9fd245747601d4/md/CR.md
