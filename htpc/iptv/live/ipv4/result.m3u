@@ -87,8 +87,6 @@ http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="风云足球.png" group-title="央视",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="风云足球.png" group-title="央视",风云足球
-https://stream1.freetv.fun/f2138a8afdae84246099c1f3bb72aa3714e369f6cec03df0f951f5883f2ca5f8.m3u8
 #EXTINF:-1 tvg-id="1657" tvg-name="高尔夫网球" tvg-logo="高尔夫网球.png" group-title="央视",高尔夫网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1673" tvg-name="央视台球" tvg-logo="央视台球.png" group-title="央视",央视台球
@@ -248,13 +246,11 @@ https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
 http://223.241.233.130:7788/626064703
 #EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
-http://123.113.13.236:51234/626064703
-#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
-http://116.52.173.134:1234/626064703
-#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
 http://112.103.141.35:1234/626064703
 #EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
 http://121.23.132.120:7788/626064703
+#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
+http://116.52.173.134:1234/626064703
 #EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="优漫卡通.png" group-title="卫视",优漫卡通
 http://223.83.177.142:1234/626064703
 #EXTINF:-1 tvg-id="" tvg-name="河北4K" tvg-logo="河北4K.png" group-title="地方",河北4K
@@ -278,97 +274,81 @@ https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=1b3fcaebe0459e7ca2876c2d
 #EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
 http://223.241.233.130:7788/626064707
 #EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
-http://123.113.13.236:51234/626064707
-#EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
-http://116.52.173.134:1234/626064707
-#EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
 http://112.103.141.35:1234/626064707
 #EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
 http://121.23.132.120:7788/626064707
+#EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
+http://116.52.173.134:1234/626064707
 #EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="体育休闲频道.png" group-title="地方",体育休闲频道
 http://223.83.177.142:1234/626064707
 #EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
 http://223.241.233.130:7788/626064693
 #EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
-http://123.113.13.236:51234/626064693
-#EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
-http://116.52.173.134:1234/626064693
-#EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
 http://112.103.141.35:1234/626064693
 #EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
 http://121.23.132.120:7788/626064693
+#EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
+http://116.52.173.134:1234/626064693
 #EXTINF:-1 tvg-id="" tvg-name="公共新闻频道" tvg-logo="公共新闻频道.png" group-title="地方",公共新闻频道
 http://223.83.177.142:1234/626064693
 #EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
 http://223.241.233.130:7788/838151753
 #EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
-http://123.113.13.236:51234/838151753
-#EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
-http://116.52.173.134:1234/838151753
-#EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
 http://112.103.141.35:1234/838151753
 #EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
 http://121.23.132.120:7788/838151753
+#EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
+http://116.52.173.134:1234/838151753
 #EXTINF:-1 tvg-id="" tvg-name="南京十八频道" tvg-logo="南京十八频道.png" group-title="地方",南京十八频道
 http://223.83.177.142:1234/838151753
 #EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
 http://223.241.233.130:7788/838153729
 #EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
-http://123.113.13.236:51234/838153729
-#EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
-http://116.52.173.134:1234/838153729
-#EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
 http://112.103.141.35:1234/838153729
 #EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
 http://121.23.132.120:7788/838153729
+#EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
+http://116.52.173.134:1234/838153729
 #EXTINF:-1 tvg-id="" tvg-name="南京教科频道" tvg-logo="南京教科频道.png" group-title="地方",南京教科频道
 http://223.83.177.142:1234/838153729
 #EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
 http://223.241.233.130:7788/838109047
 #EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
-http://123.113.13.236:51234/838109047
-#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
-http://116.52.173.134:1234/838109047
-#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
 http://112.103.141.35:1234/838109047
 #EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
 http://121.23.132.120:7788/838109047
+#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
+http://116.52.173.134:1234/838109047
 #EXTINF:-1 tvg-id="" tvg-name="南京新闻综合频道" tvg-logo="南京新闻综合频道.png" group-title="地方",南京新闻综合频道
 http://223.83.177.142:1234/838109047
 #EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
 http://223.241.233.130:7788/626064714
 #EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
-http://123.113.13.236:51234/626064714
-#EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
-http://116.52.173.134:1234/626064714
-#EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
 http://112.103.141.35:1234/626064714
 #EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
 http://121.23.132.120:7788/626064714
+#EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
+http://116.52.173.134:1234/626064714
 #EXTINF:-1 tvg-id="" tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="地方",江苏城市频道
 http://223.83.177.142:1234/626064714
 #EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
 http://223.241.233.130:7788/626064697
 #EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
-http://123.113.13.236:51234/626064697
-#EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
-http://116.52.173.134:1234/626064697
-#EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
 http://112.103.141.35:1234/626064697
 #EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
 http://121.23.132.120:7788/626064697
+#EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
+http://116.52.173.134:1234/626064697
 #EXTINF:-1 tvg-id="" tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="地方",江苏影视频道
 http://223.83.177.142:1234/626064697
 #EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
 http://223.241.233.130:7788/626065193
 #EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
-http://123.113.13.236:51234/626065193
-#EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
-http://116.52.173.134:1234/626065193
-#EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
 http://112.103.141.35:1234/626065193
 #EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
 http://121.23.132.120:7788/626065193
+#EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
+http://116.52.173.134:1234/626065193
 #EXTINF:-1 tvg-id="" tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="地方",江苏综艺频道
 http://223.83.177.142:1234/626065193
 #EXTINF:-1 tvg-id="1759" tvg-name="广东珠江" tvg-logo="广东珠江.png" group-title="地方",广东珠江
@@ -380,109 +360,91 @@ https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=e2dc470aa40798640857deb96
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
 http://223.241.233.130:7788/956909289
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
-http://123.113.13.236:51234/956909289
-#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
-http://116.52.173.134:1234/956909289
-#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
 http://112.103.141.35:1234/956909289
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
 http://121.23.132.120:7788/956909289
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
+http://116.52.173.134:1234/956909289
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯频道" tvg-logo="陕西新闻资讯频道.png" group-title="地方",陕西新闻资讯频道
 http://223.83.177.142:1234/956909289
 #EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
 http://223.241.233.130:7788/956909303
 #EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
-http://123.113.13.236:51234/956909303
-#EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
-http://116.52.173.134:1234/956909303
-#EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
 http://112.103.141.35:1234/956909303
 #EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
 http://121.23.132.120:7788/956909303
+#EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
+http://116.52.173.134:1234/956909303
 #EXTINF:-1 tvg-id="1963" tvg-name="陕西秦腔" tvg-logo="陕西秦腔.png" group-title="地方",陕西秦腔
 http://223.83.177.142:1234/956909303
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
 http://223.241.233.130:7788/956909358
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
-http://123.113.13.236:51234/956909358
-#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
-http://116.52.173.134:1234/956909358
-#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
 http://112.103.141.35:1234/956909358
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
 http://121.23.132.120:7788/956909358
+#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
+http://116.52.173.134:1234/956909358
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春频道" tvg-logo="陕西都市青春频道.png" group-title="地方",陕西都市青春频道
 http://223.83.177.142:1234/956909358
 #EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
 http://223.241.233.130:7788/956909362
 #EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
-http://123.113.13.236:51234/956909362
-#EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
-http://116.52.173.134:1234/956909362
-#EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
 http://112.103.141.35:1234/956909362
 #EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
 http://121.23.132.120:7788/956909362
+#EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
+http://116.52.173.134:1234/956909362
 #EXTINF:-1 tvg-id="1962" tvg-name="陕西银龄" tvg-logo="陕西银龄.png" group-title="地方",陕西银龄
 http://223.83.177.142:1234/956909362
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
 http://223.241.233.130:7788/962067523
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
-http://123.113.13.236:51234/962067523
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
-http://116.52.173.134:1234/962067523
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
 http://112.103.141.35:1234/962067523
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
 http://121.23.132.120:7788/962067523
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
+http://116.52.173.134:1234/962067523
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="海南广播电视总台少儿频道.png" group-title="地方",海南广播电视总台少儿频道
 http://223.83.177.142:1234/962067523
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
 http://223.241.233.130:7788/962067526
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
-http://123.113.13.236:51234/962067526
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
-http://116.52.173.134:1234/962067526
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
 http://112.103.141.35:1234/962067526
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
 http://121.23.132.120:7788/962067526
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
+http://116.52.173.134:1234/962067526
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台文旅频道" tvg-logo="海南广播电视总台文旅频道.png" group-title="地方",海南广播电视总台文旅频道
 http://223.83.177.142:1234/962067526
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
 http://223.241.233.130:7788/962067517
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
-http://123.113.13.236:51234/962067517
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
-http://116.52.173.134:1234/962067517
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
 http://112.103.141.35:1234/962067517
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
 http://121.23.132.120:7788/962067517
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
+http://116.52.173.134:1234/962067517
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台新闻频道" tvg-logo="海南广播电视总台新闻频道.png" group-title="地方",海南广播电视总台新闻频道
 http://223.83.177.142:1234/962067517
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
 http://223.241.233.130:7788/962045223
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
-http://123.113.13.236:51234/962045223
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
-http://116.52.173.134:1234/962045223
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
 http://112.103.141.35:1234/962045223
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
 http://121.23.132.120:7788/962045223
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
+http://116.52.173.134:1234/962045223
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台社会与法频道" tvg-logo="海南广播电视总台社会与法频道.png" group-title="地方",海南广播电视总台社会与法频道
 http://223.83.177.142:1234/962045223
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
 http://223.241.233.130:7788/962045226
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
-http://123.113.13.236:51234/962045226
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
-http://116.52.173.134:1234/962045226
-#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
 http://112.103.141.35:1234/962045226
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
 http://121.23.132.120:7788/962045226
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
+http://116.52.173.134:1234/962045226
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台自贸频道" tvg-logo="海南广播电视总台自贸频道.png" group-title="地方",海南广播电视总台自贸频道
 http://223.83.177.142:1234/962045226
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="asia",凤凰中文
@@ -523,16 +485,12 @@ http://cdn6.163189.xyz/163189/amzy
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="澳门体育.png" group-title="asia",澳门体育
 http://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 tvg-id="" tvg-name="亚洲卫视" tvg-logo="亚洲卫视.png" group-title="asia",亚洲卫视
-https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="HOY77.png" group-title="asia",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="HOY77.png" group-title="asia",HOY77
 http://rihou.cc:555/tv/[Cx]有线综合
 #EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="HOY77.png" group-title="asia",HOY77
 http://rihou.cc:555/tv/[Pd]有线综合
-#EXTINF:-1 tvg-id="" tvg-name="青田电视" tvg-logo="青田电视.png" group-title="asia",青田电视
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
@@ -541,8 +499,6 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
-http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
@@ -555,6 +511,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
+http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://rihou.cc:555/tv/[Pd]无线翡4k
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
@@ -617,8 +575,6 @@ http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="1496" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-id="1496" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
-https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 #EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="1495" tvg-name="TVBS新闻台" tvg-logo="TVBS新闻台.png" group-title="asia",TVBS新闻台
@@ -633,26 +589,18 @@ http://rihou.cc:555/tv/[Cx]VIUTV英
 http://feilong123.vip/409990236/tv.php?id=ssdz
 #EXTINF:-1 tvg-id="" tvg-name="邵氏动作" tvg-logo="邵氏动作.png" group-title="asia",邵氏动作
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="邵氏动作" tvg-logo="邵氏动作.png" group-title="asia",邵氏动作
-https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="邵氏喜剧" tvg-logo="邵氏喜剧.png" group-title="asia",邵氏喜剧
 http://feilong123.vip/409990236/tv.php?id=ssxj
 #EXTINF:-1 tvg-id="" tvg-name="邵氏喜剧" tvg-logo="邵氏喜剧.png" group-title="asia",邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="邵氏喜剧" tvg-logo="邵氏喜剧.png" group-title="asia",邵氏喜剧
-https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="邵氏武侠" tvg-logo="邵氏武侠.png" group-title="asia",邵氏武侠
 http://feilong123.vip/409990236/tv.php?id=sswx
 #EXTINF:-1 tvg-id="" tvg-name="邵氏武侠" tvg-logo="邵氏武侠.png" group-title="asia",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="邵氏武侠" tvg-logo="邵氏武侠.png" group-title="asia",邵氏武侠
-https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="邵氏电影" tvg-logo="邵氏电影.png" group-title="asia",邵氏电影
 http://feilong123.vip/409990236/tv.php?id=ssdy
 #EXTINF:-1 tvg-id="" tvg-name="邵氏电影" tvg-logo="邵氏电影.png" group-title="asia",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="邵氏电影" tvg-logo="邵氏电影.png" group-title="asia",邵氏电影
-https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
 #EXTINF:-1 tvg-id="1491" tvg-name="东森新闻" tvg-logo="东森新闻.png" group-title="asia",东森新闻
 http://211.72.174.95:8138/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="公视" tvg-logo="公视.png" group-title="asia",公视
@@ -689,8 +637,6 @@ http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-id="" tvg-name="泰国剧集" tvg-logo="泰国剧集.png" group-title="asia",泰国剧集
-https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="泰国剧集" tvg-logo="泰国剧集.png" group-title="asia",泰国剧集
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-id="" tvg-name="环球电视台" tvg-logo="环球电视台.png" group-title="asia",环球电视台
@@ -761,8 +707,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW新闻" tvg-logo="NOW新闻.png" group-title="asia",NOW新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="" tvg-name="NOW直播" tvg-logo="NOW直播.png" group-title="asia",NOW直播
-https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="Red Bull TV.png" group-title="asia",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PopC" tvg-logo="PopC.png" group-title="asia",PopC
@@ -773,8 +717,6 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Z" tvg-logo="Z.png" group-title="asia",Z
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="爱地球" tvg-logo="爱地球.png" group-title="asia",爱地球
-https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="3ABN Kids" tvg-logo="3ABN Kids.png" group-title="asia",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="Kuriakos Kids.png" group-title="asia",Kuriakos Kids
@@ -786,13 +728,11 @@ https://tv1288.xyz/9999.mp4
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
 http://223.241.233.130:7788/639731952
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
-http://123.113.13.236:51234/639731952
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
-http://116.52.173.134:1234/639731952
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
 http://112.103.141.35:1234/639731952
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
 http://121.23.132.120:7788/639731952
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
+http://116.52.173.134:1234/639731952
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江频道" group-title="其他",广东珠江频道
 http://223.83.177.142:1234/639731952
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
