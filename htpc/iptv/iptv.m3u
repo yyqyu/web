@@ -478,6 +478,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="asia",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="asia",凤凰资讯
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="asia",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="asia",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
@@ -673,6 +675,8 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://211.72.174.95:8112/0.ts
 #EXTINF:-1 tvg-id="1564" tvg-name="台视新闻" tvg-logo="台视新闻.png" group-title="asia",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 #EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-id="267" tvg-name="天映经典" tvg-logo="天映经典.png" group-title="asia",天映经典
