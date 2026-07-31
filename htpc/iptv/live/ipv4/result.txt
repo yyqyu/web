@@ -20,10 +20,10 @@ CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
+CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV2,http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
 CETV3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
@@ -58,6 +58,7 @@ CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
 家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://8.138.7.223/tv/cwjd.php
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
@@ -283,17 +284,18 @@ WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Z,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 爱地球,https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 体育,#genre#
 Now SPORTS PRIME,http://rihou.cc:555/tv/[Mt]Now体育
 其他,#genre#
-未知频道,http://222.188.20.233:7788/608807420
-未知频道,http://222.188.20.233:7788/631780532
-未知频道,http://222.188.20.233:7788/624878271
-未知频道,http://222.188.20.233:7788/631780421
-未知频道,http://222.188.20.233:7788/641886683
-未知频道,http://222.188.20.233:7788/641886773
-未知频道,http://222.188.20.233:7788/624878396
-未知频道,http://222.188.20.233:7788/673168121
-未知频道,http://222.188.20.233:7788/624878356
-未知频道,http://222.188.20.233:7788/673168140
+未知频道,http://110.42.67.99:1234/608807420
+未知频道,http://110.42.67.99:1234/631780532
+未知频道,http://110.42.67.99:1234/624878271
+未知频道,http://110.42.67.99:1234/631780421
+未知频道,http://110.42.67.99:1234/641886683
+未知频道,http://110.42.67.99:1234/641886773
+未知频道,http://110.42.67.99:1234/624878396
+未知频道,http://110.42.67.99:1234/673168121
+未知频道,http://110.42.67.99:1234/624878356
+未知频道,http://110.42.67.99:1234/673168140
 注意事项,https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
