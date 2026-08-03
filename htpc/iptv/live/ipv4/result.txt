@@ -20,10 +20,10 @@ CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
-CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
+CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV2,http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
 CETV3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
@@ -288,5 +288,14 @@ Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 体育,#genre#
 Now SPORTS PRIME,http://rihou.cc:555/tv/[Mt]Now体育
 其他,#genre#
-未知频道,https://tmxk.pp.ua/tv.mp4
+未知频道,http://47.101.197.126:7788/608807420
+未知频道,http://47.101.197.126:7788/631780532
+未知频道,http://47.101.197.126:7788/624878271
+未知频道,http://47.101.197.126:7788/631780421
+未知频道,http://47.101.197.126:7788/641886683
+未知频道,http://47.101.197.126:7788/641886773
+未知频道,http://47.101.197.126:7788/624878396
+未知频道,http://47.101.197.126:7788/673168121
+未知频道,http://47.101.197.126:7788/624878356
+未知频道,http://47.101.197.126:7788/673168140
 注意事项,https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
