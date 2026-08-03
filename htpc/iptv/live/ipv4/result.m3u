@@ -116,6 +116,8 @@ http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_70
 #EXTINF:-1 tvg-id="" tvg-name="家庭剧场" tvg-logo="家庭剧场.png" group-title="央视",家庭剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-id="" tvg-name="重温经典" tvg-logo="重温经典.png" group-title="央视",重温经典
+http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 tvg-id="" tvg-name="重温经典" tvg-logo="重温经典.png" group-title="央视",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-id="1969" tvg-name="CHC影迷电影" tvg-logo="CHC影迷电影.png" group-title="央视",CHC影迷电影
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
@@ -284,15 +286,15 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="RTHK31.png" group-title="asia",RTHK31
 http://rihou.cc:555/tv/[Cx]RTHK-31
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
 http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="RTHK32.png" group-title="asia",RTHK32
 http://rihou.cc:555/tv/[Cx]RTHK-32
 #EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="RTHK33.png" group-title="asia",RTHK33
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="RTHK33.png" group-title="asia",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="RTHK33.png" group-title="asia",RTHK33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="" tvg-name="RTHK34" tvg-logo="RTHK34.png" group-title="asia",RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK35" tvg-logo="RTHK35.png" group-title="asia",RTHK35
@@ -316,15 +318,19 @@ http://rihou.cc:555/tv/[Pd]有线综合
 #EXTINF:-1 tvg-id="" tvg-name="青田电视" tvg-logo="青田电视.png" group-title="asia",青田电视
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影" tvg-logo="美亚电影.png" group-title="asia",美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
+https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
@@ -334,11 +340,9 @@ http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
-https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="TVB翡翠.png" group-title="asia",TVB翡翠
 http://rihou.cc:555/tv/[Pd]无线翡4k
+#EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
+https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
 http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
@@ -346,15 +350,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
-https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-id="" tvg-name="TVB华丽" tvg-logo="TVB华丽.png" group-title="asia",TVB华丽
 http://rihou.cc:555/tv/[Pd]无线华丽
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
 http://r.jdshipin.com/Voac4
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="asia",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 tvg-id="" tvg-name="TVB明珠" tvg-logo="TVB明珠.png" group-title="asia",TVB明珠
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="" tvg-name="TVB明珠" tvg-logo="TVB明珠.png" group-title="asia",TVB明珠
@@ -366,9 +368,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 #EXTINF:-1 tvg-id="" tvg-name="TVB J2" tvg-logo="TVB J2.png" group-title="asia",TVB J2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="asia",TVB Plus
 http://rihou.cc:555/tv/[Pd]Plus综合
 #EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="TVB亚洲武侠.png" group-title="asia",TVB亚洲武侠
@@ -376,9 +378,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="TVB亚洲武侠.png" group-title="asia",TVB亚洲武侠
 http://rihou.cc:555/tv/[Pd]无线功夫
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="千禧经典台.png" group-title="asia",千禧经典台
 http://rihou.cc:555/tv/[Pd]无线千禧
 #EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻" tvg-logo="TVB娱乐新闻.png" group-title="asia",TVB娱乐新闻
@@ -494,9 +496,9 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="Astro AOD.png" group-title="asia",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="Astro AOD.png" group-title="asia",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="Astro AOD.png" group-title="asia",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="Astro AEC.png" group-title="asia",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="" tvg-name="Astro欢喜" tvg-logo="Astro欢喜.png" group-title="asia",Astro欢喜
