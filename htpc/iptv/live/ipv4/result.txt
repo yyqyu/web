@@ -1,24 +1,40 @@
 央视,#genre#
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV4欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV4美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV7,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
+CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
@@ -57,7 +73,6 @@ CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
 家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -184,9 +199,11 @@ TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB J1,http://74.91.26.218:82/live/j1.m3u8
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB亚洲武侠,http://rihou.cc:555/tv/[Pd]无线功夫
@@ -197,6 +214,7 @@ TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻,http://rihou.cc:555/tv/[Pd]无线娱乐
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB无线新闻,http://74.91.26.218:82/live/inews.m3u8
 TVB无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 TVB生活,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
@@ -222,20 +240,33 @@ ViuTV,http://rihou.cc:555/tv/[Cx]VIUTV英
 邵氏电影,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
 东森新闻,http://211.72.174.95:8138/0.ts
 公视,http://211.72.174.95:8116/0.ts
+公视,http://74.91.26.218:82/live/pts.m3u8
+公视台语,http://74.91.26.218:82/live/ptsty.m3u8
+公视少儿,http://74.91.26.218:82/live/ptsse.m3u8
 华视,http://211.72.174.95:8114/0.ts
+华视,http://74.91.26.218:82/live/cts.m3u8
+华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
+华视教育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 民视,http://211.72.174.95:8115/0.ts
+民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
+民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://211.72.174.95:8117/0.ts
+民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+台视,http://74.91.26.218:82/live/ttv.m3u8
 台视,http://211.72.174.95:8112/0.ts
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial
@@ -244,6 +275,10 @@ ViuTV,http://rihou.cc:555/tv/[Cx]VIUTV英
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 韩国GCN电视,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
 中视,http://211.72.174.95:8113/0.ts
+中视,http://74.91.26.218:82/live/ctv.m3u8
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
+中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中天娱乐｜中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 八度空间,http://cdn6.163189.xyz/163189/8tv
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -287,14 +322,5 @@ Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 体育,#genre#
 Now SPORTS PRIME,http://rihou.cc:555/tv/[Mt]Now体育
 其他,#genre#
-未知频道,http://182.103.208.153:7788/608807420
-未知频道,http://182.103.208.153:7788/631780532
-未知频道,http://182.103.208.153:7788/624878271
-未知频道,http://182.103.208.153:7788/631780421
-未知频道,http://182.103.208.153:7788/641886683
-未知频道,http://182.103.208.153:7788/641886773
-未知频道,http://182.103.208.153:7788/624878396
-未知频道,http://182.103.208.153:7788/673168121
-未知频道,http://182.103.208.153:7788/624878356
-未知频道,http://182.103.208.153:7788/673168140
+未知频道,https://tmxk.pp.ua/tv.mp4
 注意事项,https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
