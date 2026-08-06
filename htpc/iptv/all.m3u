@@ -722,15 +722,15 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
 http://211.72.174.95:8117/0.ts
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
+http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立戏剧" tvg-logo="三立戏剧.png" group-title="asia",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
 http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
+http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视财经" tvg-logo="台视财经.png" group-title="asia",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="台视新闻.png" group-title="asia",台视新闻
@@ -754,9 +754,9 @@ http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="韩国GCN电视" tvg-logo="韩国GCN电视.png" group-title="asia",韩国GCN电视
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
 http://211.72.174.95:8113/0.ts
+#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
+http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="中视经典.png" group-title="asia",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="中视菁采.png" group-title="asia",中视菁采
