@@ -384,11 +384,11 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视",北京卫视
 http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视",北京卫视
@@ -658,25 +658,17 @@ http://rihou.cc:555/tv/[Cx]VIUTV粤
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
 http://rihou.cc:555/tv/[Cx]VIUTV英
 #EXTINF:-1 tvg-id="" tvg-name="邵氏动作" tvg-logo="邵氏动作.png" group-title="asia",邵氏动作
-http://feilong123.vip/409990236/tv.php?id=ssdz
-#EXTINF:-1 tvg-id="" tvg-name="邵氏动作" tvg-logo="邵氏动作.png" group-title="asia",邵氏动作
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="邵氏动作" tvg-logo="邵氏动作.png" group-title="asia",邵氏动作
 https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="邵氏喜剧" tvg-logo="邵氏喜剧.png" group-title="asia",邵氏喜剧
-http://feilong123.vip/409990236/tv.php?id=ssxj
 #EXTINF:-1 tvg-id="" tvg-name="邵氏喜剧" tvg-logo="邵氏喜剧.png" group-title="asia",邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="邵氏喜剧" tvg-logo="邵氏喜剧.png" group-title="asia",邵氏喜剧
 https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="邵氏武侠" tvg-logo="邵氏武侠.png" group-title="asia",邵氏武侠
-http://feilong123.vip/409990236/tv.php?id=sswx
-#EXTINF:-1 tvg-id="" tvg-name="邵氏武侠" tvg-logo="邵氏武侠.png" group-title="asia",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="邵氏武侠" tvg-logo="邵氏武侠.png" group-title="asia",邵氏武侠
 https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="邵氏电影" tvg-logo="邵氏电影.png" group-title="asia",邵氏电影
-http://feilong123.vip/409990236/tv.php?id=ssdy
 #EXTINF:-1 tvg-id="" tvg-name="邵氏电影" tvg-logo="邵氏电影.png" group-title="asia",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="邵氏电影" tvg-logo="邵氏电影.png" group-title="asia",邵氏电影
@@ -722,9 +714,9 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
 http://211.72.174.95:8117/0.ts
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
+http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立戏剧" tvg-logo="三立戏剧.png" group-title="asia",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="台视.png" group-title="asia",台视
@@ -846,25 +838,7 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now SPORTS PRIME" tvg-logo="Now SPORTS PRIME.png" group-title="体育",Now SPORTS PRIME
 http://rihou.cc:555/tv/[Mt]Now体育
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/608807420
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/631780532
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/624878271
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/631780421
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/641886683
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/641886773
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/624878396
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/673168121
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/624878356
-#EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://101.200.164.241:7788/673168140
+https://tmxk.pp.ua/tv.mp4
 #EXTINF:-1 tvg-id="" tvg-name="注意事项" group-title="其他",注意事项
 # 【成人-台湾省】台标PNG文件
 #https://raw.githubusercontent.com/samkolau/TVLOGO/95f66e4b53b8b6d35144fc21df9fd245747601d4/md/CR.md
