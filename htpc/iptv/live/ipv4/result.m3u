@@ -74,13 +74,13 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="CCTV17.png" group-title="央视",CCTV17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
-http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
-http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
+http://107.150.60.122/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
+http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视",CETV1
 http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CETV2" tvg-logo="CETV2.png" group-title="央视",CETV2
@@ -868,25 +868,25 @@ http://feilong123.vip/409990236/tv.php?id=ssdy
 #EXTINF:-1 tvg-id="" tvg-name="幸福空間居家台" group-title="其他",幸福空間居家台
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv064&cid=123
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/608807420
+http://116.147.111.62:7788/608807420
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/631780532
+http://116.147.111.62:7788/631780532
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/624878271
+http://116.147.111.62:7788/624878271
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/631780421
+http://116.147.111.62:7788/631780421
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/641886683
+http://116.147.111.62:7788/641886683
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/641886773
+http://116.147.111.62:7788/641886773
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/624878396
+http://116.147.111.62:7788/624878396
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/673168121
+http://116.147.111.62:7788/673168121
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/624878356
+http://116.147.111.62:7788/624878356
 #EXTINF:-1 tvg-id="" tvg-name="未知频道" group-title="其他",未知频道
-http://106.5.174.82:5678/673168140
+http://116.147.111.62:7788/673168140
 #EXTINF:-1 tvg-id="" tvg-name="注意事项" group-title="其他",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
 #EXTINF:-1 tvg-id="" tvg-name="金光布袋戲" group-title="其他",金光布袋戲
