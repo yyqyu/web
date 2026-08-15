@@ -36,10 +36,10 @@ CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
-CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
+CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV2,http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
 CETV3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
@@ -86,9 +86,9 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
@@ -301,8 +301,6 @@ Cinema World,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid
 CLASSICA古典乐,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv059&cid=80
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LRвҖўIPV4гҖҺзәҝи·Ҝ8гҖҸ
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNBC Asia 財經台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live130&cid=235
 DayStar,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=daystar
 EBS1,https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
