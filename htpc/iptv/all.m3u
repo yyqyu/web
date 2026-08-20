@@ -515,6 +515,8 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="HOY77.png" group-title="asia",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-id="" tvg-name="青田电视" tvg-logo="青田电视.png" group-title="asia",青田电视
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="TVB J1" tvg-logo="TVB J1.png" group-title="asia",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="" tvg-name="TVB J1" tvg-logo="TVB J1.png" group-title="asia",TVB J1
@@ -533,12 +535,6 @@ http://74.91.26.218:82/live/j2.m3u8
 http://74.91.26.218:82/live/inews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
 https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
-http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="TVBS.png" group-title="asia",TVBS
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="ViuTV.png" group-title="asia",ViuTV
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="" tvg-name="邵氏动作" tvg-logo="邵氏动作.png" group-title="asia",邵氏动作
@@ -733,8 +729,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-id="" tvg-name="еҸ°и§Ҷ" group-title="其他",еҸ°и§Ҷ
 http://211.72.174.95:8112/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="еҸ°и§Ҷж–°й—»еҸ°" group-title="其他",еҸ°и§Ҷж–°й—»еҸ°
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="еӨ§з«Ӣз”өи§ҶеҸ°" group-title="其他",еӨ§з«Ӣз”өи§ҶеҸ°
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="еӨ©жҳ з»Ҹе…ё" group-title="其他",еӨ©жҳ з»Ҹе…ё
@@ -751,12 +745,6 @@ http://211.72.174.95:8116/0.ts
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
 http://211.72.174.95:8117/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
-http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="жі°еӣҪеү§йӣҶ" group-title="其他",жі°еӣҪеү§йӣҶ
 https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="жҫіи§Ҷжҫій—Ё" group-title="其他",жҫіи§Ҷжҫій—Ё
