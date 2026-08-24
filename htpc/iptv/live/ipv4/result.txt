@@ -8,7 +8,6 @@ CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV4欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-CCTV4美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
@@ -71,7 +70,6 @@ CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
 家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
@@ -83,6 +81,7 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
@@ -126,25 +125,15 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=1b3fcaebe0459e7ca2876c2d5493cfac&txTime=18d047b699e
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=e2dc470aa40798640857deb96b922f74&txTime=18d0548e823
 asia,#genre#
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://cdn.163189.xyz/163189/rthk32
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 青田电视,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB J1,http://74.91.26.218:82/live/j1.m3u8
-TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 TVB无线新闻,http://74.91.26.218:82/live/inews.m3u8
 TVBS,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
@@ -180,7 +169,6 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
@@ -211,48 +199,26 @@ Z,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 其他,#genre#
-Astroж¬ўе–ң,http://php.jdshipin.com/smt.php?id=Huahee
 EBSе°‘е„ҝ,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 NOWж–°й—»еҸ°,http://cdn.163189.xyz/163189/now
 NOWзӣҙж’ӯеҸ°,https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
 TVBSж–°й—»еҸ°,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBдәҡжҙІжӯҰдҫ ,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVBеЁұд№җж–°й—»,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBеҚҺдёҪ,https://o11.163189.xyz/stream/live/hlt/
-TVBеҚҺдёҪ,http://php.jdshipin.com/smt.php?id=Tvbjade
-TVBеҚҺдёҪ,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-TVBеҚҺдёҪ,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVBжҳҹжІі,https://o11.163189.xyz/stream/live/tvbxh/
 TVBжҳҹжІі,http://r.jdshipin.com/Voac4
-TVBжҳҹжІі,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-TVBжҳҺзҸ ,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVBжҳҺзҸ ,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVBзҝЎзҝ ,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVBзҝЎзҝ ,https://o11.163189.xyz/stream/tvb/fct4k/
 TVBзҝЎзҝ ,https://cdn6.163189.xyz/163189/fct4k
-TVBзҝЎзҝ ,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-TVBзҝЎзҝ ,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-TVBзҝЎзҝ ,http://php.jdshipin.com/smt.php?id=jade_twn
-TVBз”ҹжҙ»,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 дёңжЈ®ж–°й—»еҸ°,http://211.72.174.95:8138/0.ts
 дёүз«ӢжҲҸеү§,http://61.221.215.25:8800/hls/41/index.m3u8
 дёӯеӨ©еЁұд№җеҸ°,http://61.221.215.25:8800/hls/47/index.m3u8
 еҚғзҰ§з»Ҹе…ёеҸ°,https://o11.163189.xyz/stream/live/tvbc/
-еҚғзҰ§з»Ҹе…ёеҸ°,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 еҚҺи§Ҷ,http://211.72.174.95:8114/0.ts
-еҮӨеҮ°дёӯж–Ү,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-еҮӨеҮ°дёӯж–Ү,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 еҮӨеҮ°иө„и®Ҝ,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-еҮӨеҮ°иө„и®Ҝ,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-еҮӨеҮ°иө„и®Ҝ,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-еҮӨеҮ°йҰҷжёҜ,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-еҮӨеҮ°йҰҷжёҜ,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 еҸ°и§Ҷ,http://211.72.174.95:8112/0.ts
 еҸ°и§Ҷж–°й—»еҸ°,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 еӨ§з«Ӣз”өи§ҶеҸ°,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 еӨ©жҳ з»Ҹе…ё,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-еӨ©жҳ з»Ҹе…ё,http://php.jdshipin.com/smt.php?id=Celestial2
-еӨ©жҳ з»Ҹе…ё,http://php.jdshipin.com/smt.php?id=Celestial
 е…«еәҰз©әй—ҙ,http://cdn6.163189.xyz/163189/8tv
 е…¬и§Ҷ,http://211.72.174.95:8116/0.ts
 ж°‘и§Ҷ,http://211.72.174.95:8115/0.ts
@@ -261,17 +227,12 @@ TVBз”ҹжҙ»,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 ж°‘и§Ҷж–°й—»еҸ°,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 ж°‘и§Ҷж–°й—»еҸ°,http://211.72.174.95:8117/0.ts
 жі°еӣҪеү§йӣҶ,https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
-жҫіи§Ҷжҫій—Ё,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 жҫій—ЁдҪ“иӮІ,http://cdn6.163189.xyz/163189/amty
 жҫій—Ёз»јиүә,http://cdn6.163189.xyz/163189/amzy
 жҫій—Ёиө„и®Ҝ,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-ж— зәҝж–°й—»,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-ж— зәҝж–°й—»,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-зҝЎзҝ еҸ°,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 зҫҺдәҡз”өеҪұ,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 зҫҺдәҡз”өеҪұ,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 зҫҺдәҡз”өеҪұ,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-зҫҺдәҡз”өеҪұ,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 зҲұеҘҮиүә,https://o11.163189.xyz/stream/live/iqiyi/
 зҺҜзҗғз”өи§Ҷ,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 иҖҖжүҚиҙўз»Ҹ,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
