@@ -558,8 +558,6 @@ https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视",湖南卫视
 https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
-https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
 http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
 http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -634,9 +632,9 @@ http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/01.m3u8?msisdn=703b48576275e35667aec1895a168dc0&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260908065627&Channel_ID=0116_2600034600-99000-201600010017919&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=125.211.195.3&SecurityKey=20260908065627&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=e01ac98f40bf8f4f5bda06db6ac1c448&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fef958cad89be1cd79dd39cb5c172918
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/01.m3u8?msisdn=703b48576275e35667aec1895a168dc0&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260908065627&Channel_ID=0116_2600034600-99000-201600010017919&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=125.211.195.3&SecurityKey=20260908065627&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=e01ac98f40bf8f4f5bda06db6ac1c448&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fef958cad89be1cd79dd39cb5c172918
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视",东南卫视
 http://182.237.3.17:10155/stream/ext-src-c6c844ac-entry-41.ts
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视",深圳卫视
@@ -740,9 +738,9 @@ http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视",辽宁卫视
 http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视",辽宁卫视
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/01.m3u8?msisdn=7faa592bd0c9660f3a218186e8fcc307&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260908062700&Channel_ID=0116_2600034600-99000-201600010053032&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=36.139.40.41&SecurityKey=20260908062700&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=fd642e548cc3d941b5c01ef6b4639467&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d15101fd5170c1314212530c546bc695
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视",辽宁卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视",辽宁卫视
+http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/01.m3u8?msisdn=7faa592bd0c9660f3a218186e8fcc307&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260908062700&Channel_ID=0116_2600034600-99000-201600010053032&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=36.139.40.41&SecurityKey=20260908062700&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=fd642e548cc3d941b5c01ef6b4639467&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d15101fd5170c1314212530c546bc695
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视",辽宁卫视
 http://182.237.3.17:10155/stream/ext-src-c6c844ac-entry-32.ts
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="卫视",宁夏卫视
@@ -2306,6 +2304,8 @@ http://211.72.174.95:8116/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷ" group-title="其他",ж°‘и§Ҷ
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
+http://211.72.174.95:8117/0.ts
+#EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -2315,8 +2315,6 @@ http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ж°‘и§Ҷж–°й—»еҸ°" group-title="其他",ж°‘и§Ҷж–°й—»еҸ°
-http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="ж·ұеңіеҚ«и§Ҷ" group-title="其他",ж·ұеңіеҚ«и§Ҷ
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="жҫіи§Ҷжҫій—Ё" group-title="其他",жҫіи§Ҷжҫій—Ё
@@ -2361,8 +2359,6 @@ https://cdn8.163189.xyz/163189/lhrh
 https://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 tvg-id="" tvg-name="йҫҷеҚҺз”өеҪұ" group-title="其他",йҫҷеҚҺз”өеҪұ
 https://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-id="" tvg-name="йҮҚжё©з»Ҹе…ё" group-title="其他",йҮҚжё©з»Ҹе…ё
-http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-id="" tvg-name="йҰҷжёҜйқўеҢ…" group-title="其他",йҰҷжёҜйқўеҢ…
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="йҹ©еӣҪGCNз”өи§Ҷ" group-title="其他",йҹ©еӣҪGCNз”өи§Ҷ
@@ -2423,6 +2419,10 @@ https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内黄综合" group-title="其他",内黄综合
 http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凉山彝语" group-title="其他",凉山彝语
+http://file.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凉山新闻" group-title="其他",凉山新闻
+http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视超清" group-title="其他",北京卫视超清
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/01.m3u8?msisdn=7faa592bd0c9660f3a218186e8fcc307&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260908063211&Channel_ID=0116_2600034600-99000-201600010044549&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=111.6.230.108&SecurityKey=20260908063211&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=69442d20be92f9f2c37d77a02d873f15&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d64cf8f24bb2f1e9f676c51e6c9fcf52
 #EXTINF:-1 tvg-id="" tvg-name="十堰经济旅游" group-title="其他",十堰经济旅游
@@ -2521,18 +2521,12 @@ https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宝丰1" group-title="其他",宝丰1
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宿州公共" group-title="其他",宿州公共
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宿州科教" group-title="其他",宿州科教
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宿州综合" group-title="其他",宿州综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宿州综合" group-title="其他",宿州综合
-http://live.ahsz.tv/video/s10001-xwzh-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="封丘新闻综合" group-title="其他",封丘新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="屈原融媒体" group-title="其他",屈原融媒体
 https://liveplay-srs.voc.com.cn/hls/tv/167_0d6151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="屯留电视台" group-title="其他",屯留电视台
+https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="岷县电视台" group-title="其他",岷县电视台
 http://play.kankanlive.com/live/1672715401874967.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="岷县电视台" group-title="其他",岷县电视台
@@ -2761,6 +2755,8 @@ http://pullwftv.wftvqcm.com/live/wf4pda.m3u8
 http://pullwftv.wftvqcm.com/live/wf2pda.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="潢川电视台" group-title="其他",潢川电视台
 http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="灣聲線上音樂廳" group-title="其他",灣聲線上音樂廳
+http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live088&cid=285
 #EXTINF:-1 tvg-id="" tvg-name="灵宝新闻综合" group-title="其他",灵宝新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="灵璧综合" group-title="其他",灵璧综合
