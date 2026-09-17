@@ -226,8 +226,6 @@ http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="央视",CCTV2
 http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="央视",CCTV3
-https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14947587806_strL_GameAvcFhdL0.flv?txSecret=2feede4fddfc1ad9830b0d43c09b6a1c&txTime=6aac6878&stat=FwLooGB3dhtGlnnBVtbL53Tx3nfZAuYGCmzrBFkNsrMfs1c91HFT4pjwHfLAG5RY&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2062&no_script=1&srcStrm=XF8kVPJeDDQ&ss=s20&tfc_buyer=0
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="央视",CCTV3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="央视",CCTV3
 http://112.46.105.20:8009/hls/3/index.m3u8
@@ -321,8 +319,6 @@ http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视",CCTV13
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视",CCTV13
-http://pull-hls-f6.douyinliving.com/media/stream-408287902726882130/index.m3u8?k=d7afc14eb608d30d&t=1790049226&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-2026091511534679288C89980087C3C034-whqUM2
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="央视",CCTV14
 http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="央视",CCTV14
@@ -451,6 +447,8 @@ http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视",浙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
 http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视",东方卫视
@@ -802,13 +800,13 @@ http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv17&c
 #EXTINF:-1 tvg-id="" tvg-name="經典卡通" tvg-logo="經典卡通.png" group-title="asia",經典卡通
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live022&cid=202
 #EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv041&cid=6
-#EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
 http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv052&cid=34
+#EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv041&cid=6
 #EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
 http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv052&cid=34
 #EXTINF:-1 tvg-id="" tvg-name="华视教育文化" tvg-logo="华视教育文化.png" group-title="asia",华视教育文化
 http://74.91.26.218:82/live/ctsjy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="寰宇财经台" tvg-logo="寰宇财经台.png" group-title="asia",寰宇财经台
@@ -872,19 +870,19 @@ http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=nnews-zh
 #EXTINF:-1 tvg-id="1769" tvg-name="民视" tvg-logo="民视.png" group-title="asia",民视
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv002&cid=3
 #EXTINF:-1 tvg-id="1767" tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="asia",民视第一台
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
-#EXTINF:-1 tvg-id="1767" tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="asia",民视第一台
 http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 tvg-id="1767" tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="asia",民视第一台
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
 #EXTINF:-1 tvg-id="" tvg-name="民视旅游" tvg-logo="民视旅游.png" group-title="asia",民视旅游
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv07&cid=61
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv001&cid=2
-#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
 http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv13&cid=31
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv001&cid=2
 #EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
 http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv13&cid=31
 #EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="民视影剧.png" group-title="asia",民视影剧
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv09&cid=24
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="民视综艺.png" group-title="asia",民视综艺
@@ -920,17 +918,17 @@ http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv15&c
 #EXTINF:-1 tvg-id="" tvg-name="原住民族電視台" tvg-logo="原住民族電視台.png" group-title="asia",原住民族電視台
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv080&cid=124
 #EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv040&cid=4
-#EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
 http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 tvg-id="1770" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv040&cid=4
 #EXTINF:-1 tvg-id="1797" tvg-name="中视经典" tvg-logo="中视经典.png" group-title="asia",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-id="1451" tvg-name="中视菁采" tvg-logo="中视菁采.png" group-title="asia",中视菁采
 http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv074&cid=33
-#EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv074&cid=33
 #EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
@@ -1253,6 +1251,8 @@ https://cdn8.163189.xyz/163189/lhrh
 https://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 tvg-id="" tvg-name="йҫҷеҚҺз”өеҪұ" group-title="其他",йҫҷеҚҺз”өеҪұ
 https://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 tvg-id="" tvg-name="йҮҚжё©з»Ҹе…ё" group-title="其他",йҮҚжё©з»Ҹе…ё
+http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-id="" tvg-name="йҰҷжёҜйқўеҢ…" group-title="其他",йҰҷжёҜйқўеҢ…
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="йҹ©еӣҪGCNз”өи§Ҷ" group-title="其他",йҹ©еӣҪGCNз”өи§Ҷ
@@ -1311,8 +1311,6 @@ http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 http://file.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凉山新闻" group-title="其他",凉山新闻
 http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
-#EXTINF:-1 tvg-id="1181" tvg-name="北京新闻" group-title="其他",北京新闻
-http://livebjsy.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="十堰经济旅游" group-title="其他",十堰经济旅游
 http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南京十八生活" group-title="其他",南京十八生活
@@ -1781,8 +1779,6 @@ https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="项城电视台" group-title="其他",项城电视台
 http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="顺义电视台" group-title="其他",顺义电视台
-https://livebjsy.chinamcache.com/live/zb02.flv
 #EXTINF:-1 tvg-id="" tvg-name="黄山公共" group-title="其他",黄山公共
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄山综合" group-title="其他",黄山综合
