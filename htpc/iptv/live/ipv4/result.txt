@@ -10,6 +10,7 @@ CCTV2,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14949434934_strL_GameAvcFhdL0.flv?txSecret=712eee7aef718058d3fd744819cd52b3&txTime=6aad3b6c&stat=GAVmPMCQ1lwy6pqsMjUPDyqrnrxF5j2aoPkikkH3RduHH1JUfIH7er3woffHvKLc&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2062&no_script=1&srcStrm=8p2dae-NNtE&ss=s20&tfc_buyer=0
 CCTV3,http://112.46.105.20:8009/hls/3/index.m3u8
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
@@ -108,12 +109,12 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 卫视,#genre#
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
+湖南卫视,http://182.150.112.112:2025/hls/57/index.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
-浙江卫视,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -147,7 +148,6 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 深圳卫视,http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://182.150.112.112:2025/hls/59/index.m3u8
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
@@ -193,7 +193,6 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
 天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://183.11.239.36:808/hls/42/index.m3u8
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 云南卫视,http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -256,138 +255,44 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=media-live073&cid=472
-TVBS欢乐台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv068&cid=184
-TVBS新闻台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=media-live072&cid=473
-TVBS精采台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv067&cid=227
 ViuTV,https://cdn.163189.xyz/163189/viu
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-爱尔达生活英语,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang20&cid=490
-爱尔达生活英语,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live120&cid=237
-Dreamworks,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live017&cid=282
-History,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live026&cid=214
-Hits,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live620&cid=186
-Nick Jr,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live032&cid=219
-Nick Jr,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live105&cid=185
-八大精彩台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv034&cid=172
-八大综艺台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv039&cid=114
-半岛英语,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live157&cid=462
-采昌影剧,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv049&cid=25
-車迷TV,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live201&cid=160
-达文西频道,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv018&cid=11
-大愛電視,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live007&cid=209
-大愛二台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live106&cid=230
-第1商业,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv104
-電影原聲台CMusic,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live031&cid=218
-东森财经新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv153&cid=293
-东森新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv152&cid=292
-东森购物1,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live047&cid=173
-东森购物2,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live049&cid=499
-東森購物三台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live048&cid=287
-東森購物四台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live046&cid=500
 公视,http://74.91.26.218:82/live/pts.m3u8
-公视戏剧,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv042&cid=7
 公视台语,http://74.91.26.218:82/live/ptsty.m3u8
 公视少儿,http://74.91.26.218:82/live/ptsse.m3u8
-滾動力rollor,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live012&cid=249
-国会频道1,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv084&cid=170
-国会频道2,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv085&cid=171
-韓國娛樂台 KMTV,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv016&cid=446
-好消息,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv16&cid=9
-好消息2,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv17&cid=8
-經典卡通,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live022&cid=202
 华视,http://74.91.26.218:82/live/cts.m3u8
-华视,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv041&cid=6
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
-华视新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv052&cid=34
 华视教育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-寰宇财经台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv158&cid=281
-寰宇财经台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv158
-寰宇新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-longturn14&cid=36
-寰宇新闻台湾,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv156&cid=280
-视纳华仁纪实频道,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv013&cid=38
-经典电影,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live021&cid=201
-精选动漫,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live024&cid=204
-靖天电影,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv061&cid=82
-靖天国际,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv063&cid=84
-靖天欢乐,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv054&cid=119
-靖天卡通,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv044&cid=15
-靖天日本,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv047&cid=22
-靖天戏剧,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv058&cid=116
-靖天映画,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv055&cid=42
-靖天育乐,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv062&cid=83
-靖天资讯,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv065&cid=88
-靖天综合,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv046&cid=21
-靖洋卡通,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv057&cid=59
-靖洋戏剧,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv045&cid=118
-镜新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv075&cid=268
-客家电视台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv043&cid=107
-龙华电影,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang03
-龙华经典,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang21
-龙华卡通,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang01
-龙华偶像,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang12
-龙华日韩,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang11
-龙华戏剧,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang18
-龙华洋片,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang02
-倪珍播新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=nnews-zh
-民视,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv002&cid=3
 民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-民视第一台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
-民视旅游,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv07&cid=61
 民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
-民视台湾,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv001&cid=2
 民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
-民视新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv13&cid=31
-民视影剧,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv09&cid=24
-民视综艺,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv004&cid=16
-人間衛視,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live008&cid=210
-三立新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live089&cid=229
-三立综合,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live207&cid=169
-时尚运动X,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv014&cid=69
 台视,http://74.91.26.218:82/live/ttv.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-台湾戏剧台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang22
 泰国剧集,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
-新唐人亞太台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live050&cid=223
-亚洲旅游,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv076&cid=250
-影迷數位电影,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv011&cid=40
-影迷數位纪实,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv15&cid=445
-原住民族電視台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv080&cid=124
 中视,http://74.91.26.218:82/live/ctv.m3u8
-中视,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv040&cid=4
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视新闻,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv074&cid=33
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-DW,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live071&cid=226
-AMC电影,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv017&cid=39
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Arirang,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv079&cid=189
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 BBC Earth,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 Bloomberg TV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-Bloomberg TV,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live059&cid=283
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 8,http://cdn6.163189.xyz/163189/ch8
 Channel U,http://cdn6.163189.xyz/163189/chu
-CI,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live027&cid=215
-Cinema World,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live069&cid=225
-CLASSICA古典乐,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv059&cid=80
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LRвҖўIPV4гҖҺзәҝи·Ҝ8гҖҸ
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNBC Asia 財經台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live130&cid=235
-DayStar,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=daystar
 EBS1,https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS1,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
@@ -395,58 +300,21 @@ EBS2,https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 EBS+1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 EBSE,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8?zshijd
-France 24,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live146&cid=316
-fun探索娛樂台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live011&cid=274
-Global Trekker,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live112&cid=252
-INULTRA,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv070&cid=501
-Lifetime,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live029&cid=217
-LiveABC,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live030&cid=188
-Love Nature,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live208&cid=139
-LUXE TV Channel,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live121&cid=175
-MEZZO,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv083&cid=79
-Mono,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live107&cid=231
-MCE,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv10&cid=463
 MY TIME,https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 News Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-NHK World,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live168&cid=461
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-ROCK Xstream搖滾極限頻道,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live124&cid=485
-Pet Club TV,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv110&cid=464
 PopC,http://tl.061833.xyz/tl/popc
-ROCK Action,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live138&cid=180
-ROCK Entertainment,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live080&cid=275
-SBN全球財經台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live060&cid=224
-Smart知识台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang19
 TBS,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-TRACE Urban,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv082&cid=78
-TV5,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live122&cid=178
 WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 Z,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-猪哥亮歌厅秀,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv006&cid=113
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-体育,#genre#
-智林体育台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv101&cid=58
-博斯网球,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang09&cid=488
-博斯无限,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang10&cid=489
-博斯无限2,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang13&cid=496
-博斯运动1,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang07&cid=487
-博斯运动2,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang08&cid=495
-博斯高球1,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang05&cid=486
-博斯高球2,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang06&cid=494
-博斯魅力,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-xinchuang04&cid=493
-GINX Esports TV,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv053&cid=179
-TRACE Sport Stars,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv077&cid=57
-ABC Australia 澳洲公廣頻道,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live167&cid=498
-getwin sport運動台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv035&cid=93
 其他,#genre#
 Astroж¬ўе–ң,http://php.jdshipin.com/smt.php?id=Huahee
-CCTV13超清,http://pull-f3.douyinliving.com/media/stream-408287902726882130.m3u8?auth_key=1790047446-0-0-e1f152b607af1eb49845932d47afc5f2&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&t_id=037-20260915115405FA8B850C3FB7C0A503FA-eCMtJZ
 CCTV13超清,http://pull-hls-f11.douyinliving.com/media/stream-120022690769404754.m3u8?expire=1790049269&sign=4457cf4a034defb45506a47002156d9b&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260915115428F1121FD93E4ACB7FD07D-OnZGFc
+CCTV3超清,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14949434934_strL_GameAvcFhdL3.flv?txSecret=179d300da150406d0dc83373a22a1142&txTime=6aad3be9&stat=JjTsNH6irEOfMfeQl18cFbEUBALUD%2F3nnqyZBoy%2FXoS%2BDKSrdxPkJw0gQ8IVl5TB&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2062&no_script=1&srcStrm=8p2dae-NNtE&ss=s20&tfc_buyer=0
 EBSе°‘е„ҝ,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-MagellanTV頻道 (麥哲倫頻道) ,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live123&cid=450
 NOWж–°й—»еҸ°,http://cdn.163189.xyz/163189/now
-OUTtv,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live140&cid=502
 TVBSж–°й—»еҸ°,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBдәҡжҙІжӯҰдҫ ,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVBеЁұд№җж–°й—»,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -467,7 +335,6 @@ TVBзҝЎзҝ ,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVBзҝЎзҝ ,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVBзҝЎзҝ ,http://php.jdshipin.com/smt.php?id=jade_twn
 TVBз”ҹжҙ»,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live148&cid=503
 дёңжЈ®ж–°й—»еҸ°,http://211.72.174.95:8138/0.ts
 дёңжЈ®ж–°й—»зҫҺжҙІ,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 дёңжЈ®зҫҺжҙІ2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
@@ -527,7 +394,6 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 йҫҷеҚҺж—Ҙйҹ©еҸ°,https://cdn8.163189.xyz/163189/lhrh
 йҫҷеҚҺз»Ҹе…ё,https://cdn8.163189.xyz/163189/lhjd
 йҫҷеҚҺз”өеҪұ,https://cdn8.163189.xyz/163189/lhdy
-йҮҚжё©з»Ҹе…ё,http://8.138.7.223/tv/cwjd.php
 йҰҷжёҜйқўеҢ…,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 йҹ©еӣҪGCNз”өи§Ҷ,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
 йӮөж°ҸеҠЁдҪң,http://feilong123.vip/409990236/tv.php?id=ssdz
@@ -542,7 +408,6 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 中方台,https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
 临武综合,https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8
-五家渠综合,http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 伊川综合,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 保定1,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
@@ -557,6 +422,7 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 凉山彝语,http://file.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
 凉山新闻,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+北京新闻,http://livebjsy.chinamcache.com/live/zb01.m3u8
 十堰经济旅游,http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
@@ -589,6 +455,7 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 夏邑综合,http://tvpull.dxhmt.cn:9081/tv/11426-1.m3u8
 大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+天津卫视超清,http://183.11.239.36:808/hls/42/index.m3u8
 天祝电视台,https://play.kankanlive.com/live/1656487214793905.m3u8
 天祝电视台,http://play.kankanlive.com/live/1656487214793905.m3u8
 天祝电视台,http://play.kankanlive.com/live/1656487214793905.flv
@@ -598,7 +465,6 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 安定电视台,https://play.kankanlive.com/live/1672881652415978.m3u8
 安定电视台,http://play.kankanlive.com/live/1672881652415978.flv
 安阳文旅,http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
-安阳新闻,http://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 定西文旅生活,http://play.kankanlive.com/live/1675303983674929.m3u8
 定西文旅生活,http://play.kankanlive.com/live/1675303983674929.flv
 定西综合,https://play.kankanlive.com/live/1675303871634928.m3u8
@@ -622,7 +488,7 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 平江综合,https://liveplay-srs.voc.com.cn/hls/tv/168_ce2a0c.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-幸福空間居家台,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv064&cid=123
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -638,6 +504,8 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 徐州3,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 徐州4,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 拉萨文旅,https://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
+拉萨综合,https://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
+拉萨藏语,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 新乡县综合,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
 新化电视台,https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
 新县电视台,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
@@ -664,8 +532,6 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 桂阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
 桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
 榆林1,https://hplayer1.juyun.tv/camera/140908134.m3u8
-武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 武陟新闻综合,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
 永兴电视台,https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
 永城新闻,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
@@ -679,8 +545,6 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 沈丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
 沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 泰安综合,http://play.kankanlive.com/live/1680577080200944.m3u8
 泰安综合,http://play.kankanlive.com/live/1680577080200944.flv
 泸州1,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
@@ -707,27 +571,26 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 淇县电视台,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+深圳卫视超清,http://182.150.112.112:2025/hls/59/index.m3u8
 深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳电视剧,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 清丰电视台,http://tvpull.dxhmt.cn:9081/tv/10922-1.m3u8
 渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
 温县融媒,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-湖南卫视超清,http://182.150.112.112:2025/hls/57/index.m3u8
 湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 滑县TV1,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
 滑县TV2,http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
 漳浦综合,http://183.250.71.80:8090/hls/0/index.m3u8
+潍坊科教文化,http://pullwftv.wftvqcm.com/live/wf4pda.m3u8
+潍坊经济生活,http://pullwftv.wftvqcm.com/live/wf2pda.m3u8
 潢川电视台,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-灣聲線上音樂廳,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live088&cid=285
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
-焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 白山新闻综合,http://stream2.jlntv.cn/baishan1/playlist.m3u8
 社旗电视台,http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
@@ -773,7 +636,6 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 郑州教育,https://livezzutv.chinamcache.com/live/zb02.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-金光布袋戲,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live144&cid=236
 金川电视台,http://play.kankanlive.com/live/1657360567739997.m3u8
 金川电视台,http://play.kankanlive.com/live/1657360567739997.flv
 金昌综合,http://play.kankanlive.com/live/1660096574549900.m3u8
@@ -791,6 +653,7 @@ wedotv Movies,http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pi
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 韶关绿色生活,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 项城电视台,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+顺义电视台,https://livebjsy.chinamcache.com/live/zb02.flv
 黄山公共,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
 黄山综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 龙山综合,https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
