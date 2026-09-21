@@ -1,509 +1,519 @@
-测速日志 2026-09-20 15:45:08
+测速日志 2026-09-21 04:13:01
 速度阈值: 50KB/s
 去重功能: 已启用
 EPG源: https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/EPG/epg.xml
-[2026-09-20 15:45:51] ✅ 测速成功: https://tmxk.pp.ua/tv.mp4
-   速度: 8121.69KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.03s
-[2026-09-20 15:45:55] ⚠️ 仅读取 2.5KB 数据: http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=7d6ad250c38dceefb64e6027fcecece2&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260920174426&Channel_ID=0116_2600034600-99000-201600010062497&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.137.8.251&SecurityKey=20260920174426&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=de2850d4c604b16e1617b6c8d731d18e&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=639a350d8849c28a498ede7a9347a3b6
-[2026-09-20 15:45:55] ✅ 测速成功: http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=7d6ad250c38dceefb64e6027fcecece2&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260920174426&Channel_ID=0116_2600034600-99000-201600010062497&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.137.8.251&SecurityKey=20260920174426&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=de2850d4c604b16e1617b6c8d731d18e&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=639a350d8849c28a498ede7a9347a3b6
-   速度: 1969.14KB/s > 50KB/s | 数据量: 2.5KB | 总耗时: 3.48s
-[2026-09-20 15:45:55] ⚠️ 仅读取 7.3KB 数据: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=7d6ad250c38dceefb64e6027fcecece2&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260920174308&Channel_ID=0116_2600034600-99000-201600010042492&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=116.128.189.245&SecurityKey=20260920174308&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f139ea3b4c9b1734ae721c1c405a3044&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3184171f49ed205b134cb3a53a73ea2e
-[2026-09-20 15:45:55] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=7d6ad250c38dceefb64e6027fcecece2&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260920174308&Channel_ID=0116_2600034600-99000-201600010042492&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=116.128.189.245&SecurityKey=20260920174308&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f139ea3b4c9b1734ae721c1c405a3044&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3184171f49ed205b134cb3a53a73ea2e
-   速度: 7309.57KB/s > 50KB/s | 数据量: 7.3KB | 总耗时: 0.45s
-[2026-09-20 15:45:57] ⚠️ 仅读取 0.2KB 数据: http://play.kankanlive.com/live/1698234869325962.m3u8
-[2026-09-20 15:45:57] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.57s
-[2026-09-20 15:45:58] ⚠️ 仅读取 0.4KB 数据: http://pull-hs-f5.flive.douyincdn.com/media/stream-120105451703763628/index.m3u8?expire=1790323138&sign=a7664c511f424fba5cd9e6340cb32e42&volcSecret=a7664c511f424fba5cd9e6340cb32e42&volcTime=1790323138&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609181558570E977CF76D82ED320390-mQS5Ng
-[2026-09-20 15:45:58] ✅ 测速成功: http://pull-hs-f5.flive.douyincdn.com/media/stream-120105451703763628/index.m3u8?expire=1790323138&sign=a7664c511f424fba5cd9e6340cb32e42&volcSecret=a7664c511f424fba5cd9e6340cb32e42&volcTime=1790323138&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609181558570E977CF76D82ED320390-mQS5Ng
-   速度: 354.49KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.33s
-[2026-09-20 15:45:59] ⚠️ 仅读取 0.2KB 数据: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-[2026-09-20 15:45:59] ✅ 测速成功: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-   速度: 225.59KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.06s
-[2026-09-20 15:45:59] ⚠️ 仅读取 0.2KB 数据: http://182.150.112.112:2025/hls/57/index.m3u8
-[2026-09-20 15:45:59] ✅ 测速成功: http://182.150.112.112:2025/hls/57/index.m3u8
-   速度: 228.52KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.51s
-[2026-09-20 15:46:03] ⚠️ 仅读取 0.1KB 数据: https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-[2026-09-20 15:46:03] ✅ 测速成功: https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 3.18s
-[2026-09-20 15:46:03] ⚠️ 仅读取 0.3KB 数据: http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-[2026-09-20 15:46:03] ✅ 测速成功: http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-   速度: 344.73KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.49s
-[2026-09-20 15:46:04] ⚠️ 仅读取 0.4KB 数据: http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-[2026-09-20 15:46:04] ✅ 测速成功: http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2026-09-20 15:46:04] ⚠️ 仅读取 0.2KB 数据: http://114.242.62.109:888/hls/31/index.m3u8
-[2026-09-20 15:46:04] ✅ 测速成功: http://114.242.62.109:888/hls/31/index.m3u8
+[2026-09-21 04:13:37] ✅ 测速成功: https://tmxk.pp.ua/tv.mp4
+   速度: 7245.97KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 0.43s
+[2026-09-21 04:13:37] ⚠️ 仅读取 7.3KB 数据: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=d874617b9ffe0b6d4bc75b910252d591&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260921113801&Channel_ID=0116_2600034600-99000-201600010002012&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=115.231.231.58&SecurityKey=20260921113801&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=08d083df0212d4235dbb6238d60ff28a&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3d79644522126af00c96e5c33a8b2da4
+[2026-09-21 04:13:37] ✅ 测速成功: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=d874617b9ffe0b6d4bc75b910252d591&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260921113801&Channel_ID=0116_2600034600-99000-201600010002012&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=115.231.231.58&SecurityKey=20260921113801&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=08d083df0212d4235dbb6238d60ff28a&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3d79644522126af00c96e5c33a8b2da4
+   速度: 7310.55KB/s > 50KB/s | 数据量: 7.3KB | 总耗时: 0.48s
+[2026-09-21 04:13:39] ⚠️ 仅读取 2.5KB 数据: http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=ed3f93c3ed864de8fe6d756c34f314a0&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260921112344&Channel_ID=0116_2600034600-99000-201600010010620&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.173.178.220&SecurityKey=20260921112344&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=2e446c305f270706df8e07588d0a5ef0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6500d5b0a8c88be08d8388c1894d0f8c
+[2026-09-21 04:13:39] ✅ 测速成功: http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=ed3f93c3ed864de8fe6d756c34f314a0&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260921112344&Channel_ID=0116_2600034600-99000-201600010010620&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.173.178.220&SecurityKey=20260921112344&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=2e446c305f270706df8e07588d0a5ef0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6500d5b0a8c88be08d8388c1894d0f8c
+   速度: 1768.03KB/s > 50KB/s | 数据量: 2.5KB | 总耗时: 1.33s
+[2026-09-21 04:13:40] ⚠️ 仅读取 0.2KB 数据: http://play.kankanlive.com/live/1698234869325962.m3u8
+[2026-09-21 04:13:40] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
+   速度: 249.02KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.63s
+[2026-09-21 04:13:41] ⚠️ 仅读取 0.5KB 数据: http://pull-hls-f11.douyincdn.com/media/stream-120105451703763628.m3u8?expire=1790557584&sign=c0839fb5a04e26cd0c791628822a891c&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609210906247501894F00BD5584A818-SwTu6l
+[2026-09-21 04:13:41] ✅ 测速成功: http://pull-hls-f11.douyincdn.com/media/stream-120105451703763628.m3u8?expire=1790557584&sign=c0839fb5a04e26cd0c791628822a891c&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609210906247501894F00BD5584A818-SwTu6l
+   速度: 467.77KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.88s
+[2026-09-21 04:13:42] ✅ 测速成功: https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14956371270_strL_GameAvcFhdL0.flv?txSecret=468df044321841ea867c0f39d54b5a88&txTime=6ab1b401&stat=ILaXzgofR6XE921OOnkeSajnxQSQE%2FFPQV1epm7MpA%2F3KSDLh8w5Fzxl5LZVXQgp&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2062&no_script=1&srcStrm=ezLr91o-Vz0&ss=s20&tfc_buyer=0
+   速度: 2047.38KB/s > 50KB/s | 数据量: 103.8KB | 总耗时: 0.78s
+[2026-09-21 04:13:43] ⚠️ 仅读取 0.3KB 数据: http://pull-f5.douyinliving.com/media/stream-120120965258019666/index.m3u8?expire=1790549148&sign=ff7f4267579a61080df9bf161c9078e7&volcSecret=ff7f4267579a61080df9bf161c9078e7&volcTime=1790549148&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&t_id=037-20260921064547E4CBE74ACD9AD59D4073-Px0Gse
+[2026-09-21 04:13:43] ✅ 测速成功: http://pull-f5.douyinliving.com/media/stream-120120965258019666/index.m3u8?expire=1790549148&sign=ff7f4267579a61080df9bf161c9078e7&volcSecret=ff7f4267579a61080df9bf161c9078e7&volcTime=1790549148&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&t_id=037-20260921064547E4CBE74ACD9AD59D4073-Px0Gse
+   速度: 348.63KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.13s
+[2026-09-21 04:13:44] ⚠️ 仅读取 0.4KB 数据: http://pull-hls-f26.douyincdn.com/media/stream-696582795596399276.m3u8?expire=6ab9e277&sign=aa9e3588d1f1cc342cd23ceb04c913d0&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260921114350603359A1A309E13D1190-k7rYBz
+[2026-09-21 04:13:44] ✅ 测速成功: http://pull-hls-f26.douyincdn.com/media/stream-696582795596399276.m3u8?expire=6ab9e277&sign=aa9e3588d1f1cc342cd23ceb04c913d0&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260921114350603359A1A309E13D1190-k7rYBz
+   速度: 416.99KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.75s
+[2026-09-21 04:13:46] ⚠️ 仅读取 0.2KB 数据: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+[2026-09-21 04:13:46] ✅ 测速成功: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+   速度: 225.59KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.71s
+[2026-09-21 04:13:46] ⚠️ 仅读取 0.2KB 数据: http://182.150.112.112:2025/hls/57/index.m3u8
+[2026-09-21 04:13:46] ✅ 测速成功: http://182.150.112.112:2025/hls/57/index.m3u8
+   速度: 228.52KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-09-21 04:13:48] ⚠️ 仅读取 0.1KB 数据: https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+[2026-09-21 04:13:48] ✅ 测速成功: https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.73s
+[2026-09-21 04:13:48] ⚠️ 仅读取 0.3KB 数据: http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+[2026-09-21 04:13:48] ✅ 测速成功: http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+   速度: 344.73KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.71s
+[2026-09-21 04:13:49] ⚠️ 仅读取 0.4KB 数据: http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-09-21 04:13:49] ✅ 测速成功: http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.46s
+[2026-09-21 04:13:49] ⚠️ 仅读取 0.2KB 数据: http://114.242.62.109:888/hls/31/index.m3u8
+[2026-09-21 04:13:49] ✅ 测速成功: http://114.242.62.109:888/hls/31/index.m3u8
    速度: 240.23KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2026-09-20 15:46:04] ⚠️ 仅读取 0.2KB 数据: http://183.11.239.36:808/hls/42/index.m3u8
-[2026-09-20 15:46:04] ✅ 测速成功: http://183.11.239.36:808/hls/42/index.m3u8
-   速度: 234.38KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-09-20 15:46:05] ⚠️ 仅读取 2.7KB 数据: http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-[2026-09-20 15:46:05] ✅ 测速成功: http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2728.52KB/s > 50KB/s | 数据量: 2.7KB | 总耗时: 0.50s
-[2026-09-20 15:46:08] ⚠️ 仅读取 0.2KB 数据: https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-[2026-09-20 15:46:08] ✅ 测速成功: https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-   速度: 249.02KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 2.69s
-[2026-09-20 15:46:09] ⚠️ 仅读取 0.4KB 数据: http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-[2026-09-20 15:46:09] ✅ 测速成功: http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-   速度: 355.47KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.15s
-[2026-09-20 15:46:11] ⚠️ 仅读取 0.1KB 数据: https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
-[2026-09-20 15:46:11] ✅ 测速成功: https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
-   速度: 142.58KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 2.32s
-[2026-09-20 15:46:13] ⚠️ 仅读取 0.3KB 数据: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-[2026-09-20 15:46:13] ✅ 测速成功: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-   速度: 282.23KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.19s
-[2026-09-20 15:46:14] ⚠️ 仅读取 1.1KB 数据: http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-[2026-09-20 15:46:14] ✅ 测速成功: http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-   速度: 1119.14KB/s > 50KB/s | 数据量: 1.1KB | 总耗时: 1.11s
-[2026-09-20 15:46:18] ⚠️ 仅读取 0.7KB 数据: http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-[2026-09-20 15:46:18] ✅ 测速成功: http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-   速度: 681.64KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 3.09s
-[2026-09-20 15:46:18] ⚠️ 仅读取 0.5KB 数据: http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-[2026-09-20 15:46:18] ✅ 测速成功: http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-   速度: 543.95KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.93s
-[2026-09-20 15:46:19] ⚠️ 仅读取 0.2KB 数据: http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
-[2026-09-20 15:46:19] ✅ 测速成功: http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
+[2026-09-21 04:13:50] ⚠️ 仅读取 0.2KB 数据: http://183.11.239.36:808/hls/42/index.m3u8
+[2026-09-21 04:13:50] ✅ 测速成功: http://183.11.239.36:808/hls/42/index.m3u8
    速度: 233.40KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2026-09-20 15:46:19] ⚠️ 仅读取 0.2KB 数据: http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-[2026-09-20 15:46:19] ✅ 测速成功: http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-   速度: 234.38KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-09-20 15:46:23] ❌ 测速失败: http://live1.habctv.com/ggpdsl/sd/live.m3u8
-   错误: HTTPConnectionPool(host='live1.habctv.com', port=80): Max retries exceeded with url: /ggpdsl/sd/live.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='live1.habctv.com', port=80) at 0x7f3e3a345a00>, 'Connection to live1.habctv.com timed out. (connect timeout=3.05)')) | 域名: live1.habctv.com:80
-[2026-09-20 15:46:23] ⚠️ 仅读取 0.4KB 数据: http://stream3.huaihai.tv/xz2t/sd/live.m3u8
-[2026-09-20 15:46:23] ✅ 测速成功: http://stream3.huaihai.tv/xz2t/sd/live.m3u8
-   速度: 385.74KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.57s
-[2026-09-20 15:46:24] ⚠️ 仅读取 0.4KB 数据: http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-[2026-09-20 15:46:24] ✅ 测速成功: http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-   速度: 432.62KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.01s
-[2026-09-20 15:46:25] ⚠️ 仅读取 0.2KB 数据: http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-[2026-09-20 15:46:25] ✅ 测速成功: http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-   速度: 229.49KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.58s
-[2026-09-20 15:46:25] ⚠️ 仅读取 0.2KB 数据: http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
-[2026-09-20 15:46:25] ✅ 测速成功: http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
-   速度: 225.59KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.45s
-[2026-09-20 15:46:27] ⚠️ 仅读取 0.4KB 数据: http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
-[2026-09-20 15:46:27] ✅ 测速成功: http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
-   速度: 431.64KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.64s
-[2026-09-20 15:46:28] ⚠️ 仅读取 7.6KB 数据: http://stream.thmz.com/wxtv1/sd/live.m3u8
-[2026-09-20 15:46:28] ✅ 测速成功: http://stream.thmz.com/wxtv1/sd/live.m3u8
-   速度: 7552.73KB/s > 50KB/s | 数据量: 7.6KB | 总耗时: 1.48s
-[2026-09-20 15:46:32] ⚠️ 仅读取 0.1KB 数据: http://jrlive.jrntv.com/live/jrxwzh/playlist.m3u8
-[2026-09-20 15:46:32] ⚠️ 速度不足: http://jrlive.jrntv.com/live/jrxwzh/playlist.m3u8
-   速度: 4.34KB/s <= 50KB/s | 数据量: 0.1KB | 总耗时: 3.38s
-[2026-09-20 15:46:34] ⚠️ 仅读取 0.3KB 数据: http://live.wjyanghu.com/live/CH2.m3u8
-[2026-09-20 15:46:34] ✅ 测速成功: http://live.wjyanghu.com/live/CH2.m3u8
-   速度: 265.62KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.00s
-[2026-09-20 15:46:34] ⚠️ 仅读取 0.2KB 数据: http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
-[2026-09-20 15:46:34] ✅ 测速成功: http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
-   速度: 227.54KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.61s
-[2026-09-20 15:46:47] ❌ 测速失败: http://livebjsy.chinamcache.com/live/zb01.m3u8
-   错误: HTTPConnectionPool(host='livebjsy.chinamcache.com', port=80): Max retries exceeded with url: /live/zb01.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='livebjsy.chinamcache.com', port=80) at 0x7f3e3a345880>, 'Connection to livebjsy.chinamcache.com timed out. (connect timeout=3.05)')) | 域名: livebjsy.chinamcache.com:80
-[2026-09-20 15:46:59] ❌ 测速失败: https://livebjsy.chinamcache.com/live/zb02.flv
-   错误: HTTPSConnectionPool(host='livebjsy.chinamcache.com', port=443): Max retries exceeded with url: /live/zb02.flv (Caused by ConnectTimeoutError(<HTTPSConnection(host='livebjsy.chinamcache.com', port=443) at 0x7f3e3a3dd520>, 'Connection to livebjsy.chinamcache.com timed out. (connect timeout=3.05)')) | 域名: livebjsy.chinamcache.com:443
-[2026-09-20 15:47:02] ⚠️ 仅读取 0.2KB 数据: http://pull.dayuntongzhou.com/live/tztv.m3u8
-[2026-09-20 15:47:02] ✅ 测速成功: http://pull.dayuntongzhou.com/live/tztv.m3u8
-   速度: 237.30KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 2.18s
-[2026-09-20 15:47:05] ❌ 测速失败: https://rmplive.hljtv.com/live/haerbin.m3u8
-   错误: HTTPSConnectionPool(host='rmplive.hljtv.com', port=443): Max retries exceeded with url: /live/haerbin.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='rmplive.hljtv.com', port=443) at 0x7f3e3a3dd5e0>, 'Connection to rmplive.hljtv.com timed out. (connect timeout=3.05)')) | 域名: rmplive.hljtv.com:443
-[2026-09-20 15:47:06] ⚠️ 仅读取 0.4KB 数据: https://stream.hrbtv.net/xwzh/sd/live.m3u8
-[2026-09-20 15:47:06] ✅ 测速成功: https://stream.hrbtv.net/xwzh/sd/live.m3u8
-   速度: 355.47KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.02s
-[2026-09-20 15:47:06] ⚠️ 仅读取 0.4KB 数据: http://stream.hrbtv.net/xwzh/sd/live.m3u8
-[2026-09-20 15:47:06] ✅ 测速成功: http://stream.hrbtv.net/xwzh/sd/live.m3u8
-   速度: 355.47KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.47s
-[2026-09-20 15:47:10] ❌ 测速失败: https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
-   错误: HTTPSConnectionPool(host='masterpull.hljtv.com', port=443): Max retries exceeded with url: /live/vQtnS3vX.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='masterpull.hljtv.com', port=443) at 0x7f3e388aec10>, 'Connection to masterpull.hljtv.com timed out. (connect timeout=3.05)')) | 域名: masterpull.hljtv.com:443
-[2026-09-20 15:47:11] ⚠️ 仅读取 0.4KB 数据: https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
-[2026-09-20 15:47:11] ✅ 测速成功: https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
-   速度: 362.30KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.46s
-[2026-09-20 15:47:12] ⚠️ 仅读取 0.0KB 数据: http://play-a2.quklive.com/live/1744277411242065.m3u8
-[2026-09-20 15:47:12] ⚠️ 速度不足: http://play-a2.quklive.com/live/1744277411242065.m3u8
-   速度: 16.60KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.79s
-[2026-09-20 15:47:12] ⚠️ 仅读取 0.0KB 数据: https://play-a2.quklive.com/live/1754033359790055.m3u8
-[2026-09-20 15:47:12] ⚠️ 速度不足: https://play-a2.quklive.com/live/1754033359790055.m3u8
-   速度: 16.60KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.47s
-[2026-09-20 15:47:16] ❌ 测速失败: http://gxlive.snrtv.com/nlws-SD.m3u8
-   错误: HTTPConnectionPool(host='gxlive.snrtv.com', port=80): Max retries exceeded with url: /nlws-SD.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='gxlive.snrtv.com', port=80) at 0x7f3e388aeb80>, 'Connection to gxlive.snrtv.com timed out. (connect timeout=3.05)')) | 域名: gxlive.snrtv.com:80
-[2026-09-20 15:47:18] ⚠️ 仅读取 0.0KB 数据: https://xatv-yt.xiancity.cn/live/1/index.m3u8
-[2026-09-20 15:47:18] ⚠️ 速度不足: https://xatv-yt.xiancity.cn/live/1/index.m3u8
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 2.14s
-[2026-09-20 15:47:19] ⚠️ 仅读取 0.2KB 数据: https://hplayer1.juyun.tv/camera/140908134.m3u8
-[2026-09-20 15:47:19] ✅ 测速成功: https://hplayer1.juyun.tv/camera/140908134.m3u8
-   速度: 240.23KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.17s
-[2026-09-20 15:47:21] ⚠️ 仅读取 0.2KB 数据: http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-[2026-09-20 15:47:21] ✅ 测速成功: http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-   速度: 235.35KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.82s
-[2026-09-20 15:47:24] ❌ 测速失败: http://live.gxrb.com.cn/gx/binyang/index.m3u8
-   错误: HTTPConnectionPool(host='live.gxrb.com.cn', port=80): Max retries exceeded with url: /gx/binyang/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='live.gxrb.com.cn', port=80) at 0x7f3e3a3ddf70>, 'Connection to live.gxrb.com.cn timed out. (connect timeout=3.05)')) | 域名: live.gxrb.com.cn:80
-[2026-09-20 15:47:26] ⚠️ 仅读取 0.4KB 数据: http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
-[2026-09-20 15:47:26] ✅ 测速成功: http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
-   速度: 364.26KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.07s
-[2026-09-20 15:47:27] ⚠️ 仅读取 1.3KB 数据: http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-[2026-09-20 15:47:27] ✅ 测速成功: http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-   速度: 131.97KB/s > 50KB/s | 数据量: 1.3KB | 总耗时: 0.78s
-[2026-09-20 15:47:28] ⚠️ 仅读取 0.3KB 数据: http://60.171.239.216:9080/hls/stream1.m3u8
-[2026-09-20 15:47:28] ✅ 测速成功: http://60.171.239.216:9080/hls/stream1.m3u8
-   速度: 293.95KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.48s
-[2026-09-20 15:47:29] ⚠️ 仅读取 0.2KB 数据: http://www.guzhenm.com:7001/hls/hd-live.m3u8
-[2026-09-20 15:47:29] ✅ 测速成功: http://www.guzhenm.com:7001/hls/hd-live.m3u8
-   速度: 181.64KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.44s
-[2026-09-20 15:47:31] ⚠️ 仅读取 0.2KB 数据: http://www.guzhenm.com:7004/hls/hd-live.m3u8
-[2026-09-20 15:47:31] ✅ 测速成功: http://www.guzhenm.com:7004/hls/hd-live.m3u8
-   速度: 181.64KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 2.52s
-[2026-09-20 15:47:32] ⚠️ 仅读取 0.2KB 数据: http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
-[2026-09-20 15:47:32] ✅ 测速成功: http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
-   速度: 232.42KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.56s
-[2026-09-20 15:47:33] ⚠️ 仅读取 0.2KB 数据: http://222.179.42.129:8181/hls1.m3u8
-[2026-09-20 15:47:33] ⚠️ 速度不足: http://222.179.42.129:8181/hls1.m3u8
-   速度: 0.61KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.81s
-[2026-09-20 15:47:34] ⚠️ 仅读取 0.4KB 数据: http://222.179.155.21:1935/ch1.m3u8
-[2026-09-20 15:47:34] ✅ 测速成功: http://222.179.155.21:1935/ch1.m3u8
-   速度: 405.27KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.22s
-[2026-09-20 15:47:35] ⚠️ 仅读取 0.1KB 数据: http://183.230.184.51:65500/tntv1.m3u8
-[2026-09-20 15:47:35] ⚠️ 速度不足: http://183.230.184.51:65500/tntv1.m3u8
-   速度: 0.51KB/s <= 50KB/s | 数据量: 0.1KB | 总耗时: 0.74s
-[2026-09-20 15:47:36] ⚠️ 仅读取 0.1KB 数据: http://183.64.181.25:40023/rongchang01.m3u8
-[2026-09-20 15:47:36] ⚠️ 速度不足: http://183.64.181.25:40023/rongchang01.m3u8
-   速度: 0.48KB/s <= 50KB/s | 数据量: 0.1KB | 总耗时: 0.78s
-[2026-09-20 15:47:36] ⚠️ 仅读取 0.3KB 数据: http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
-[2026-09-20 15:47:36] ✅ 测速成功: http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
-   速度: 266.60KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.77s
-[2026-09-20 15:47:37] ⚠️ 仅读取 0.3KB 数据: http://file.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
-[2026-09-20 15:47:37] ✅ 测速成功: http://file.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
-   速度: 266.60KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.96s
-[2026-09-20 15:47:38] ⚠️ 仅读取 0.3KB 数据: http://175.155.106.72:89/live1/live1.m3u8
-[2026-09-20 15:47:38] ✅ 测速成功: http://175.155.106.72:89/live1/live1.m3u8
+[2026-09-21 04:13:50] ⚠️ 仅读取 2.7KB 数据: http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+[2026-09-21 04:13:50] ✅ 测速成功: http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 2726.56KB/s > 50KB/s | 数据量: 2.7KB | 总耗时: 0.52s
+[2026-09-21 04:13:52] ⚠️ 仅读取 0.2KB 数据: https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+[2026-09-21 04:13:52] ✅ 测速成功: https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+   速度: 200.20KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.60s
+[2026-09-21 04:13:53] ⚠️ 仅读取 0.4KB 数据: http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+[2026-09-21 04:13:53] ✅ 测速成功: http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+   速度: 355.47KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.88s
+[2026-09-21 04:13:54] ⚠️ 仅读取 0.1KB 数据: https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
+[2026-09-21 04:13:54] ✅ 测速成功: https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
+   速度: 142.58KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.24s
+[2026-09-21 04:13:56] ⚠️ 仅读取 0.3KB 数据: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+[2026-09-21 04:13:56] ✅ 测速成功: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+   速度: 289.06KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.88s
+[2026-09-21 04:13:57] ⚠️ 仅读取 1.1KB 数据: http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+[2026-09-21 04:13:57] ✅ 测速成功: http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+   速度: 1119.14KB/s > 50KB/s | 数据量: 1.1KB | 总耗时: 1.21s
+[2026-09-21 04:13:58] ⚠️ 仅读取 0.7KB 数据: http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+[2026-09-21 04:13:58] ✅ 测速成功: http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+   速度: 681.64KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.65s
+[2026-09-21 04:13:59] ⚠️ 仅读取 0.6KB 数据: http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+[2026-09-21 04:13:59] ✅ 测速成功: http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+   速度: 559.57KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 1.34s
+[2026-09-21 04:13:59] ⚠️ 仅读取 0.2KB 数据: http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
+[2026-09-21 04:13:59] ✅ 测速成功: http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
+   速度: 233.40KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.34s
+[2026-09-21 04:14:00] ⚠️ 仅读取 0.2KB 数据: http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+[2026-09-21 04:14:00] ✅ 测速成功: http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+   速度: 234.38KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.37s
+[2026-09-21 04:14:03] ❌ 测速失败: http://live1.habctv.com/ggpdsl/sd/live.m3u8
+   错误: HTTPConnectionPool(host='live1.habctv.com', port=80): Max retries exceeded with url: /ggpdsl/sd/live.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='live1.habctv.com', port=80) at 0x7f387edacca0>, 'Connection to live1.habctv.com timed out. (connect timeout=3.05)')) | 域名: live1.habctv.com:80
+[2026-09-21 04:14:04] ⚠️ 仅读取 0.4KB 数据: http://stream3.huaihai.tv/xz2t/sd/live.m3u8
+[2026-09-21 04:14:04] ✅ 测速成功: http://stream3.huaihai.tv/xz2t/sd/live.m3u8
+   速度: 385.74KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.58s
+[2026-09-21 04:14:05] ⚠️ 仅读取 0.4KB 数据: http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+[2026-09-21 04:14:05] ✅ 测速成功: http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+   速度: 432.62KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.02s
+[2026-09-21 04:14:05] ⚠️ 仅读取 0.2KB 数据: http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+[2026-09-21 04:14:05] ✅ 测速成功: http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+   速度: 229.49KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.51s
+[2026-09-21 04:14:06] ⚠️ 仅读取 0.2KB 数据: http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+[2026-09-21 04:14:06] ✅ 测速成功: http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+   速度: 225.59KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.55s
+[2026-09-21 04:14:07] ⚠️ 仅读取 0.4KB 数据: http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
+[2026-09-21 04:14:07] ✅ 测速成功: http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
+   速度: 431.64KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.09s
+[2026-09-21 04:14:08] ⚠️ 仅读取 7.6KB 数据: http://stream.thmz.com/wxtv1/sd/live.m3u8
+[2026-09-21 04:14:08] ✅ 测速成功: http://stream.thmz.com/wxtv1/sd/live.m3u8
+   速度: 7553.71KB/s > 50KB/s | 数据量: 7.6KB | 总耗时: 1.68s
+[2026-09-21 04:14:10] ⚠️ 仅读取 0.1KB 数据: http://jrlive.jrntv.com/live/jrxwzh/playlist.m3u8
+[2026-09-21 04:14:10] ⚠️ 速度不足: http://jrlive.jrntv.com/live/jrxwzh/playlist.m3u8
+   速度: 4.56KB/s <= 50KB/s | 数据量: 0.1KB | 总耗时: 1.77s
+[2026-09-21 04:14:12] ⚠️ 仅读取 0.3KB 数据: http://live.wjyanghu.com/live/CH2.m3u8
+[2026-09-21 04:14:12] ✅ 测速成功: http://live.wjyanghu.com/live/CH2.m3u8
+   速度: 267.58KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.73s
+[2026-09-21 04:14:12] ⚠️ 仅读取 0.2KB 数据: http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+[2026-09-21 04:14:12] ✅ 测速成功: http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+   速度: 227.54KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.25s
+[2026-09-21 04:14:26] ❌ 测速失败: http://livebjsy.chinamcache.com/live/zb01.m3u8
+   错误: HTTPConnectionPool(host='livebjsy.chinamcache.com', port=80): Max retries exceeded with url: /live/zb01.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='livebjsy.chinamcache.com', port=80) at 0x7f387ee9fb20>, 'Connection to livebjsy.chinamcache.com timed out. (connect timeout=3.05)')) | 域名: livebjsy.chinamcache.com:80
+[2026-09-21 04:14:38] ❌ 测速失败: https://livebjsy.chinamcache.com/live/zb02.flv
+   错误: HTTPSConnectionPool(host='livebjsy.chinamcache.com', port=443): Max retries exceeded with url: /live/zb02.flv (Caused by ConnectTimeoutError(<HTTPSConnection(host='livebjsy.chinamcache.com', port=443) at 0x7f387e8d9340>, 'Connection to livebjsy.chinamcache.com timed out. (connect timeout=3.05)')) | 域名: livebjsy.chinamcache.com:443
+[2026-09-21 04:14:40] ⚠️ 仅读取 0.2KB 数据: http://pull.dayuntongzhou.com/live/tztv.m3u8
+[2026-09-21 04:14:40] ✅ 测速成功: http://pull.dayuntongzhou.com/live/tztv.m3u8
+   速度: 237.30KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.78s
+[2026-09-21 04:14:43] ❌ 测速失败: https://rmplive.hljtv.com/live/haerbin.m3u8
+   错误: HTTPSConnectionPool(host='rmplive.hljtv.com', port=443): Max retries exceeded with url: /live/haerbin.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='rmplive.hljtv.com', port=443) at 0x7f387e8d9100>, 'Connection to rmplive.hljtv.com timed out. (connect timeout=3.05)')) | 域名: rmplive.hljtv.com:443
+[2026-09-21 04:14:44] ⚠️ 仅读取 0.4KB 数据: https://stream.hrbtv.net/xwzh/sd/live.m3u8
+[2026-09-21 04:14:44] ✅ 测速成功: https://stream.hrbtv.net/xwzh/sd/live.m3u8
+   速度: 355.47KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.97s
+[2026-09-21 04:14:45] ⚠️ 仅读取 0.4KB 数据: http://stream.hrbtv.net/xwzh/sd/live.m3u8
+[2026-09-21 04:14:45] ✅ 测速成功: http://stream.hrbtv.net/xwzh/sd/live.m3u8
+   速度: 355.47KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.58s
+[2026-09-21 04:14:48] ❌ 测速失败: https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
+   错误: HTTPSConnectionPool(host='masterpull.hljtv.com', port=443): Max retries exceeded with url: /live/vQtnS3vX.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='masterpull.hljtv.com', port=443) at 0x7f387e8d9b50>, 'Connection to masterpull.hljtv.com timed out. (connect timeout=3.05)')) | 域名: masterpull.hljtv.com:443
+[2026-09-21 04:14:49] ⚠️ 仅读取 0.4KB 数据: https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
+[2026-09-21 04:14:49] ✅ 测速成功: https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
+   速度: 362.30KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.34s
+[2026-09-21 04:14:50] ⚠️ 仅读取 0.0KB 数据: http://play-a2.quklive.com/live/1744277411242065.m3u8
+[2026-09-21 04:14:50] ⚠️ 速度不足: http://play-a2.quklive.com/live/1744277411242065.m3u8
+   速度: 16.60KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.83s
+[2026-09-21 04:14:51] ⚠️ 仅读取 0.0KB 数据: https://play-a2.quklive.com/live/1754033359790055.m3u8
+[2026-09-21 04:14:51] ⚠️ 速度不足: https://play-a2.quklive.com/live/1754033359790055.m3u8
+   速度: 16.60KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.80s
+[2026-09-21 04:14:54] ❌ 测速失败: http://gxlive.snrtv.com/nlws-SD.m3u8
+   错误: HTTPConnectionPool(host='gxlive.snrtv.com', port=80): Max retries exceeded with url: /nlws-SD.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='gxlive.snrtv.com', port=80) at 0x7f387ee60a30>, 'Connection to gxlive.snrtv.com timed out. (connect timeout=3.05)')) | 域名: gxlive.snrtv.com:80
+[2026-09-21 04:14:56] ⚠️ 仅读取 0.0KB 数据: https://xatv-yt.xiancity.cn/live/1/index.m3u8
+[2026-09-21 04:14:56] ⚠️ 速度不足: https://xatv-yt.xiancity.cn/live/1/index.m3u8
+   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 1.52s
+[2026-09-21 04:14:57] ⚠️ 仅读取 0.2KB 数据: https://hplayer1.juyun.tv/camera/140908134.m3u8
+[2026-09-21 04:14:57] ✅ 测速成功: https://hplayer1.juyun.tv/camera/140908134.m3u8
+   速度: 240.23KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.61s
+[2026-09-21 04:15:01] ⚠️ 仅读取 0.2KB 数据: http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+[2026-09-21 04:15:01] ✅ 测速成功: http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+   速度: 235.35KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 3.87s
+[2026-09-21 04:15:05] ❌ 测速失败: http://live.gxrb.com.cn/gx/binyang/index.m3u8
+   错误: HTTPConnectionPool(host='live.gxrb.com.cn', port=80): Max retries exceeded with url: /gx/binyang/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='live.gxrb.com.cn', port=80) at 0x7f387edbc880>, 'Connection to live.gxrb.com.cn timed out. (connect timeout=3.05)')) | 域名: live.gxrb.com.cn:80
+[2026-09-21 04:15:06] ⚠️ 仅读取 0.4KB 数据: http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+[2026-09-21 04:15:06] ✅ 测速成功: http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+   速度: 362.30KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.48s
+[2026-09-21 04:15:07] ⚠️ 仅读取 1.3KB 数据: http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+[2026-09-21 04:15:07] ✅ 测速成功: http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+   速度: 140.25KB/s > 50KB/s | 数据量: 1.3KB | 总耗时: 0.65s
+[2026-09-21 04:15:07] ⚠️ 仅读取 0.3KB 数据: http://60.171.239.216:9080/hls/stream1.m3u8
+[2026-09-21 04:15:07] ✅ 测速成功: http://60.171.239.216:9080/hls/stream1.m3u8
+   速度: 293.95KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.36s
+[2026-09-21 04:15:08] ⚠️ 仅读取 0.2KB 数据: http://www.guzhenm.com:7001/hls/hd-live.m3u8
+[2026-09-21 04:15:08] ✅ 测速成功: http://www.guzhenm.com:7001/hls/hd-live.m3u8
+   速度: 181.64KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.69s
+[2026-09-21 04:15:08] ⚠️ 仅读取 0.2KB 数据: http://www.guzhenm.com:7004/hls/hd-live.m3u8
+[2026-09-21 04:15:08] ✅ 测速成功: http://www.guzhenm.com:7004/hls/hd-live.m3u8
+   速度: 181.64KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.54s
+[2026-09-21 04:15:10] ⚠️ 仅读取 0.2KB 数据: http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+[2026-09-21 04:15:10] ✅ 测速成功: http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+   速度: 232.42KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.13s
+[2026-09-21 04:15:10] ⚠️ 仅读取 0.1KB 数据: http://stream2.jlntv.cn/baishan1/playlist.m3u8
+[2026-09-21 04:15:10] ✅ 测速成功: http://stream2.jlntv.cn/baishan1/playlist.m3u8
+   速度: 90.82KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 0.92s
+[2026-09-21 04:15:11] ⚠️ 仅读取 0.2KB 数据: http://222.179.42.129:8181/hls1.m3u8
+[2026-09-21 04:15:11] ⚠️ 速度不足: http://222.179.42.129:8181/hls1.m3u8
+   速度: 0.78KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.65s
+[2026-09-21 04:15:12] ⚠️ 仅读取 0.4KB 数据: http://222.179.155.21:1935/ch1.m3u8
+[2026-09-21 04:15:12] ✅ 测速成功: http://222.179.155.21:1935/ch1.m3u8
+   速度: 405.27KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.43s
+[2026-09-21 04:15:12] ⚠️ 仅读取 0.1KB 数据: http://183.230.184.51:65500/tntv1.m3u8
+[2026-09-21 04:15:12] ⚠️ 速度不足: http://183.230.184.51:65500/tntv1.m3u8
+   速度: 0.50KB/s <= 50KB/s | 数据量: 0.1KB | 总耗时: 0.74s
+[2026-09-21 04:15:13] ⚠️ 仅读取 0.1KB 数据: http://183.64.181.25:40023/rongchang01.m3u8
+[2026-09-21 04:15:13] ⚠️ 速度不足: http://183.64.181.25:40023/rongchang01.m3u8
+   速度: 0.57KB/s <= 50KB/s | 数据量: 0.1KB | 总耗时: 0.65s
+[2026-09-21 04:15:14] ⚠️ 仅读取 0.3KB 数据: http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
+[2026-09-21 04:15:14] ✅ 测速成功: http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
+   速度: 271.48KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.94s
+[2026-09-21 04:15:15] ⚠️ 仅读取 0.3KB 数据: http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+[2026-09-21 04:15:15] ✅ 测速成功: http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+   速度: 266.60KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.69s
+[2026-09-21 04:15:16] ⚠️ 仅读取 0.3KB 数据: http://file.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
+[2026-09-21 04:15:16] ✅ 测速成功: http://file.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
+   速度: 266.60KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.93s
+[2026-09-21 04:15:16] ⚠️ 仅读取 0.3KB 数据: http://175.155.106.72:89/live1/live1.m3u8
+[2026-09-21 04:15:16] ✅ 测速成功: http://175.155.106.72:89/live1/live1.m3u8
    速度: 260.74KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.41s
-[2026-09-20 15:47:39] ⚠️ 仅读取 0.2KB 数据: http://live1.gatv.com.cn:85/live/XWZH.m3u8
-[2026-09-20 15:47:39] ⚠️ 速度不足: http://live1.gatv.com.cn:85/live/XWZH.m3u8
-   速度: 0.96KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 1.09s
-[2026-09-20 15:47:40] ⚠️ 仅读取 0.3KB 数据: http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
-[2026-09-20 15:47:40] ✅ 测速成功: http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
-   速度: 271.48KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.35s
-[2026-09-20 15:47:41] ⚠️ 仅读取 0.2KB 数据: http://live.schstv.com:90/live/xwzh.m3u8
-[2026-09-20 15:47:41] ⚠️ 速度不足: http://live.schstv.com:90/live/xwzh.m3u8
-   速度: 1.12KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.87s
-[2026-09-20 15:47:42] ⚠️ 仅读取 0.2KB 数据: http://live2.gatv.com.cn:86/live/WS.m3u8
-[2026-09-20 15:47:42] ⚠️ 速度不足: http://live2.gatv.com.cn:86/live/WS.m3u8
-   速度: 0.90KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 1.17s
-[2026-09-20 15:47:43] ⚠️ 仅读取 0.3KB 数据: http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-[2026-09-20 15:47:43] ✅ 测速成功: http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-   速度: 265.62KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.97s
-[2026-09-20 15:47:46] ❌ 测速失败: http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8
+[2026-09-21 04:15:17] ⚠️ 仅读取 0.2KB 数据: http://live1.gatv.com.cn:85/live/XWZH.m3u8
+[2026-09-21 04:15:17] ⚠️ 速度不足: http://live1.gatv.com.cn:85/live/XWZH.m3u8
+   速度: 1.05KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 1.08s
+[2026-09-21 04:15:18] ⚠️ 仅读取 0.3KB 数据: http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+[2026-09-21 04:15:18] ✅ 测速成功: http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+   速度: 271.48KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.81s
+[2026-09-21 04:15:19] ⚠️ 仅读取 0.2KB 数据: http://live.schstv.com:90/live/xwzh.m3u8
+[2026-09-21 04:15:19] ⚠️ 速度不足: http://live.schstv.com:90/live/xwzh.m3u8
+   速度: 1.13KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.99s
+[2026-09-21 04:15:20] ⚠️ 仅读取 0.2KB 数据: http://live2.gatv.com.cn:86/live/WS.m3u8
+[2026-09-21 04:15:20] ⚠️ 速度不足: http://live2.gatv.com.cn:86/live/WS.m3u8
+   速度: 1.06KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.98s
+[2026-09-21 04:15:21] ⚠️ 仅读取 0.3KB 数据: http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+[2026-09-21 04:15:21] ✅ 测速成功: http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+   速度: 265.62KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.89s
+[2026-09-21 04:15:24] ❌ 测速失败: http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8
    错误: HTTPConnectionPool(host='channel.wcrmt.cn', port=80): Max retries exceeded with url: /nmip-media/channellive/channel105268/playlist.m3u8 (Caused by NewConnectionError("HTTPConnection(host='channel.wcrmt.cn', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | 域名: channel.wcrmt.cn:80
-[2026-09-20 15:47:49] ⚠️ 仅读取 0.3KB 数据: https://livepull.dachuan.org.cn/live/fmzb1653876985419.m3u8
-[2026-09-20 15:47:49] ✅ 测速成功: https://livepull.dachuan.org.cn/live/fmzb1653876985419.m3u8
-   速度: 251.95KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.89s
-[2026-09-20 15:47:50] ⚠️ 仅读取 0.1KB 数据: http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-[2026-09-20 15:47:50] ✅ 测速成功: http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-   速度: 149.41KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.00s
-[2026-09-20 15:47:51] ⚠️ 仅读取 0.5KB 数据: https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-[2026-09-20 15:47:51] ✅ 测速成功: https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-   速度: 514.65KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.80s
-[2026-09-20 15:47:55] ❌ 测速失败: http://hls.hsrtv.cn/live/hshstv1.m3u8
-   错误: HTTPConnectionPool(host='hls.hsrtv.cn', port=80): Max retries exceeded with url: /live/hshstv1.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='hls.hsrtv.cn', port=80) at 0x7f3e3a345310>, 'Connection to hls.hsrtv.cn timed out. (connect timeout=3.05)')) | 域名: hls.hsrtv.cn:80
-[2026-09-20 15:47:56] ⚠️ 仅读取 0.5KB 数据: http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-[2026-09-20 15:47:56] ✅ 测速成功: http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-   速度: 520.51KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 1.07s
-[2026-09-20 15:47:56] ⚠️ 仅读取 0.5KB 数据: https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-[2026-09-20 15:47:56] ✅ 测速成功: https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-   速度: 520.51KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.68s
-[2026-09-20 15:47:57] ⚠️ 仅读取 0.5KB 数据: http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-[2026-09-20 15:47:57] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-   速度: 498.05KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.78s
-[2026-09-20 15:47:58] ⚠️ 仅读取 0.3KB 数据: http://183.250.71.80:8090/hls/0/index.m3u8
-[2026-09-20 15:47:58] ✅ 测速成功: http://183.250.71.80:8090/hls/0/index.m3u8
-   速度: 262.70KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.56s
-[2026-09-20 15:47:59] ⚠️ 仅读取 0.2KB 数据: http://live.zzyxxw.com:85/live/xwzh.m3u8
-[2026-09-20 15:47:59] ⚠️ 速度不足: http://live.zzyxxw.com:85/live/xwzh.m3u8
-   速度: 0.93KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 1.03s
-[2026-09-20 15:48:01] ⚠️ 仅读取 0.3KB 数据: https://livezzutv.chinamcache.com/live/zb02.m3u8
-[2026-09-20 15:48:01] ✅ 测速成功: https://livezzutv.chinamcache.com/live/zb02.m3u8
-   速度: 284.18KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.01s
-[2026-09-20 15:48:02] ⚠️ 仅读取 2.0KB 数据: http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-[2026-09-20 15:48:02] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-   速度: 1961.91KB/s > 50KB/s | 数据量: 2.0KB | 总耗时: 0.97s
-[2026-09-20 15:48:02] ⚠️ 仅读取 2.0KB 数据: http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
-[2026-09-20 15:48:02] ✅ 测速成功: http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
-   速度: 2026.37KB/s > 50KB/s | 数据量: 2.0KB | 总耗时: 0.47s
-[2026-09-20 15:48:03] ⚠️ 仅读取 1.4KB 数据: http://222.136.190.68:8081/live/6520562530090312540.m3u8
-[2026-09-20 15:48:03] ✅ 测速成功: http://222.136.190.68:8081/live/6520562530090312540.m3u8
-   速度: 1394.53KB/s > 50KB/s | 数据量: 1.4KB | 总耗时: 0.39s
-[2026-09-20 15:48:03] ❌ 测速失败: http://push.xytv.cn/live/871627674812443875/index.m3u8
+[2026-09-21 04:15:27] ⚠️ 仅读取 0.3KB 数据: https://livepull.dachuan.org.cn/live/fmzb1653876985419.m3u8
+[2026-09-21 04:15:27] ✅ 测速成功: https://livepull.dachuan.org.cn/live/fmzb1653876985419.m3u8
+   速度: 251.95KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.50s
+[2026-09-21 04:15:28] ⚠️ 仅读取 0.1KB 数据: http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+[2026-09-21 04:15:28] ✅ 测速成功: http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+   速度: 149.41KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.12s
+[2026-09-21 04:15:29] ⚠️ 仅读取 0.5KB 数据: https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+[2026-09-21 04:15:29] ✅ 测速成功: https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+   速度: 507.81KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.68s
+[2026-09-21 04:15:32] ❌ 测速失败: http://hls.hsrtv.cn/live/hshstv1.m3u8
+   错误: HTTPConnectionPool(host='hls.hsrtv.cn', port=80): Max retries exceeded with url: /live/hshstv1.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='hls.hsrtv.cn', port=80) at 0x7f387ee63fd0>, 'Connection to hls.hsrtv.cn timed out. (connect timeout=3.05)')) | 域名: hls.hsrtv.cn:80
+[2026-09-21 04:15:33] ⚠️ 仅读取 0.5KB 数据: http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+[2026-09-21 04:15:33] ✅ 测速成功: http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+   速度: 520.51KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 1.08s
+[2026-09-21 04:15:34] ⚠️ 仅读取 0.5KB 数据: https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+[2026-09-21 04:15:34] ✅ 测速成功: https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+   速度: 520.51KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.62s
+[2026-09-21 04:15:36] ⚠️ 仅读取 0.5KB 数据: http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+[2026-09-21 04:15:36] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+   速度: 498.05KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 1.91s
+[2026-09-21 04:15:36] ⚠️ 仅读取 0.3KB 数据: http://183.250.71.80:8090/hls/0/index.m3u8
+[2026-09-21 04:15:36] ✅ 测速成功: http://183.250.71.80:8090/hls/0/index.m3u8
+   速度: 262.70KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.45s
+[2026-09-21 04:15:37] ⚠️ 仅读取 0.2KB 数据: http://live.zzyxxw.com:85/live/xwzh.m3u8
+[2026-09-21 04:15:37] ⚠️ 速度不足: http://live.zzyxxw.com:85/live/xwzh.m3u8
+   速度: 0.90KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.98s
+[2026-09-21 04:15:39] ⚠️ 仅读取 0.3KB 数据: https://livezzutv.chinamcache.com/live/zb02.m3u8
+[2026-09-21 04:15:39] ✅ 测速成功: https://livezzutv.chinamcache.com/live/zb02.m3u8
+   速度: 284.18KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.91s
+[2026-09-21 04:15:40] ⚠️ 仅读取 2.0KB 数据: http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+[2026-09-21 04:15:40] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+   速度: 1961.91KB/s > 50KB/s | 数据量: 2.0KB | 总耗时: 0.69s
+[2026-09-21 04:15:40] ⚠️ 仅读取 2.0KB 数据: http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+[2026-09-21 04:15:40] ✅ 测速成功: http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+   速度: 2027.34KB/s > 50KB/s | 数据量: 2.0KB | 总耗时: 0.78s
+[2026-09-21 04:15:41] ⚠️ 仅读取 1.4KB 数据: http://222.136.190.68:8081/live/6520562530090312540.m3u8
+[2026-09-21 04:15:41] ✅ 测速成功: http://222.136.190.68:8081/live/6520562530090312540.m3u8
+   速度: 1394.53KB/s > 50KB/s | 数据量: 1.4KB | 总耗时: 0.37s
+[2026-09-21 04:15:41] ❌ 测速失败: http://push.xytv.cn/live/871627674812443875/index.m3u8
    错误: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) | 域名: push.xytv.cn:80
-[2026-09-20 15:48:04] ⚠️ 仅读取 0.4KB 数据: http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-[2026-09-20 15:48:04] ✅ 测速成功: http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-   速度: 356.45KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.99s
-[2026-09-20 15:48:05] ⚠️ 仅读取 0.7KB 数据: http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-[2026-09-20 15:48:05] ✅ 测速成功: http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-   速度: 678.71KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.53s
-[2026-09-20 15:48:05] ⚠️ 仅读取 0.3KB 数据: http://59.175.226.142:280/gb28181/xwzh.m3u8
-[2026-09-20 15:48:05] ⚠️ 速度不足: http://59.175.226.142:280/gb28181/xwzh.m3u8
-   速度: 1.08KB/s <= 50KB/s | 数据量: 0.3KB | 总耗时: 0.71s
-[2026-09-20 15:48:08] ⚠️ 仅读取 0.4KB 数据: https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
-[2026-09-20 15:48:08] ✅ 测速成功: https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
-   速度: 399.41KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.50s
-[2026-09-20 15:48:14] ❌ 测速失败: http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
+[2026-09-21 04:15:42] ⚠️ 仅读取 0.4KB 数据: http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+[2026-09-21 04:15:42] ✅ 测速成功: http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+   速度: 356.45KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.83s
+[2026-09-21 04:15:43] ⚠️ 仅读取 0.7KB 数据: http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+[2026-09-21 04:15:43] ✅ 测速成功: http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+   速度: 681.64KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.51s
+[2026-09-21 04:15:43] ⚠️ 仅读取 0.2KB 数据: http://59.175.226.142:280/gb28181/xwzh.m3u8
+[2026-09-21 04:15:43] ⚠️ 速度不足: http://59.175.226.142:280/gb28181/xwzh.m3u8
+   速度: 1.31KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.58s
+[2026-09-21 04:15:45] ⚠️ 仅读取 0.4KB 数据: https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+[2026-09-21 04:15:45] ✅ 测速成功: https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+   速度: 399.41KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.46s
+[2026-09-21 04:15:45] ⚠️ 仅读取 1.7KB 数据: http://pullwftv.wftvqcm.com/live/wf2pda.m3u8
+[2026-09-21 04:15:45] ✅ 测速成功: http://pullwftv.wftvqcm.com/live/wf2pda.m3u8
+   速度: 1734.38KB/s > 50KB/s | 数据量: 1.7KB | 总耗时: 0.43s
+[2026-09-21 04:15:51] ❌ 测速失败: http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
    错误: HTTPConnectionPool(host='live.yantaitv.cn', port=80): Read timed out. (read timeout=5) | 域名: live.yantaitv.cn:80
-[2026-09-20 15:48:16] ⚠️ 仅读取 0.3KB 数据: http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
-[2026-09-20 15:48:16] ✅ 测速成功: http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
-   速度: 265.62KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.88s
-[2026-09-20 15:48:17] ⚠️ 仅读取 0.4KB 数据: http://live.jinnews.com.cn/xwzh/sd/live.m3u8
-[2026-09-20 15:48:17] ✅ 测速成功: http://live.jinnews.com.cn/xwzh/sd/live.m3u8
-   速度: 378.91KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.86s
-[2026-09-20 15:48:19] ⚠️ 仅读取 0.2KB 数据: https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
-[2026-09-20 15:48:19] ✅ 测速成功: https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
-   速度: 162.11KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 2.55s
-[2026-09-20 15:48:22] ⚠️ 仅读取 0.2KB 数据: http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
-[2026-09-20 15:48:22] ✅ 测速成功: http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
-   速度: 178.71KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 2.04s
-[2026-09-20 15:48:22] ⚠️ 仅读取 0.2KB 数据: http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
-[2026-09-20 15:48:22] ✅ 测速成功: http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
-   速度: 245.12KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.30s
-[2026-09-20 15:48:22] ⚠️ 仅读取 0.2KB 数据: http://60.222.246.220:19433/hls1.m3u8
-[2026-09-20 15:48:22] ⚠️ 速度不足: http://60.222.246.220:19433/hls1.m3u8
-   速度: 0.97KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.60s
-[2026-09-20 15:48:25] ⚠️ 仅读取 0.2KB 数据: https://play.kankanlive.com/live/1658978094528926.m3u8
-[2026-09-20 15:48:25] ✅ 测速成功: https://play.kankanlive.com/live/1658978094528926.m3u8
-   速度: 250.00KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 2.11s
-[2026-09-20 15:48:25] ⚠️ 仅读取 0.2KB 数据: http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
-[2026-09-20 15:48:25] ⚠️ 速度不足: http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
-   速度: 0.90KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.62s
-[2026-09-20 15:48:27] ⚠️ 仅读取 0.2KB 数据: https://live.chinacert.cftest5.cn/cnmg/live/624878396?reptoken=R/mg&auth=
-[2026-09-20 15:48:27] ✅ 测速成功: https://live.chinacert.cftest5.cn/cnmg/live/624878396?reptoken=R/mg&auth=
-   速度: 244.14KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.97s
-[2026-09-20 15:48:33] ❌ 测速失败: http://pull-hls-f1.douyincdn.com/media/stream-120116967516930732/playlist.m3u8?keeptime=00093a80&wsSecret=ad623228b63b047cdb7d4201e407bd22&wsTime=6aafa03f&major_anchor_level=common&arch_hrchy=w1&exp_hrchy=w1&t_id=037-20260920165838D1BFF35D825242782759-s256zb
-   错误: HTTPConnectionPool(host='pull-hls-f1.douyincdn.com', port=80): Read timed out. (read timeout=5) | 域名: pull-hls-f1.douyincdn.com:80
-[2026-09-20 15:48:38] ⚠️ 仅读取 0.5KB 数据: https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
-[2026-09-20 15:48:38] ✅ 测速成功: https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
-   速度: 461.91KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 5.38s
-[2026-09-20 15:48:41] ⚠️ 仅读取 0.0KB 数据: http://166.0.198.156:5054/play/4gtv-4gtv003/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-[2026-09-20 15:48:41] ⚠️ 速度不足: http://166.0.198.156:5054/play/4gtv-4gtv003/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
-   速度: 41.02KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 3.46s
-[2026-09-20 15:48:42] ⚠️ 仅读取 0.2KB 数据: http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
-[2026-09-20 15:48:42] ✅ 测速成功: http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
-   速度: 202.15KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-09-20 15:48:42] ⚠️ 仅读取 0.3KB 数据: http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-[2026-09-20 15:48:42] ✅ 测速成功: http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-   速度: 260.74KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.49s
-[2026-09-20 15:48:43] ⚠️ 仅读取 0.4KB 数据: http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-[2026-09-20 15:48:43] ✅ 测速成功: http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-   速度: 350.59KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.23s
-[2026-09-20 15:48:43] ⚠️ 仅读取 0.2KB 数据: http://74.91.26.218:82/live/cctv1hd.m3u8
-[2026-09-20 15:48:43] ✅ 测速成功: http://74.91.26.218:82/live/cctv1hd.m3u8
-   速度: 197.27KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.10s
-[2026-09-20 15:48:44] ❌ 测速失败: https://mytv.cdn.loc.cc/o12.php?id=fct
+[2026-09-21 04:15:53] ⚠️ 仅读取 0.3KB 数据: http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+[2026-09-21 04:15:53] ✅ 测速成功: http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+   速度: 265.62KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.25s
+[2026-09-21 04:15:55] ⚠️ 仅读取 0.4KB 数据: http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+[2026-09-21 04:15:55] ✅ 测速成功: http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+   速度: 355.47KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.08s
+[2026-09-21 04:15:57] ⚠️ 仅读取 0.2KB 数据: https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
+[2026-09-21 04:15:57] ✅ 测速成功: https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
+   速度: 162.11KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 2.54s
+[2026-09-21 04:15:59] ⚠️ 仅读取 0.2KB 数据: http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+[2026-09-21 04:15:59] ✅ 测速成功: http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+   速度: 178.71KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 2.23s
+[2026-09-21 04:16:00] ⚠️ 仅读取 0.2KB 数据: http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
+[2026-09-21 04:16:00] ✅ 测速成功: http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
+   速度: 245.12KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-09-21 04:16:01] ⚠️ 仅读取 0.0KB 数据: http://60.222.246.220:19433/hls1.m3u8
+[2026-09-21 04:16:01] ⚠️ 速度不足: http://60.222.246.220:19433/hls1.m3u8
+   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.99s
+[2026-09-21 04:16:03] ⚠️ 仅读取 0.2KB 数据: https://play.kankanlive.com/live/1658978094528926.m3u8
+[2026-09-21 04:16:03] ✅ 测速成功: https://play.kankanlive.com/live/1658978094528926.m3u8
+   速度: 250.00KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 1.71s
+[2026-09-21 04:16:03] ⚠️ 仅读取 0.2KB 数据: http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+[2026-09-21 04:16:03] ⚠️ 速度不足: http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+   速度: 0.96KB/s <= 50KB/s | 数据量: 0.2KB | 总耗时: 0.59s
+[2026-09-21 04:16:09] ❌ 测速失败: https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+   错误: HTTPSConnectionPool(host='bd-xwl.cztv.com', port=443): Read timed out. (read timeout=3.05) | 域名: bd-xwl.cztv.com:443
+[2026-09-21 04:16:11] ⚠️ 仅读取 0.0KB 数据: http://166.0.198.156:5054/play/4gtv-4gtv003/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
+[2026-09-21 04:16:11] ⚠️ 速度不足: http://166.0.198.156:5054/play/4gtv-4gtv003/index.m3u8?token=eIbUvRQxh8RkNPhHZFBVXJ-6Qc_6YrbL7An-JXhAAy5eJiAW2C8TL16It1zC-VBL&type=stream_proxy
+   速度: 41.02KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 1.44s
+[2026-09-21 04:16:11] ❌ 测速失败: http://166.0.198.156/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
+   错误: HTTPConnectionPool(host='166.0.198.156', port=80): Max retries exceeded with url: /post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1 (Caused by NewConnectionError("HTTPConnection(host='166.0.198.156', port=80): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 166.0.198.156:80
+[2026-09-21 04:16:11] ⚠️ 仅读取 0.3KB 数据: http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+[2026-09-21 04:16:11] ✅ 测速成功: http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+   速度: 260.74KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.50s
+[2026-09-21 04:16:11] ⚠️ 仅读取 0.4KB 数据: http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+[2026-09-21 04:16:11] ✅ 测速成功: http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+   速度: 350.59KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.21s
+[2026-09-21 04:16:12] ⚠️ 仅读取 0.2KB 数据: http://74.91.26.218:82/live/cctv1hd.m3u8
+[2026-09-21 04:16:12] ✅ 测速成功: http://74.91.26.218:82/live/cctv1hd.m3u8
+   速度: 205.08KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.13s
+[2026-09-21 04:16:12] ❌ 测速失败: https://mytv.cdn.loc.cc/o12.php?id=fct
    错误: HTTPSConnectionPool(host='mytv.cdn.loc.cc', port=443): Max retries exceeded with url: /o12.php?id=fct (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1147)'))) | 域名: mytv.cdn.loc.cc:443
-[2026-09-20 15:48:44] ⚠️ 仅读取 0.3KB 数据: http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-[2026-09-20 15:48:44] ✅ 测速成功: http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-   速度: 328.12KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.59s
-[2026-09-20 15:48:45] ⚠️ 仅读取 0.1KB 数据: https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-[2026-09-20 15:48:45] ✅ 测速成功: https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-   速度: 149.41KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 0.84s
-[2026-09-20 15:48:46] ⚠️ 仅读取 0.3KB 数据: http://utv1.hqtvzb.com:9999/hls/world.m3u8
-[2026-09-20 15:48:46] ✅ 测速成功: http://utv1.hqtvzb.com:9999/hls/world.m3u8
-   速度: 257.81KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.78s
-[2026-09-20 15:48:47] ⚠️ 仅读取 0.1KB 数据: https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-[2026-09-20 15:48:47] ✅ 测速成功: https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-   速度: 136.72KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.47s
-[2026-09-20 15:48:48] ⚠️ 仅读取 0.2KB 数据: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-[2026-09-20 15:48:48] ✅ 测速成功: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-   速度: 227.54KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.11s
-[2026-09-20 15:48:48] ⚠️ 仅读取 0.3KB 数据: http://61.221.215.25:8800/hls/9/index.m3u8
-[2026-09-20 15:48:48] ✅ 测速成功: http://61.221.215.25:8800/hls/9/index.m3u8
-   速度: 250.98KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.34s
-[2026-09-20 15:48:49] ⚠️ 仅读取 0.8KB 数据: http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-[2026-09-20 15:48:49] ✅ 测速成功: http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-   速度: 808.59KB/s > 50KB/s | 数据量: 0.8KB | 总耗时: 0.68s
-[2026-09-20 15:48:49] ⚠️ 仅读取 0.5KB 数据: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LRвҖўIPV4гҖҺзәҝи·Ҝ8гҖҸ
-[2026-09-20 15:48:49] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LRвҖўIPV4гҖҺзәҝи·Ҝ8гҖҸ
-   速度: 546.88KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.29s
-[2026-09-20 15:48:49] ⚠️ 仅读取 0.4KB 数据: https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-[2026-09-20 15:48:49] ✅ 测速成功: https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+[2026-09-21 04:16:13] ⚠️ 仅读取 0.3KB 数据: http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+[2026-09-21 04:16:13] ✅ 测速成功: http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+   速度: 328.12KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.51s
+[2026-09-21 04:16:14] ⚠️ 仅读取 0.1KB 数据: https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+[2026-09-21 04:16:14] ✅ 测速成功: https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+   速度: 149.41KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 0.87s
+[2026-09-21 04:16:14] ⚠️ 仅读取 0.3KB 数据: http://utv1.hqtvzb.com:9999/hls/world.m3u8
+[2026-09-21 04:16:14] ✅ 测速成功: http://utv1.hqtvzb.com:9999/hls/world.m3u8
+   速度: 278.32KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.70s
+[2026-09-21 04:16:16] ⚠️ 仅读取 0.1KB 数据: https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+[2026-09-21 04:16:16] ✅ 测速成功: https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+   速度: 134.77KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.87s
+[2026-09-21 04:16:16] ⚠️ 仅读取 0.2KB 数据: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+[2026-09-21 04:16:16] ✅ 测速成功: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+   速度: 227.54KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.13s
+[2026-09-21 04:16:17] ⚠️ 仅读取 0.3KB 数据: http://61.221.215.25:8800/hls/9/index.m3u8
+[2026-09-21 04:16:17] ✅ 测速成功: http://61.221.215.25:8800/hls/9/index.m3u8
+   速度: 250.98KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.35s
+[2026-09-21 04:16:18] ⚠️ 仅读取 0.8KB 数据: http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+[2026-09-21 04:16:18] ✅ 测速成功: http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+   速度: 808.59KB/s > 50KB/s | 数据量: 0.8KB | 总耗时: 1.01s
+[2026-09-21 04:16:18] ⚠️ 仅读取 0.5KB 数据: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LRвҖўIPV4гҖҺзәҝи·Ҝ8гҖҸ
+[2026-09-21 04:16:18] ✅ 测速成功: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LRвҖўIPV4гҖҺзәҝи·Ҝ8гҖҸ
+   速度: 546.88KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.11s
+[2026-09-21 04:16:18] ⚠️ 仅读取 0.4KB 数据: https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+[2026-09-21 04:16:18] ✅ 测速成功: https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
    速度: 379.88KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.31s
-[2026-09-20 15:48:50] ⚠️ 仅读取 0.3KB 数据: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-[2026-09-20 15:48:50] ✅ 测速成功: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-   速度: 309.57KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.73s
-[2026-09-20 15:48:50] ⚠️ 仅读取 0.7KB 数据: https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-[2026-09-20 15:48:50] ✅ 测速成功: https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-   速度: 700.20KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.20s
-[2026-09-20 15:48:50] ⚠️ 仅读取 0.8KB 数据: https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-[2026-09-20 15:48:50] ✅ 测速成功: https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-   速度: 802.73KB/s > 50KB/s | 数据量: 0.8KB | 总耗时: 0.30s
-[2026-09-20 15:48:51] ⚠️ 仅读取 5.1KB 数据: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-[2026-09-20 15:48:51] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s > 50KB/s | 数据量: 5.1KB | 总耗时: 0.11s
-[2026-09-20 15:48:51] ⚠️ 仅读取 0.5KB 数据: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-[2026-09-20 15:48:51] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-   速度: 546.88KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.28s
-[2026-09-20 15:48:51] ⚠️ 仅读取 41.1KB 数据: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-[2026-09-20 15:48:51] ✅ 测速成功: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-   速度: 41098.63KB/s > 50KB/s | 数据量: 41.1KB | 总耗时: 0.47s
-[2026-09-20 15:48:51] ❌ 测速失败: http://iptv.4666888.xyz/iptv2A.php?id=7
+[2026-09-21 04:16:19] ⚠️ 仅读取 0.3KB 数据: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+[2026-09-21 04:16:19] ✅ 测速成功: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+   速度: 309.57KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.77s
+[2026-09-21 04:16:19] ⚠️ 仅读取 0.7KB 数据: https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+[2026-09-21 04:16:19] ✅ 测速成功: https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+   速度: 700.20KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.14s
+[2026-09-21 04:16:19] ⚠️ 仅读取 0.8KB 数据: https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+[2026-09-21 04:16:19] ✅ 测速成功: https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+   速度: 802.73KB/s > 50KB/s | 数据量: 0.8KB | 总耗时: 0.23s
+[2026-09-21 04:16:19] ⚠️ 仅读取 5.1KB 数据: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+[2026-09-21 04:16:19] ✅ 测速成功: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s > 50KB/s | 数据量: 5.1KB | 总耗时: 0.10s
+[2026-09-21 04:16:20] ⚠️ 仅读取 0.5KB 数据: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+[2026-09-21 04:16:20] ✅ 测速成功: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+   速度: 546.88KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.29s
+[2026-09-21 04:16:20] ⚠️ 仅读取 41.1KB 数据: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+[2026-09-21 04:16:20] ✅ 测速成功: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+   速度: 41098.63KB/s > 50KB/s | 数据量: 41.1KB | 总耗时: 0.15s
+[2026-09-21 04:16:20] ❌ 测速失败: http://iptv.4666888.xyz/iptv2A.php?id=7
    错误: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) | 域名: iptv.4666888.xyz:80
-[2026-09-20 15:48:52] ⚠️ 仅读取 3.4KB 数据: https://o11.163189.xyz/stream/tvb/tvbp/
-[2026-09-20 15:48:52] ✅ 测速成功: https://o11.163189.xyz/stream/tvb/tvbp/
-   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.96s
-[2026-09-20 15:48:53] ⚠️ 仅读取 0.3KB 数据: http://r.jdshipin.com/Voac4
-[2026-09-20 15:48:53] ✅ 测速成功: http://r.jdshipin.com/Voac4
-   速度: 263.67KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.43s
-[2026-09-20 15:48:53] ⚠️ 仅读取 3.4KB 数据: https://cdn.163189.xyz/163189/viu
-[2026-09-20 15:48:53] ✅ 测速成功: https://cdn.163189.xyz/163189/viu
-   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.31s
-[2026-09-20 15:48:53] ⚠️ 仅读取 3.4KB 数据: http://cdn.163189.xyz/163189/rthk32
-[2026-09-20 15:48:53] ✅ 测速成功: http://cdn.163189.xyz/163189/rthk32
-   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.13s
-[2026-09-20 15:48:58] ❌ 测速失败: https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
+[2026-09-21 04:16:21] ⚠️ 仅读取 3.4KB 数据: https://o11.163189.xyz/stream/tvb/tvbp/
+[2026-09-21 04:16:21] ✅ 测速成功: https://o11.163189.xyz/stream/tvb/tvbp/
+   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 1.09s
+[2026-09-21 04:16:23] ⚠️ 仅读取 0.3KB 数据: http://r.jdshipin.com/Voac4
+[2026-09-21 04:16:23] ✅ 测速成功: http://r.jdshipin.com/Voac4
+   速度: 263.67KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.45s
+[2026-09-21 04:16:23] ⚠️ 仅读取 3.4KB 数据: https://cdn.163189.xyz/163189/viu
+[2026-09-21 04:16:23] ✅ 测速成功: https://cdn.163189.xyz/163189/viu
+   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.46s
+[2026-09-21 04:16:23] ⚠️ 仅读取 3.4KB 数据: http://cdn.163189.xyz/163189/rthk32
+[2026-09-21 04:16:23] ✅ 测速成功: http://cdn.163189.xyz/163189/rthk32
+   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.12s
+[2026-09-21 04:16:28] ❌ 测速失败: https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
    错误: HTTPSConnectionPool(host='stream1.freetv.fun', port=443): Read timed out. (read timeout=5) | 域名: stream1.freetv.fun:443
-[2026-09-20 15:49:02] ⚠️ 仅读取 7.0KB 数据: https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-[2026-09-20 15:49:02] ✅ 测速成功: https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-   速度: 7019.53KB/s > 50KB/s | 数据量: 7.0KB | 总耗时: 3.67s
-[2026-09-20 15:49:03] ⚠️ 仅读取 3.4KB 数据: https://cdn8.163189.xyz/163189/lhdy
-[2026-09-20 15:49:03] ✅ 测速成功: https://cdn8.163189.xyz/163189/lhdy
-   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.56s
-[2026-09-20 15:49:04] ⚠️ 仅读取 1.2KB 数据: http://feilong123.vip/409990236/tv.php?id=ssdy
-[2026-09-20 15:49:04] ✅ 测速成功: http://feilong123.vip/409990236/tv.php?id=ssdy
-   速度: 1202.15KB/s > 50KB/s | 数据量: 1.2KB | 总耗时: 1.39s
-[2026-09-20 15:49:04] ⚠️ 仅读取 3.4KB 数据: https://cdn6.163189.xyz/163189/fct4k
-[2026-09-20 15:49:04] ✅ 测速成功: https://cdn6.163189.xyz/163189/fct4k
-   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.23s
-[2026-09-20 15:49:04] ⚠️ 仅读取 3.4KB 数据: http://cdn6.163189.xyz/163189/amty
-[2026-09-20 15:49:04] ✅ 测速成功: http://cdn6.163189.xyz/163189/amty
-   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.13s
-[2026-09-20 15:49:05] ⚠️ 仅读取 4.7KB 数据: http://tl.061833.xyz/tl/popc
-[2026-09-20 15:49:05] ✅ 测速成功: http://tl.061833.xyz/tl/popc
-   速度: 4715.82KB/s > 50KB/s | 数据量: 4.7KB | 总耗时: 0.39s
-[2026-09-20 15:49:09] ⚠️ 仅读取 0.3KB 数据: http://8.138.7.223/tv/cwjd.php
-[2026-09-20 15:49:09] ✅ 测速成功: http://8.138.7.223/tv/cwjd.php
-   速度: 334.96KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 4.41s
-[2026-09-20 15:49:09] ⚠️ 仅读取 6.3KB 数据: http://mytv.cdn.loc.cc/o12.php?id=fct
-[2026-09-20 15:49:09] ✅ 测速成功: http://mytv.cdn.loc.cc/o12.php?id=fct
-   速度: 6302.73KB/s > 50KB/s | 数据量: 6.3KB | 总耗时: 0.03s
-[2026-09-20 15:49:10] ❌ 测速失败: https://6.cdn.loc.cc/163189.php?id=tvbd
+[2026-09-21 04:16:32] ⚠️ 仅读取 7.0KB 数据: https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+[2026-09-21 04:16:32] ✅ 测速成功: https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+   速度: 7020.51KB/s > 50KB/s | 数据量: 7.0KB | 总耗时: 3.29s
+[2026-09-21 04:16:33] ⚠️ 仅读取 4.2KB 数据: https://cdn8.163189.xyz/163189/lhdy
+[2026-09-21 04:16:33] ✅ 测速成功: https://cdn8.163189.xyz/163189/lhdy
+   速度: 4159.18KB/s > 50KB/s | 数据量: 4.2KB | 总耗时: 0.93s
+[2026-09-21 04:16:34] ⚠️ 仅读取 1.2KB 数据: http://feilong123.vip/409990236/tv.php?id=ssdy
+[2026-09-21 04:16:34] ✅ 测速成功: http://feilong123.vip/409990236/tv.php?id=ssdy
+   速度: 1202.15KB/s > 50KB/s | 数据量: 1.2KB | 总耗时: 1.69s
+[2026-09-21 04:16:35] ⚠️ 仅读取 3.4KB 数据: https://cdn6.163189.xyz/163189/fct4k
+[2026-09-21 04:16:35] ✅ 测速成功: https://cdn6.163189.xyz/163189/fct4k
+   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.24s
+[2026-09-21 04:16:35] ⚠️ 仅读取 3.4KB 数据: http://cdn6.163189.xyz/163189/amty
+[2026-09-21 04:16:35] ✅ 测速成功: http://cdn6.163189.xyz/163189/amty
+   速度: 3429.69KB/s > 50KB/s | 数据量: 3.4KB | 总耗时: 0.11s
+[2026-09-21 04:16:35] ⚠️ 仅读取 4.7KB 数据: http://tl.061833.xyz/tl/popc
+[2026-09-21 04:16:35] ✅ 测速成功: http://tl.061833.xyz/tl/popc
+   速度: 4716.80KB/s > 50KB/s | 数据量: 4.7KB | 总耗时: 0.56s
+[2026-09-21 04:16:38] ⚠️ 仅读取 0.3KB 数据: http://8.138.7.223/tv/cwjd.php
+[2026-09-21 04:16:38] ✅ 测速成功: http://8.138.7.223/tv/cwjd.php
+   速度: 333.98KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.38s
+[2026-09-21 04:16:38] ⚠️ 仅读取 6.3KB 数据: http://mytv.cdn.loc.cc/o12.php?id=fct
+[2026-09-21 04:16:38] ✅ 测速成功: http://mytv.cdn.loc.cc/o12.php?id=fct
+   速度: 6303.71KB/s > 50KB/s | 数据量: 6.3KB | 总耗时: 0.04s
+[2026-09-21 04:16:38] ❌ 测速失败: https://6.cdn.loc.cc/163189.php?id=tvbd
    错误: HTTPSConnectionPool(host='6.cdn.loc.cc', port=443): Max retries exceeded with url: /163189.php?id=tvbd (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1147)'))) | 域名: 6.cdn.loc.cc:443
-[2026-09-20 15:49:20] ❌ 测速失败: https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-   错误: HTTPSConnectionPool(host='live3.tdm.com.mo', port=443): Max retries exceeded with url: /ch3/ch3.live/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='live3.tdm.com.mo', port=443) at 0x7f3e3a3c1b80>, 'Connection to live3.tdm.com.mo timed out. (connect timeout=3.05)')) | 域名: live3.tdm.com.mo:443
-[2026-09-20 15:49:21] ✅ 测速成功: http://211.72.174.95:8138/0.ts
-   速度: 186.12KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 0.90s
-[2026-09-20 15:49:22] ✅ 测速成功: http://211.72.174.95:8115/0.ts
-   速度: 175.34KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 0.94s
-[2026-09-20 15:49:23] ✅ 测速成功: http://211.72.174.95:8117/0.ts
-   速度: 153.12KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.02s
-[2026-09-20 15:49:24] ✅ 测速成功: http://211.72.174.95:8113/0.ts
-   速度: 183.43KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 0.91s
-[2026-09-20 15:49:25] ✅ 测速成功: http://211.72.174.95:8114/0.ts
-   速度: 154.16KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.02s
-[2026-09-20 15:49:26] ✅ 测速成功: http://211.72.174.95:8116/0.ts
-   速度: 200.76KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 0.87s
-[2026-09-20 15:49:27] ✅ 测速成功: http://211.72.174.95:8112/0.ts
-   速度: 156.36KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.01s
-[2026-09-20 15:49:27] ⚠️ 仅读取 0.7KB 数据: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-[2026-09-20 15:49:27] ✅ 测速成功: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+[2026-09-21 04:16:48] ❌ 测速失败: https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+   错误: HTTPSConnectionPool(host='live3.tdm.com.mo', port=443): Max retries exceeded with url: /ch3/ch3.live/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='live3.tdm.com.mo', port=443) at 0x7f387edacd60>, 'Connection to live3.tdm.com.mo timed out. (connect timeout=3.05)')) | 域名: live3.tdm.com.mo:443
+[2026-09-21 04:16:49] ✅ 测速成功: http://211.72.174.95:8138/0.ts
+   速度: 143.30KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.08s
+[2026-09-21 04:16:50] ✅ 测速成功: http://211.72.174.95:8115/0.ts
+   速度: 144.44KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.07s
+[2026-09-21 04:16:51] ✅ 测速成功: http://211.72.174.95:8117/0.ts
+   速度: 149.14KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.04s
+[2026-09-21 04:16:52] ✅ 测速成功: http://211.72.174.95:8113/0.ts
+   速度: 148.87KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.04s
+[2026-09-21 04:16:53] ✅ 测速成功: http://211.72.174.95:8114/0.ts
+   速度: 158.22KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.00s
+[2026-09-21 04:16:54] ✅ 测速成功: http://211.72.174.95:8116/0.ts
+   速度: 155.54KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.02s
+[2026-09-21 04:16:55] ✅ 测速成功: http://211.72.174.95:8112/0.ts
+   速度: 122.02KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.21s
+[2026-09-21 04:16:56] ⚠️ 仅读取 0.7KB 数据: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+[2026-09-21 04:16:56] ✅ 测速成功: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
    速度: 712.89KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.26s
-[2026-09-20 15:49:27] ⚠️ 仅读取 0.5KB 数据: https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-[2026-09-20 15:49:27] ✅ 测速成功: https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-   速度: 548.83KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.25s
-[2026-09-20 15:49:27] ⚠️ 仅读取 49.6KB 数据: https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-[2026-09-20 15:49:27] ✅ 测速成功: https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-   速度: 10619.45KB/s > 50KB/s | 数据量: 49.6KB | 总耗时: 0.26s
-[2026-09-20 15:49:28] ⚠️ 仅读取 0.9KB 数据: https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-[2026-09-20 15:49:28] ✅ 测速成功: https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-   速度: 892.58KB/s > 50KB/s | 数据量: 0.9KB | 总耗时: 0.47s
-[2026-09-20 15:49:28] ⚠️ 仅读取 0.6KB 数据: https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-[2026-09-20 15:49:28] ✅ 测速成功: https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-   速度: 579.10KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 0.09s
-[2026-09-20 15:49:33] ❌ 测速失败: http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+[2026-09-21 04:16:56] ⚠️ 仅读取 0.5KB 数据: https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+[2026-09-21 04:16:56] ✅ 测速成功: https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+   速度: 548.83KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.27s
+[2026-09-21 04:16:56] ⚠️ 仅读取 49.6KB 数据: https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+[2026-09-21 04:16:56] ✅ 测速成功: https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+   速度: 14361.88KB/s > 50KB/s | 数据量: 49.6KB | 总耗时: 0.17s
+[2026-09-21 04:16:56] ⚠️ 仅读取 0.9KB 数据: https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+[2026-09-21 04:16:56] ✅ 测速成功: https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+   速度: 892.58KB/s > 50KB/s | 数据量: 0.9KB | 总耗时: 0.31s
+[2026-09-21 04:16:57] ⚠️ 仅读取 0.6KB 数据: https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+[2026-09-21 04:16:57] ✅ 测速成功: https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+   速度: 579.10KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 0.29s
+[2026-09-21 04:17:02] ❌ 测速失败: http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
    错误: HTTPConnectionPool(host='lb.streaming.sk', port=80): Read timed out. (read timeout=5) | 域名: lb.streaming.sk:80
-[2026-09-20 15:49:34] ⚠️ 仅读取 0.4KB 数据: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-[2026-09-20 15:49:34] ✅ 测速成功: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-   速度: 443.36KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.75s
-[2026-09-20 15:49:36] ⚠️ 仅读取 0.1KB 数据: http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
-[2026-09-20 15:49:36] ✅ 测速成功: http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
-   速度: 103.52KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.53s
-[2026-09-20 15:49:37] ⚠️ 仅读取 0.1KB 数据: https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-[2026-09-20 15:49:37] ✅ 测速成功: https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-   速度: 123.05KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.38s
-[2026-09-20 15:49:38] ⚠️ 仅读取 0.1KB 数据: http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-[2026-09-20 15:49:38] ✅ 测速成功: http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-   速度: 128.91KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.10s
-[2026-09-20 15:49:40] ⚠️ 仅读取 0.4KB 数据: https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-[2026-09-20 15:49:40] ✅ 测速成功: https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-   速度: 422.85KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.11s
-[2026-09-20 15:49:42] ⚠️ 仅读取 0.4KB 数据: http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-[2026-09-20 15:49:42] ✅ 测速成功: http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.54s
-[2026-09-20 15:49:43] ⚠️ 仅读取 0.1KB 数据: https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-[2026-09-20 15:49:43] ✅ 测速成功: https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-   速度: 147.46KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.20s
-[2026-09-20 15:49:43] ⚠️ 仅读取 0.5KB 数据: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-[2026-09-20 15:49:43] ✅ 测速成功: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-   速度: 450.20KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.16s
-[2026-09-20 15:49:43] ⚠️ 仅读取 0.5KB 数据: https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-[2026-09-20 15:49:43] ✅ 测速成功: https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-   速度: 452.15KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.21s
-[2026-09-20 15:49:44] ⚠️ 仅读取 0.5KB 数据: https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-[2026-09-20 15:49:44] ✅ 测速成功: https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-   速度: 452.15KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.20s
-[2026-09-20 15:49:44] ⚠️ 仅读取 0.0KB 数据: http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-[2026-09-20 15:49:44] ⚠️ 速度不足: http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.33s
-[2026-09-20 15:49:45] ⚠️ 仅读取 0.4KB 数据: https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-[2026-09-20 15:49:45] ✅ 测速成功: https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-   速度: 377.93KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.22s
-[2026-09-20 15:49:47] ⚠️ 仅读取 0.3KB 数据: https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-[2026-09-20 15:49:47] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-   速度: 297.85KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.56s
-[2026-09-20 15:49:48] ⚠️ 仅读取 0.3KB 数据: https://event.pull.hebtv.com:443/live/live101.m3u8
-[2026-09-20 15:49:48] ✅ 测速成功: https://event.pull.hebtv.com:443/live/live101.m3u8
-   速度: 339.84KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.32s
-[2026-09-20 15:49:50] ⚠️ 仅读取 0.3KB 数据: https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-[2026-09-20 15:49:50] ✅ 测速成功: https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-   速度: 300.78KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.28s
-[2026-09-20 15:49:51] ⚠️ 仅读取 0.3KB 数据: http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-[2026-09-20 15:49:51] ✅ 测速成功: http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-   速度: 300.78KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.91s
-[2026-09-20 15:49:51] ⚠️ 仅读取 0.2KB 数据: http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-[2026-09-20 15:49:51] ✅ 测速成功: http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+[2026-09-21 04:17:03] ⚠️ 仅读取 0.4KB 数据: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+[2026-09-21 04:17:03] ✅ 测速成功: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+   速度: 443.36KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.73s
+[2026-09-21 04:17:06] ⚠️ 仅读取 0.1KB 数据: http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+[2026-09-21 04:17:06] ✅ 测速成功: http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+   速度: 103.52KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 2.44s
+[2026-09-21 04:17:07] ⚠️ 仅读取 0.1KB 数据: https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+[2026-09-21 04:17:07] ✅ 测速成功: https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+   速度: 123.05KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.30s
+[2026-09-21 04:17:08] ⚠️ 仅读取 0.1KB 数据: http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+[2026-09-21 04:17:08] ✅ 测速成功: http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+   速度: 128.91KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.33s
+[2026-09-21 04:17:11] ⚠️ 仅读取 0.4KB 数据: https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+[2026-09-21 04:17:11] ✅ 测速成功: https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+   速度: 422.85KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.71s
+[2026-09-21 04:17:11] ⚠️ 仅读取 0.4KB 数据: http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-09-21 04:17:11] ✅ 测速成功: http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2026-09-21 04:17:13] ⚠️ 仅读取 0.1KB 数据: https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+[2026-09-21 04:17:13] ✅ 测速成功: https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+   速度: 146.48KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.23s
+[2026-09-21 04:17:13] ⚠️ 仅读取 0.5KB 数据: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+[2026-09-21 04:17:13] ✅ 测速成功: https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+   速度: 452.15KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.30s
+[2026-09-21 04:17:13] ⚠️ 仅读取 0.5KB 数据: https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+[2026-09-21 04:17:13] ✅ 测速成功: https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+   速度: 450.20KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.20s
+[2026-09-21 04:17:13] ⚠️ 仅读取 0.5KB 数据: https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+[2026-09-21 04:17:13] ✅ 测速成功: https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+   速度: 452.15KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.30s
+[2026-09-21 04:17:14] ⚠️ 仅读取 0.0KB 数据: http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+[2026-09-21 04:17:14] ⚠️ 速度不足: http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+   速度: 0.00KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.35s
+[2026-09-21 04:17:15] ⚠️ 仅读取 0.4KB 数据: https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+[2026-09-21 04:17:15] ✅ 测速成功: https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+   速度: 377.93KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.12s
+[2026-09-21 04:17:16] ⚠️ 仅读取 0.3KB 数据: https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+[2026-09-21 04:17:16] ✅ 测速成功: https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+   速度: 297.85KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.29s
+[2026-09-21 04:17:17] ⚠️ 仅读取 0.3KB 数据: https://event.pull.hebtv.com:443/live/live101.m3u8
+[2026-09-21 04:17:17] ✅ 测速成功: https://event.pull.hebtv.com:443/live/live101.m3u8
+   速度: 339.84KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.27s
+[2026-09-21 04:17:19] ⚠️ 仅读取 0.3KB 数据: https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+[2026-09-21 04:17:19] ✅ 测速成功: https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+   速度: 300.78KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.01s
+[2026-09-21 04:17:20] ⚠️ 仅读取 0.3KB 数据: http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+[2026-09-21 04:17:20] ✅ 测速成功: http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+   速度: 300.78KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.71s
+[2026-09-21 04:17:20] ⚠️ 仅读取 0.2KB 数据: http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+[2026-09-21 04:17:20] ✅ 测速成功: http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
    速度: 205.08KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.14s
-[2026-09-20 15:49:52] ⚠️ 仅读取 0.4KB 数据: http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-[2026-09-20 15:49:52] ✅ 测速成功: http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 408.20KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.42s
-[2026-09-20 15:49:52] ⚠️ 仅读取 0.2KB 数据: http://112.46.105.20:8009/hls/501/index.m3u8
-[2026-09-20 15:49:52] ✅ 测速成功: http://112.46.105.20:8009/hls/501/index.m3u8
-   速度: 228.52KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-09-20 15:49:53] ⚠️ 仅读取 0.3KB 数据: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-[2026-09-20 15:49:53] ✅ 测速成功: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-   速度: 291.99KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.09s
-[2026-09-20 15:49:55] ⚠️ 仅读取 0.4KB 数据: http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
-[2026-09-20 15:49:55] ✅ 测速成功: http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
-   速度: 433.59KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.27s
-[2026-09-20 15:49:55] ⚠️ 仅读取 0.1KB 数据: https://0472.org/hls/cgtn.m3u8
-[2026-09-20 15:49:55] ✅ 测速成功: https://0472.org/hls/cgtn.m3u8
-   速度: 125.98KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 0.30s
-[2026-09-20 15:49:55] ⚠️ 仅读取 0.2KB 数据: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-[2026-09-20 15:49:55] ✅ 测速成功: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-   速度: 221.68KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.37s
-[2026-09-20 15:49:56] ⚠️ 仅读取 0.4KB 数据: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-[2026-09-20 15:49:56] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-   速度: 416.99KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.58s
-[2026-09-20 15:49:56] ⚠️ 仅读取 0.2KB 数据: http://107.150.60.122/live/cctv4k.m3u8
-[2026-09-20 15:49:56] ✅ 测速成功: http://107.150.60.122/live/cctv4k.m3u8
-   速度: 194.34KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.11s
-[2026-09-20 15:49:57] ⚠️ 仅读取 0.3KB 数据: https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-[2026-09-20 15:49:57] ✅ 测速成功: https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-   速度: 288.09KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.76s
-[2026-09-20 15:49:58] ⚠️ 仅读取 0.8KB 数据: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-[2026-09-20 15:49:58] ✅ 测速成功: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-   速度: 833.01KB/s > 50KB/s | 数据量: 0.8KB | 总耗时: 0.98s
-[2026-09-20 15:49:59] ⚠️ 仅读取 0.3KB 数据: https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-[2026-09-20 15:49:59] ✅ 测速成功: https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-   速度: 288.09KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.84s
-[2026-09-20 15:50:01] ⚠️ 仅读取 0.3KB 数据: https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-[2026-09-20 15:50:01] ✅ 测速成功: https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-   速度: 266.60KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 2.23s
-[2026-09-20 15:50:04] ⚠️ 仅读取 0.1KB 数据: http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-[2026-09-20 15:50:04] ✅ 测速成功: http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-   速度: 148.44KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 3.43s
-[2026-09-20 15:50:05] ⚠️ 仅读取 0.0KB 数据: http://166.0.198.156:5053/608807420
-[2026-09-20 15:50:05] ⚠️ 速度不足: http://166.0.198.156:5053/608807420
+[2026-09-21 04:17:21] ⚠️ 仅读取 0.4KB 数据: http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-09-21 04:17:21] ✅ 测速成功: http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.44s
+[2026-09-21 04:17:21] ⚠️ 仅读取 0.2KB 数据: http://112.46.105.20:8009/hls/501/index.m3u8
+[2026-09-21 04:17:21] ✅ 测速成功: http://112.46.105.20:8009/hls/501/index.m3u8
+   速度: 229.49KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.44s
+[2026-09-21 04:17:22] ⚠️ 仅读取 0.3KB 数据: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+[2026-09-21 04:17:22] ✅ 测速成功: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+   速度: 291.99KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.30s
+[2026-09-21 04:17:23] ⚠️ 仅读取 0.4KB 数据: http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
+[2026-09-21 04:17:23] ✅ 测速成功: http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
+   速度: 433.59KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.64s
+[2026-09-21 04:17:23] ⚠️ 仅读取 0.1KB 数据: https://0472.org/hls/cgtn.m3u8
+[2026-09-21 04:17:23] ✅ 测速成功: https://0472.org/hls/cgtn.m3u8
+   速度: 125.98KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 0.20s
+[2026-09-21 04:17:24] ⚠️ 仅读取 0.2KB 数据: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+[2026-09-21 04:17:24] ✅ 测速成功: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+   速度: 221.68KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.39s
+[2026-09-21 04:17:24] ⚠️ 仅读取 0.4KB 数据: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+[2026-09-21 04:17:24] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+   速度: 416.99KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.55s
+[2026-09-21 04:17:24] ⚠️ 仅读取 0.2KB 数据: http://107.150.60.122/live/cctv4k.m3u8
+[2026-09-21 04:17:24] ✅ 测速成功: http://107.150.60.122/live/cctv4k.m3u8
+   速度: 198.24KB/s > 50KB/s | 数据量: 0.2KB | 总耗时: 0.12s
+[2026-09-21 04:17:25] ⚠️ 仅读取 0.3KB 数据: https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+[2026-09-21 04:17:25] ✅ 测速成功: https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+   速度: 285.16KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.43s
+[2026-09-21 04:17:26] ⚠️ 仅读取 0.8KB 数据: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+[2026-09-21 04:17:26] ✅ 测速成功: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+   速度: 833.01KB/s > 50KB/s | 数据量: 0.8KB | 总耗时: 1.04s
+[2026-09-21 04:17:27] ⚠️ 仅读取 0.3KB 数据: https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+[2026-09-21 04:17:27] ✅ 测速成功: https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+   速度: 288.09KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.88s
+[2026-09-21 04:17:28] ⚠️ 仅读取 0.3KB 数据: https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+[2026-09-21 04:17:28] ✅ 测速成功: https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+   速度: 266.60KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 1.73s
+[2026-09-21 04:17:31] ⚠️ 仅读取 0.1KB 数据: http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
+[2026-09-21 04:17:31] ✅ 测速成功: http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
+   速度: 148.44KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 2.67s
+[2026-09-21 04:17:31] ⚠️ 仅读取 0.0KB 数据: http://166.0.198.156:5053/608807420
+[2026-09-21 04:17:31] ⚠️ 速度不足: http://166.0.198.156:5053/608807420
    速度: 16.60KB/s <= 50KB/s | 数据量: 0.0KB | 总耗时: 0.33s
