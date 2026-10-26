@@ -72,8 +72,8 @@ CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
-CCTV4K,http://home.amucn.net:8800/udp/239.49.0.82:8000
 CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
+CCTV4K,http://home.amucn.net:8800/udp/239.49.0.82:8000
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -141,6 +141,7 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 东方卫视,http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://111.61.236.247:9081/hls/40/index.m3u8
@@ -642,7 +643,6 @@ wedotv Movies,http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=13
 宝丰1,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 封丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
 屈原融媒体,https://liveplay-srs.voc.com.cn/hls/tv/167_0d6151.m3u8
-屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 岷县电视台,http://play.kankanlive.com/live/1672715401874967.m3u8
 岷县电视台,http://play.kankanlive.com/live/1672715401874967.flv
 嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -785,6 +785,7 @@ wedotv Movies,http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=13
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+郑州教育,https://livezzutv.chinamcache.com/live/zb02.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 金光布袋戲,http://hitv.airinf.eu.org:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live144&cid=236
 金川电视台,http://play.kankanlive.com/live/1657360567739997.m3u8
