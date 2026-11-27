@@ -210,13 +210,13 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="CCTV17.png" group-title="央视",CCTV17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
-http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
-http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="CCTV4K.png" group-title="央视",CCTV4K
+http://107.150.60.122/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="CCTV8K.png" group-title="央视",CCTV8K
+http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="CETV1.png" group-title="央视",CETV1
 http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="74" tvg-name="CETV2" tvg-logo="CETV2.png" group-title="央视",CETV2
@@ -714,13 +714,13 @@ http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv17&c
 #EXTINF:-1 tvg-id="" tvg-name="經典卡通" tvg-logo="經典卡通.png" group-title="asia",經典卡通
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-live022&cid=202
 #EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv041&cid=6
-#EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
 http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv052&cid=34
+#EXTINF:-1 tvg-id="1453" tvg-name="华视" tvg-logo="华视.png" group-title="asia",华视
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv041&cid=6
 #EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
 http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 tvg-id="217" tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="asia",华视新闻
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv052&cid=34
 #EXTINF:-1 tvg-id="" tvg-name="华视教育文化" tvg-logo="华视教育文化.png" group-title="asia",华视教育文化
 http://74.91.26.218:82/live/ctsjy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="寰宇财经台" tvg-logo="寰宇财经台.png" group-title="asia",寰宇财经台
@@ -786,19 +786,19 @@ http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=nnews-zh
 #EXTINF:-1 tvg-id="1769" tvg-name="民视" tvg-logo="民视.png" group-title="asia",民视
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv002&cid=3
 #EXTINF:-1 tvg-id="1767" tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="asia",民视第一台
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
-#EXTINF:-1 tvg-id="1767" tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="asia",民视第一台
 http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 tvg-id="1767" tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="asia",民视第一台
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv003&cid=1
 #EXTINF:-1 tvg-id="" tvg-name="民视旅游" tvg-logo="民视旅游.png" group-title="asia",民视旅游
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv07&cid=61
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv001&cid=2
-#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
 http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv13&cid=31
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="asia",民视台湾
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv001&cid=2
 #EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
 http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 tvg-id="1493" tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="asia",民视新闻
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv13&cid=31
 #EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="民视影剧.png" group-title="asia",民视影剧
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv09&cid=24
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="民视综艺.png" group-title="asia",民视综艺
@@ -834,17 +834,17 @@ http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=litv-ftv15&c
 #EXTINF:-1 tvg-id="" tvg-name="原住民族電視台" tvg-logo="原住民族電視台.png" group-title="asia",原住民族電視台
 http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv080&cid=124
 #EXTINF:-1 tvg-id="1451" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv040&cid=4
-#EXTINF:-1 tvg-id="1451" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
 http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 tvg-id="1451" tvg-name="中视" tvg-logo="中视.png" group-title="asia",中视
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv040&cid=4
 #EXTINF:-1 tvg-id="1797" tvg-name="中视经典" tvg-logo="中视经典.png" group-title="asia",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-id="1770" tvg-name="中视菁采" tvg-logo="中视菁采.png" group-title="asia",中视菁采
 http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
-http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv074&cid=33
-#EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 tvg-id="1801" tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="asia",中视新闻
+http://166.0.198.156:5051/post/index.m3u8?proxy=true&token=1314&pid=4gtv-4gtv074&cid=33
 #EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="244" tvg-name="DW" tvg-logo="DW.png" group-title="asia",DW
@@ -1311,14 +1311,16 @@ http://play.kankanlive.com/live/1675303983674929.flv
 https://play.kankanlive.com/live/1675303871634928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="定西综合" group-title="其他",定西综合
 http://play.kankanlive.com/live/1675303871634928.flv
+#EXTINF:-1 tvg-id="" tvg-name="宜昌旅游生活" group-title="其他",宜昌旅游生活
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宜昌综合" group-title="其他",宜昌综合
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宝丰1" group-title="其他",宝丰1
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="封丘新闻综合" group-title="其他",封丘新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="屈原融媒体" group-title="其他",屈原融媒体
 https://liveplay-srs.voc.com.cn/hls/tv/167_0d6151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="屯留电视台" group-title="其他",屯留电视台
-https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="岷县电视台" group-title="其他",岷县电视台
 http://play.kankanlive.com/live/1672715401874967.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="岷县电视台" group-title="其他",岷县电视台
@@ -1425,8 +1427,6 @@ https://play.kankanlive.com/live/1652755738635915.m3u8
 https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="汝阳新闻综合" group-title="其他",汝阳新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江津新闻综合" group-title="其他",江津新闻综合
-http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视超清" group-title="其他",江苏卫视超清
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/01.m3u8?msisdn=648736e164919a1e9a05425e76e32bba&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20261126111551&Channel_ID=0116_2600034600-99000-201600010084637&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=125.211.195.159&SecurityKey=20261126111551&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=2c04259836d1313c8fbdbd04acb9e98c&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e4b294971c93ff29d112b8a87166c331
 #EXTINF:-1 tvg-id="" tvg-name="汤阴综合" group-title="其他",汤阴综合
@@ -1501,10 +1501,18 @@ http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视超清" group-title="其他",湖北卫视超清
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8?msisdn=f75aed1b9070bba93e5356b0891bb2fe&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20261126111130&Channel_ID=0116_2600034600-99000-201600010092460&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=125.211.195.151&SecurityKey=20261126111130&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=01cd28d57d546f2d7fcd68ffcbde22b8&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e27d89a21ece4c14a00851a5208f1209
+#EXTINF:-1 tvg-id="" tvg-name="湖州公共频道" group-title="其他",湖州公共频道
+http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+#EXTINF:-1 tvg-id="" tvg-name="湖州文化娱乐" group-title="其他",湖州文化娱乐
+http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+#EXTINF:-1 tvg-id="" tvg-name="湖州新闻综合" group-title="其他",湖州新闻综合
+http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 #EXTINF:-1 tvg-id="" tvg-name="滑县TV1" group-title="其他",滑县TV1
 http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="滑县TV2" group-title="其他",滑县TV2
 http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊科教文化" group-title="其他",潍坊科教文化
+http://pullwftv.wftvqcm.com/live/wf4pda.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="潢川电视台" group-title="其他",潢川电视台
 http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="灣聲線上音樂廳" group-title="其他",灣聲線上音樂廳
@@ -1623,6 +1631,8 @@ https://play.kankanlive.com/live/1658390970673988.m3u8
 https://play.kankanlive.com/live/1658194434596952.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="项城电视台" group-title="其他",项城电视台
 http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="顺义电视台" group-title="其他",顺义电视台
+https://livebjsy.chinamcache.com/live/zb02.flv
 #EXTINF:-1 tvg-id="" tvg-name="龙山综合" group-title="其他",龙山综合
 https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龙泉电视台" group-title="其他",龙泉电视台
